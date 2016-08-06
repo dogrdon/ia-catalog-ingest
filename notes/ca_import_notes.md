@@ -46,7 +46,7 @@
 
 I get the gist now of how the data mapping works, but I am not clear on the schema and where to mapt these things into. I’d say the source data is pretty light, but what i has to be converted to seems a little opaque (is it a list, an entity, what are the fields that these items can be mapped...finally what are the fields for defining the relationships)?
 
-Are the above documented anywhere? This just all seems really user-hostile.
+Are the above documented anywhere?
 
 Also, what about migrating existing terms into this new set of terms? Is that possible through the data api, or do I have to go directly into the sql. 
 
@@ -72,7 +72,7 @@ curl -XGET 'https://[user]:[pass]@catalog.interferencearchive.org/admin/service.
 
 And this (for posting (using [this json](http://pastebin.com/QZzGjgzy))):
 
-curl --upload-file ./new_list_item.json http://test_admin:raycooper@45.55.176.103:81/providence_test/service.php/item/ca_list_items
+curl --upload-file ./new_list_item.json http://[user]:[pass]@45.55.176.103:81/providence_test/service.php/item/ca_list_items
 
 **Other**
 
