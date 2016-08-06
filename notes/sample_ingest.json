@@ -1,0 +1,50 @@
+{
+ "ok":true,
+ "intrinsic_fields":{
+   "list_id":"53",
+   "type_id":"2",
+   "idno":"new_auto_3",
+   "item_value":"new auto 3",
+   "color":"",
+   "icon":false,
+   "rank":"0",
+   "is_enabled":"1",
+   "is_default":"0",
+   "validation_format":"",
+   "access":"1",
+   "status":"4",
+   "deleted":"0"
+ },
+ "preferred_labels" : [
+        {
+            "locale":"en_US",
+            "name_singular":"new item auto",
+            "name_plural":"new item autos",
+            "description":"this is a record made automatically number 3"
+        }
+ ],
+ "nonpreferred_labels":[
+    {
+      "locale":"en_US",
+      "name_singular":"new stuff by machine 3",
+      "name_plural":"new stuff by machines 3"
+    }
+  ],
+ "related":{
+   "ca_lists":[{
+     "list_id":"53",
+     "name":"test list",
+     "locale_id":"1",
+     "_key":"list_id",
+     "label":"test list"
+    }],
+  "ca_list_items":[{
+    "item_id":"187",
+    "name":"term_three",
+    "item_value":"term three",
+    "row_id":"187",
+    "_key":"item_id",
+    "label":"term three"
+    }]
+  }
+}
