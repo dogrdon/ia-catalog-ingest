@@ -1,4 +1,7 @@
-**Collective Access Data Import Notes**
+Collective Access Data Import Notes
+===================================
+
+### 1. Using the Data Importer
 
 [Collective Access documentation for the data importer](http://docs.collectiveaccess.org/wiki/Data_Importer)  -  provides the details, but is light on examples
 
@@ -42,39 +45,28 @@
 
 * [Collective Access Data Import Mapping Template](https://docs.google.com/spreadsheets/d/1hblyFxv30kL96JN7EWILLayxq1kAyvXAKVNAcG7ZAnw/edit?usp=sharing)
 
-**Questions**
-
-I get the gist now of how the data mapping works, but I am not clear on the schema and where to mapt these things into. I’d say the source data is pretty light, but what i has to be converted to seems a little opaque (is it a list, an entity, what are the fields that these items can be mapped...finally what are the fields for defining the relationships)?
-
-Are the above documented anywhere?
-
-Also, what about migrating existing terms into this new set of terms? Is that possible through the data api, or do I have to go directly into the sql. 
-
-How to relate items as they are being loaded (or have to go back and get ids and match them up?)
-
 **Things That Are Related But Don’t Make Sense How**
 
 [http://docs.collectiveaccess.org/wiki/Information_Services](http://docs.collectiveaccess.org/wiki/Information_Services)
 
 [http://docs.collectiveaccess.org/wiki/Metadata_Standards](http://docs.collectiveaccess.org/wiki/Metadata_Standards)
 
-**Web Service API**
-
-This might provide an insight into how the data import works. I am hoping and assuming that the data import is just an excel template wrapper on the web service api. But I can’t be too sure.
+### 2. Using Web Service API
 
 [Web Service API](http://docs.collectiveaccess.org/wiki/Web_Service_API)
 
 [Related Web Service API discussion](http://www.collectiveaccess.org/support/forum/index.php?p=/discussion/293482/creating-new-ca-list-items-using-the-web-service-api) 
 
-Great, this actually works (for grabbing):
+**Sample usage (for getting)**:
 
 curl -XGET 'https://[user]:[pass]@catalog.interferencearchive.org/admin/service.php/find/ca_objects?q=*&pretty=1'
 
-And this (for posting (using [this json](http://pastebin.com/QZzGjgzy))):
+**Sample usage for creating using [this json](https://github.com/dogrdon/ia-catalog-ingest/blob/master/notes/sample_list_item_ingest.json):
 
 curl --upload-file ./new_list_item.json http://[user]:[pass]@45.55.176.103:81/providence_test/service.php/item/ca_list_items
 
-**Other**
+### Other
 
-**[Updating 1.4 -> 1.5 fy**i](http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1)[ ](http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1)
+**[Updating 1.4 -> 1.5]**:
+(http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1)[ ](http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1)
 
