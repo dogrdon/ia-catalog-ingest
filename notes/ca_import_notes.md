@@ -61,7 +61,7 @@ Collective Access Data Import Notes
 
 curl -XGET 'https://[user]:[pass]@catalog.interferencearchive.org/admin/service.php/find/ca_objects?q=*&pretty=1'
 
-**Sample usage for creating using [this json](https://github.com/dogrdon/ia-catalog-ingest/blob/master/notes/sample_list_item_ingest.json):
+**Sample usage for creating using [this json](https://github.com/dogrdon/ia-catalog-ingest/blob/master/notes/sample_list_item_ingest.json)**:
 
 curl --upload-file ./new_list_item.json http://[user]:[pass]@45.55.176.103:81/providence_test/service.php/item/ca_list_items
 
