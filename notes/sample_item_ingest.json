@@ -1,0 +1,61 @@
+{
+    "intrinsic_fields" : {
+        "idno" : "IA_inkworks_12",
+        "type_id" : 14
+    },
+    "preferred_labels" : [
+        {
+            "locale" : "en_US",
+            "name" : "Walter"
+        }
+    ],
+    "attributes" : {
+        "notes" : [
+            {
+                "locale" : "en_US",
+                "notes" : "Derivative of XYZ"
+            }
+        ],
+        "titleType" : [
+            {
+                "locale" : "en_US",
+                "titleType" : "Derivative of XYZ"
+            }
+        ],
+        "dateSet": [
+            {   
+                "locale" : "en_US",
+                "dateSet" : "2090ca"
+            }
+        ],
+        "measurements_field": [
+            {   
+                "locale" : "en_US",
+                "measurements_field" : "57x65"
+            }
+        ]
+    },
+    "related" : {
+        "ca_entities" : [
+            {
+                "entity_id" : 123,
+                "type_id" : ,
+            },
+            {
+                "entity_id" : 456,
+                "type_id" : ,
+            },
+            {
+                "entity_id" : 789,
+                "type_id" : ,
+            },
+        ],
+        "ca_object_representations" : [
+            {
+                "entity_id" : 1001,
+                "type_id" : ,
+            }
+        ],
+
+    }
+}
