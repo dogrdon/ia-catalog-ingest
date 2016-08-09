@@ -74,6 +74,8 @@ And this (for posting (using [this json](http://pastebin.com/QZzGjgzy))):
 
 curl --upload-file ./new_list_item.json http://[user]:[pass]@45.55.176.103:81/providence_test/service.php/item/ca_list_items
 
+And uploading media (might have to be done with a second pass): [example media upload example json](https://gist.github.com/stefankeidel/1280e7e0864f883b8819)
+
 **Other**
 
 **[Updating 1.4 -> 1.5 fy**i](http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1)[ ](http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1)
