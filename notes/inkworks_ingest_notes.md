@@ -3,24 +3,22 @@ inkwork ingest types
 
 These are the different types and thus will probably have to be brought in separately:
 
-objects:
-	- title
-	- description
-	- date
-	- size
+item (typeid=):
+	* title
+	* description
+	* date
+	* size
 
-entities *should these be added first?*:
-	- photographer
-	- designer
-	- client
-	- source artist
-	- creator=inkworks
+entities (typeid=) *should these be added first?*:
+	* photographer 
+	* designer
+	* client
+	* source artist(?)
+	* creator='inkworks'
 
-representations:
+representations (typeid=463?):
 	- filename
 
-lots **just create one and refer to it per object**
+lots (typeid=) **just create one and refer to it per object**
 
-storage locations **can also just refer to?**
-
-places **again, just refer if can assume a single value?**
+storage locations (typeid=) **can also just refer to?**
