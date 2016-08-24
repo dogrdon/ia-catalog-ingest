@@ -69,6 +69,5 @@ And uploading media (might have to be done with a second pass): [example media u
 
 ### Other
 
-**[Updating 1.4 -> 1.5]**:
-(http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1)[ ](http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1)
+**(Updating 1.4 -> 1.5)[http://collectiveaccess.org/support/forum/index.php?p=/discussion/294880/upgrading-providence-from-1-4-to-1-5-1]**
 
