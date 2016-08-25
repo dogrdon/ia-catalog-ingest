@@ -1,4 +1,6 @@
 .DS_Store
 data/
 config.py
-
+*.pyc
+pickles/
+venv*

@@ -1,0 +1,9321 @@
+{
+  "ok":true,
+  "results":[
+    {
+      "entity_id":2,
+      "id":2,
+      "display_label":"Emma Goldman"
+    },
+    {
+      "entity_id":11,
+      "id":11,
+      "display_label":"AK Press"
+    },
+    {
+      "entity_id":12,
+      "id":12,
+      "display_label":"Josh MacPhee"
+    },
+    {
+      "entity_id":13,
+      "id":13,
+      "display_label":"Molly Fair"
+    },
+    {
+      "entity_id":14,
+      "id":14,
+      "display_label":"Kevin Caplicki"
+    },
+    {
+      "entity_id":15,
+      "id":15,
+      "display_label":"Bec Young"
+    },
+    {
+      "entity_id":16,
+      "id":16,
+      "display_label":"Meredith Stern"
+    },
+    {
+      "entity_id":17,
+      "id":17,
+      "display_label":"Thea Gahr"
+    },
+    {
+      "entity_id":20,
+      "id":20,
+      "display_label":"Chris Stain"
+    },
+    {
+      "entity_id":21,
+      "id":21,
+      "display_label":"Colin Matthes"
+    },
+    {
+      "entity_id":23,
+      "id":23,
+      "display_label":"Mary Tremonte"
+    },
+    {
+      "entity_id":24,
+      "id":24,
+      "display_label":"Kristine Virsis"
+    },
+    {
+      "entity_id":25,
+      "id":25,
+      "display_label":"Erik Ruin"
+    },
+    {
+      "entity_id":27,
+      "id":27,
+      "display_label":"Swoon"
+    },
+    {
+      "entity_id":28,
+      "id":28,
+      "display_label":"Jesse Purcell"
+    },
+    {
+      "entity_id":29,
+      "id":29,
+      "display_label":"Fernando Marti"
+    },
+    {
+      "entity_id":30,
+      "id":30,
+      "display_label":"Pete Yahnke Railand"
+    },
+    {
+      "entity_id":31,
+      "id":31,
+      "display_label":"Santiago Armengod"
+    },
+    {
+      "entity_id":32,
+      "id":32,
+      "display_label":"Dylan Miner"
+    },
+    {
+      "entity_id":33,
+      "id":33,
+      "display_label":"Roger Peet"
+    },
+    {
+      "entity_id":35,
+      "id":35,
+      "display_label":"Lesly Geovanni Mendoza"
+    },
+    {
+      "entity_id":38,
+      "id":38,
+      "display_label":"Alexander Berkman"
+    },
+    {
+      "entity_id":39,
+      "id":39,
+      "display_label":"Jesse Goldstein"
+    },
+    {
+      "entity_id":41,
+      "id":41,
+      "display_label":"Ben Shahn"
+    },
+    {
+      "entity_id":42,
+      "id":42,
+      "display_label":"Erick Lyle"
+    },
+    {
+      "entity_id":43,
+      "id":43,
+      "display_label":"Mary Patten"
+    },
+    {
+      "entity_id":47,
+      "id":47,
+      "display_label":"Ian Cozzens"
+    },
+    {
+      "entity_id":49,
+      "id":49,
+      "display_label":"Daniel Tucker"
+    },
+    {
+      "entity_id":50,
+      "id":50,
+      "display_label":"Dara Greenwald"
+    },
+    {
+      "entity_id":52,
+      "id":52,
+      "display_label":"Sanya Hyland"
+    },
+    {
+      "entity_id":53,
+      "id":53,
+      "display_label":"Erik Drooker"
+    },
+    {
+      "entity_id":54,
+      "id":54,
+      "display_label":"Seth Tobacman"
+    },
+    {
+      "entity_id":57,
+      "id":57,
+      "display_label":"Walter Rodney"
+    },
+    {
+      "entity_id":58,
+      "id":58,
+      "display_label":"Judi Bari"
+    },
+    {
+      "entity_id":59,
+      "id":59,
+      "display_label":"Sam Kerson"
+    },
+    {
+      "entity_id":60,
+      "id":60,
+      "display_label":"Claude Moller"
+    },
+    {
+      "entity_id":61,
+      "id":61,
+      "display_label":"Keisuke Narita"
+    },
+    {
+      "entity_id":62,
+      "id":62,
+      "display_label":"Rocky Tobey"
+    },
+    {
+      "entity_id":63,
+      "id":63,
+      "display_label":"Janet Attard"
+    },
+    {
+      "entity_id":64,
+      "id":64,
+      "display_label":"Sue Simensky Bietila"
+    },
+    {
+      "entity_id":65,
+      "id":65,
+      "display_label":"Karen Fiorito"
+    },
+    {
+      "entity_id":66,
+      "id":66,
+      "display_label":"Dave Buchen"
+    },
+    {
+      "entity_id":67,
+      "id":67,
+      "display_label":"Damon Locks"
+    },
+    {
+      "entity_id":69,
+      "id":69,
+      "display_label":"Alexander Dwinell"
+    },
+    {
+      "entity_id":70,
+      "id":70,
+      "display_label":"Brandon Bauer"
+    },
+    {
+      "entity_id":72,
+      "id":72,
+      "display_label":"Laura Whitehorn"
+    },
+    {
+      "entity_id":73,
+      "id":73,
+      "display_label":"Nicole Schulman"
+    },
+    {
+      "entity_id":74,
+      "id":74,
+      "display_label":"Beth Pulcinella"
+    },
+    {
+      "entity_id":75,
+      "id":75,
+      "display_label":"Aaron Renier"
+    },
+    {
+      "entity_id":76,
+      "id":76,
+      "display_label":"Jeff Stark"
+    },
+    {
+      "entity_id":77,
+      "id":77,
+      "display_label":"John Isaacson"
+    },
+    {
+      "entity_id":78,
+      "id":78,
+      "display_label":"Joshua Kahn"
+    },
+    {
+      "entity_id":80,
+      "id":80,
+      "display_label":"Marc Moscato"
+    },
+    {
+      "entity_id":81,
+      "id":81,
+      "display_label":"Dean Rank"
+    },
+    {
+      "entity_id":82,
+      "id":82,
+      "display_label":"Dan Berger"
+    },
+    {
+      "entity_id":83,
+      "id":83,
+      "display_label":"John Gerken"
+    },
+    {
+      "entity_id":84,
+      "id":84,
+      "display_label":"Ben Rubin"
+    },
+    {
+      "entity_id":85,
+      "id":85,
+      "display_label":"Miriam Stahl"
+    },
+    {
+      "entity_id":86,
+      "id":86,
+      "display_label":"Tim Simons"
+    },
+    {
+      "entity_id":87,
+      "id":87,
+      "display_label":"Robin Hewlett"
+    },
+    {
+      "entity_id":88,
+      "id":88,
+      "display_label":"Adam Fanucci"
+    },
+    {
+      "entity_id":89,
+      "id":89,
+      "display_label":"Kate Luscher"
+    },
+    {
+      "entity_id":90,
+      "id":90,
+      "display_label":"Courtney Dailey"
+    },
+    {
+      "entity_id":91,
+      "id":91,
+      "display_label":"Tom Civil"
+    },
+    {
+      "entity_id":92,
+      "id":92,
+      "display_label":"Art Hazelwood"
+    },
+    {
+      "entity_id":93,
+      "id":93,
+      "display_label":"Eian Dhruva"
+    },
+    {
+      "entity_id":94,
+      "id":94,
+      "display_label":"Keinom"
+    },
+    {
+      "entity_id":95,
+      "id":95,
+      "display_label":"Cristy Road"
+    },
+    {
+      "entity_id":96,
+      "id":96,
+      "display_label":"Karl Marx"
+    },
+    {
+      "entity_id":99,
+      "id":99,
+      "display_label":"Working People's Alliance"
+    },
+    {
+      "entity_id":100,
+      "id":100,
+      "display_label":"Damien"
+    },
+    {
+      "entity_id":101,
+      "id":101,
+      "display_label":"Brian Rodway"
+    },
+    {
+      "entity_id":102,
+      "id":102,
+      "display_label":"Lewanne Jones"
+    },
+    {
+      "entity_id":103,
+      "id":103,
+      "display_label":"Rupert Roopnaraine"
+    },
+    {
+      "entity_id":104,
+      "id":104,
+      "display_label":"Andaiye"
+    },
+    {
+      "entity_id":105,
+      "id":105,
+      "display_label":"Victor Jara Collective"
+    },
+    {
+      "entity_id":106,
+      "id":106,
+      "display_label":"Victor Jara"
+    },
+    {
+      "entity_id":107,
+      "id":107,
+      "display_label":"Zora Neale Hurston"
+    },
+    {
+      "entity_id":108,
+      "id":108,
+      "display_label":"Black Liberation Press"
+    },
+    {
+      "entity_id":109,
+      "id":109,
+      "display_label":"WPA Support Group UK"
+    },
+    {
+      "entity_id":110,
+      "id":110,
+      "display_label":"World Council of Churches"
+    },
+    {
+      "entity_id":111,
+      "id":111,
+      "display_label":"Hatfield Group Printers"
+    },
+    {
+      "entity_id":112,
+      "id":112,
+      "display_label":"Progress Bookshop"
+    },
+    {
+      "entity_id":113,
+      "id":113,
+      "display_label":"Ruth Morris"
+    },
+    {
+      "entity_id":114,
+      "id":114,
+      "display_label":"Brian D. MacLean"
+    },
+    {
+      "entity_id":115,
+      "id":115,
+      "display_label":"Harold E. Pepinsky"
+    },
+    {
+      "entity_id":116,
+      "id":116,
+      "display_label":"Angela Y. Davis"
+    },
+    {
+      "entity_id":117,
+      "id":117,
+      "display_label":"Bound Together Books"
+    },
+    {
+      "entity_id":118,
+      "id":118,
+      "display_label":"Tom Alder"
+    },
+    {
+      "entity_id":119,
+      "id":119,
+      "display_label":"Lyn Chevely"
+    },
+    {
+      "entity_id":120,
+      "id":120,
+      "display_label":"Joyce Sutton"
+    },
+    {
+      "entity_id":121,
+      "id":121,
+      "display_label":"Marty Lucas"
+    },
+    {
+      "entity_id":122,
+      "id":122,
+      "display_label":"Joe Austin"
+    },
+    {
+      "entity_id":123,
+      "id":123,
+      "display_label":"Columbia University Press"
+    },
+    {
+      "entity_id":124,
+      "id":124,
+      "display_label":"Melissa Forbis"
+    },
+    {
+      "entity_id":125,
+      "id":125,
+      "display_label":"Cale Layton"
+    },
+    {
+      "entity_id":126,
+      "id":126,
+      "display_label":"Alexis De Veaux"
+    },
+    {
+      "entity_id":127,
+      "id":127,
+      "display_label":"Silvia Federici"
+    },
+    {
+      "entity_id":128,
+      "id":128,
+      "display_label":"George Caffentzis"
+    },
+    {
+      "entity_id":131,
+      "id":131,
+      "display_label":"Hester Eisenstein"
+    },
+    {
+      "entity_id":133,
+      "id":133,
+      "display_label":"Marshall Weber"
+    },
+    {
+      "entity_id":134,
+      "id":134,
+      "display_label":"Ryan Fletcher"
+    },
+    {
+      "entity_id":135,
+      "id":135,
+      "display_label":"Farah Fosse"
+    },
+    {
+      "entity_id":136,
+      "id":136,
+      "display_label":"Irina Arellano-Weiss"
+    },
+    {
+      "entity_id":138,
+      "id":138,
+      "display_label":"Jamie Weiss"
+    },
+    {
+      "entity_id":139,
+      "id":139,
+      "display_label":"Al-Awda"
+    },
+    {
+      "entity_id":140,
+      "id":140,
+      "display_label":"Free Palestine Alliance"
+    },
+    {
+      "entity_id":141,
+      "id":141,
+      "display_label":"Alliance Graphics"
+    },
+    {
+      "entity_id":142,
+      "id":142,
+      "display_label":"Ellen Weinstat"
+    },
+    {
+      "entity_id":143,
+      "id":143,
+      "display_label":"World Fellowship Center"
+    },
+    {
+      "entity_id":144,
+      "id":144,
+      "display_label":"Pat Foxx"
+    },
+    {
+      "entity_id":145,
+      "id":145,
+      "display_label":"Christian Brandt"
+    },
+    {
+      "entity_id":146,
+      "id":146,
+      "display_label":"Eleanor Bader"
+    },
+    {
+      "entity_id":147,
+      "id":147,
+      "display_label":"Ryan Wong"
+    },
+    {
+      "entity_id":148,
+      "id":148,
+      "display_label":"Billy Kensington"
+    },
+    {
+      "entity_id":149,
+      "id":149,
+      "display_label":"Herbert Kohl"
+    },
+    {
+      "entity_id":150,
+      "id":150,
+      "display_label":"Amanda Huron"
+    },
+    {
+      "entity_id":151,
+      "id":151,
+      "display_label":"Hermine Ortega"
+    },
+    {
+      "entity_id":152,
+      "id":152,
+      "display_label":"Ren\u00e9e Ridgway"
+    },
+    {
+      "entity_id":153,
+      "id":153,
+      "display_label":"Brett Bloom"
+    },
+    {
+      "entity_id":154,
+      "id":154,
+      "display_label":"Gabriel Kuhn"
+    },
+    {
+      "entity_id":155,
+      "id":155,
+      "display_label":"Cindy Milstein"
+    },
+    {
+      "entity_id":156,
+      "id":156,
+      "display_label":"Jen Hoyer"
+    },
+    {
+      "entity_id":157,
+      "id":157,
+      "display_label":"Sabu Kohso"
+    },
+    {
+      "entity_id":158,
+      "id":158,
+      "display_label":"David Spataro"
+    },
+    {
+      "entity_id":159,
+      "id":159,
+      "display_label":"Anthony Iles"
+    },
+    {
+      "entity_id":160,
+      "id":160,
+      "display_label":"Anika Paris"
+    },
+    {
+      "entity_id":161,
+      "id":161,
+      "display_label":"Alan Moore"
+    },
+    {
+      "entity_id":162,
+      "id":162,
+      "display_label":"Shiri Pasternak"
+    },
+    {
+      "entity_id":163,
+      "id":163,
+      "display_label":"Beehive Design Collective"
+    },
+    {
+      "entity_id":164,
+      "id":164,
+      "display_label":"Peter Lucas"
+    },
+    {
+      "entity_id":165,
+      "id":165,
+      "display_label":"Daphne B. Noyes"
+    },
+    {
+      "entity_id":166,
+      "id":166,
+      "display_label":"Alec Dunn"
+    },
+    {
+      "entity_id":167,
+      "id":167,
+      "display_label":"Jesus Barraza"
+    },
+    {
+      "entity_id":168,
+      "id":168,
+      "display_label":"Melanie Cervantes"
+    },
+    {
+      "entity_id":169,
+      "id":169,
+      "display_label":"Favianna Rodriguez"
+    },
+    {
+      "entity_id":170,
+      "id":170,
+      "display_label":"Shaun Slifer"
+    },
+    {
+      "entity_id":171,
+      "id":171,
+      "display_label":"Red Sun Press"
+    },
+    {
+      "entity_id":172,
+      "id":172,
+      "display_label":"Matt Osborn"
+    },
+    {
+      "entity_id":173,
+      "id":173,
+      "display_label":"Anarchist Free Union"
+    },
+    {
+      "entity_id":174,
+      "id":174,
+      "display_label":"Kara Books"
+    },
+    {
+      "entity_id":175,
+      "id":175,
+      "display_label":"Neelanjana Banerjee"
+    },
+    {
+      "entity_id":176,
+      "id":176,
+      "display_label":"Nicolas Lampert"
+    },
+    {
+      "entity_id":177,
+      "id":177,
+      "display_label":"Ethan Heitner"
+    },
+    {
+      "entity_id":178,
+      "id":178,
+      "display_label":"Sabrina Jones"
+    },
+    {
+      "entity_id":180,
+      "id":180,
+      "display_label":"Dan Wang"
+    },
+    {
+      "entity_id":181,
+      "id":181,
+      "display_label":"Blithe Riley"
+    },
+    {
+      "entity_id":182,
+      "id":182,
+      "display_label":"Kim Schwenk"
+    },
+    {
+      "entity_id":184,
+      "id":184,
+      "display_label":"Burnpile Books"
+    },
+    {
+      "entity_id":185,
+      "id":185,
+      "display_label":"Daniel Berman"
+    },
+    {
+      "entity_id":186,
+      "id":186,
+      "display_label":"Andrew Cornell"
+    },
+    {
+      "entity_id":187,
+      "id":187,
+      "display_label":"Michael McCanne"
+    },
+    {
+      "entity_id":188,
+      "id":188,
+      "display_label":"Alice Torbush"
+    },
+    {
+      "entity_id":189,
+      "id":189,
+      "display_label":"Andre\u012d Pavlovich Kirilenko"
+    },
+    {
+      "entity_id":190,
+      "id":190,
+      "display_label":"F. Kulakov"
+    },
+    {
+      "entity_id":191,
+      "id":191,
+      "display_label":"Arvid I\ufe20A\ufe21novich Pel\u02b9she"
+    },
+    {
+      "entity_id":192,
+      "id":192,
+      "display_label":"Ivan Vasil\u02b9evich Kapitonov"
+    },
+    {
+      "entity_id":193,
+      "id":193,
+      "display_label":"North Star Fund"
+    },
+    {
+      "entity_id":194,
+      "id":194,
+      "display_label":"New York University"
+    },
+    {
+      "entity_id":195,
+      "id":195,
+      "display_label":"K. Katushev"
+    },
+    {
+      "entity_id":196,
+      "id":196,
+      "display_label":"Novosti Press Agency Publishing House"
+    },
+    {
+      "entity_id":197,
+      "id":197,
+      "display_label":"National African American Tobacco Prevention Network"
+    },
+    {
+      "entity_id":198,
+      "id":198,
+      "display_label":"B. Leibzon"
+    },
+    {
+      "entity_id":199,
+      "id":199,
+      "display_label":"Progress Publishers"
+    },
+    {
+      "entity_id":200,
+      "id":200,
+      "display_label":"O. Leonidov"
+    },
+    {
+      "entity_id":201,
+      "id":201,
+      "display_label":"N.G. Slater Corp."
+    },
+    {
+      "entity_id":202,
+      "id":202,
+      "display_label":"Paredon Records"
+    },
+    {
+      "entity_id":203,
+      "id":203,
+      "display_label":"Patricio Manns"
+    },
+    {
+      "entity_id":204,
+      "id":204,
+      "display_label":"Graphics Communications International Union"
+    },
+    {
+      "entity_id":205,
+      "id":205,
+      "display_label":"Angel Parra"
+    },
+    {
+      "entity_id":206,
+      "id":206,
+      "display_label":"Pathfinder Press"
+    },
+    {
+      "entity_id":207,
+      "id":207,
+      "display_label":"Karaxu"
+    },
+    {
+      "entity_id":208,
+      "id":208,
+      "display_label":"Leon Trotsky"
+    },
+    {
+      "entity_id":209,
+      "id":209,
+      "display_label":"Will Reissner"
+    },
+    {
+      "entity_id":210,
+      "id":210,
+      "display_label":"Lavender Jane"
+    },
+    {
+      "entity_id":212,
+      "id":212,
+      "display_label":"Alix Dobkin"
+    },
+    {
+      "entity_id":213,
+      "id":213,
+      "display_label":"Kay Gardner"
+    },
+    {
+      "entity_id":214,
+      "id":214,
+      "display_label":"Patches Attom"
+    },
+    {
+      "entity_id":215,
+      "id":215,
+      "display_label":"Womens Wax Works"
+    },
+    {
+      "entity_id":216,
+      "id":216,
+      "display_label":"Amiri Baraka"
+    },
+    {
+      "entity_id":217,
+      "id":217,
+      "display_label":"Charles H. Kerr Publishing"
+    },
+    {
+      "entity_id":218,
+      "id":218,
+      "display_label":"Andrea Gordillo Morales"
+    },
+    {
+      "entity_id":220,
+      "id":220,
+      "display_label":"Paula Seigal"
+    },
+    {
+      "entity_id":221,
+      "id":221,
+      "display_label":"Emily Forman"
+    },
+    {
+      "entity_id":222,
+      "id":222,
+      "display_label":"Lawrence Frank"
+    },
+    {
+      "entity_id":224,
+      "id":224,
+      "display_label":"Transformazium"
+    },
+    {
+      "entity_id":225,
+      "id":225,
+      "display_label":"Lesie Stem"
+    },
+    {
+      "entity_id":226,
+      "id":226,
+      "display_label":"Jorell A Mel\u00e9ndez Badillo"
+    },
+    {
+      "entity_id":228,
+      "id":228,
+      "display_label":"John Miller"
+    },
+    {
+      "entity_id":229,
+      "id":229,
+      "display_label":"Matt Meyer"
+    },
+    {
+      "entity_id":231,
+      "id":231,
+      "display_label":"Sean Stewart"
+    },
+    {
+      "entity_id":232,
+      "id":232,
+      "display_label":"Hunter Jackson"
+    },
+    {
+      "entity_id":235,
+      "id":235,
+      "display_label":"Nader Khairiddine Abuljebain"
+    },
+    {
+      "entity_id":239,
+      "id":239,
+      "display_label":"Institute for Palestine Studies"
+    },
+    {
+      "entity_id":240,
+      "id":240,
+      "display_label":"The Match!"
+    },
+    {
+      "entity_id":241,
+      "id":241,
+      "display_label":"Marianna La Rosa Marvyama"
+    },
+    {
+      "entity_id":242,
+      "id":242,
+      "display_label":"Jane Hunter"
+    },
+    {
+      "entity_id":243,
+      "id":243,
+      "display_label":"Claude Tighor"
+    },
+    {
+      "entity_id":244,
+      "id":244,
+      "display_label":"Kathy High"
+    },
+    {
+      "entity_id":246,
+      "id":246,
+      "display_label":"Guerrilla Girls"
+    },
+    {
+      "entity_id":247,
+      "id":247,
+      "display_label":"Minnette DeSilva"
+    },
+    {
+      "entity_id":248,
+      "id":248,
+      "idno":"111",
+      "display_label":"Testy Test"
+    },
+    {
+      "entity_id":249,
+      "id":249,
+      "display_label":"Leslie Kauffman"
+    },
+    {
+      "entity_id":250,
+      "id":250,
+      "display_label":"Julio Broca"
+    },
+    {
+      "entity_id":251,
+      "id":251,
+      "display_label":"Tom Feelings"
+    },
+    {
+      "entity_id":252,
+      "id":252,
+      "display_label":"John Hoffman"
+    },
+    {
+      "entity_id":253,
+      "id":253,
+      "display_label":"Collective Press"
+    },
+    {
+      "entity_id":255,
+      "id":255,
+      "display_label":"Nanny Goat Productions"
+    },
+    {
+      "entity_id":256,
+      "id":256,
+      "display_label":"Mickey Gillmor"
+    },
+    {
+      "entity_id":257,
+      "id":257,
+      "display_label":"Justseeds Artists' Cooperative"
+    },
+    {
+      "entity_id":258,
+      "id":258,
+      "display_label":"Armsrock"
+    },
+    {
+      "entity_id":259,
+      "id":259,
+      "display_label":"Gaia"
+    },
+    {
+      "entity_id":260,
+      "id":260,
+      "display_label":"Juan Martinez"
+    },
+    {
+      "entity_id":261,
+      "id":261,
+      "display_label":"Alejandra Defin"
+    },
+    {
+      "entity_id":262,
+      "id":262,
+      "display_label":"Design Action Network"
+    },
+    {
+      "entity_id":263,
+      "id":263,
+      "display_label":"Amor Y Resistencia"
+    },
+    {
+      "entity_id":264,
+      "id":264,
+      "display_label":"Occuprint"
+    },
+    {
+      "entity_id":265,
+      "id":265,
+      "display_label":"Sublevarte Colectivo"
+    },
+    {
+      "entity_id":266,
+      "id":266,
+      "display_label":"Todos Somos Japon"
+    },
+    {
+      "entity_id":267,
+      "id":267,
+      "display_label":"Wilmette Brown"
+    },
+    {
+      "entity_id":268,
+      "id":268,
+      "display_label":"Falling Wall Press"
+    },
+    {
+      "entity_id":269,
+      "id":269,
+      "display_label":"Alice Cook"
+    },
+    {
+      "entity_id":270,
+      "id":270,
+      "display_label":"Gwyn Kirk"
+    },
+    {
+      "entity_id":271,
+      "id":271,
+      "display_label":"South End Press"
+    },
+    {
+      "entity_id":272,
+      "id":272,
+      "display_label":"Murray Polner"
+    },
+    {
+      "entity_id":273,
+      "id":273,
+      "display_label":"Liberation Support Movement"
+    },
+    {
+      "entity_id":274,
+      "id":274,
+      "display_label":"Eberhardt Press"
+    },
+    {
+      "entity_id":275,
+      "id":275,
+      "display_label":"Videofreex"
+    },
+    {
+      "entity_id":276,
+      "id":276,
+      "display_label":"Radix Media"
+    },
+    {
+      "entity_id":277,
+      "id":277,
+      "display_label":"bell hooks"
+    },
+    {
+      "entity_id":278,
+      "id":278,
+      "display_label":"Murray Bookchin"
+    },
+    {
+      "entity_id":279,
+      "id":279,
+      "display_label":"Noam Chomsky"
+    },
+    {
+      "entity_id":280,
+      "id":280,
+      "display_label":"Nicolas Walter"
+    },
+    {
+      "entity_id":281,
+      "id":281,
+      "display_label":"George Woodcock"
+    },
+    {
+      "entity_id":282,
+      "id":282,
+      "display_label":"Peter Kropotkin"
+    },
+    {
+      "entity_id":283,
+      "id":283,
+      "display_label":"Judith Arcana"
+    },
+    {
+      "entity_id":284,
+      "id":284,
+      "display_label":"Daniel Guerin"
+    },
+    {
+      "entity_id":285,
+      "id":285,
+      "display_label":"David Goodway"
+    },
+    {
+      "entity_id":286,
+      "id":286,
+      "display_label":"Benjamin Franks"
+    },
+    {
+      "entity_id":287,
+      "id":287,
+      "display_label":"Gordon Carr"
+    },
+    {
+      "entity_id":288,
+      "id":288,
+      "display_label":"James Joll"
+    },
+    {
+      "entity_id":289,
+      "id":289,
+      "display_label":"Paul Berman"
+    },
+    {
+      "entity_id":290,
+      "id":290,
+      "display_label":"Ulrike Heider"
+    },
+    {
+      "entity_id":291,
+      "id":291,
+      "display_label":"Judith Suissa"
+    },
+    {
+      "entity_id":292,
+      "id":292,
+      "display_label":"Wayne Price"
+    },
+    {
+      "entity_id":293,
+      "id":293,
+      "display_label":"Colin Ward"
+    },
+    {
+      "entity_id":294,
+      "id":294,
+      "display_label":"Pierre Clastres"
+    },
+    {
+      "entity_id":295,
+      "id":295,
+      "display_label":"Maurice Brinton"
+    },
+    {
+      "entity_id":296,
+      "id":296,
+      "display_label":"Iain McKay"
+    },
+    {
+      "entity_id":297,
+      "id":297,
+      "display_label":"Walter Seidl"
+    },
+    {
+      "entity_id":298,
+      "id":298,
+      "display_label":"Selma James"
+    },
+    {
+      "entity_id":299,
+      "id":299,
+      "display_label":"Mariarosa Dalla Costa James"
+    },
+    {
+      "entity_id":300,
+      "id":300,
+      "display_label":"Nawal El Sadawi"
+    },
+    {
+      "entity_id":301,
+      "id":301,
+      "display_label":"Sue-Ellen Case"
+    },
+    {
+      "entity_id":302,
+      "id":302,
+      "display_label":"Marilyn Frye"
+    },
+    {
+      "entity_id":303,
+      "id":303,
+      "display_label":"Shulasmith Firestone"
+    },
+    {
+      "entity_id":304,
+      "id":304,
+      "display_label":"Committee for Abortion Rights and Against Sterilization Abuse"
+    },
+    {
+      "entity_id":305,
+      "id":305,
+      "display_label":"Margaret Prescod-Roberts"
+    },
+    {
+      "entity_id":306,
+      "id":306,
+      "display_label":"Norma Steele"
+    },
+    {
+      "entity_id":307,
+      "id":307,
+      "display_label":"Richard J.F. Day"
+    },
+    {
+      "entity_id":308,
+      "id":308,
+      "display_label":"Kathlyn Gay"
+    },
+    {
+      "entity_id":309,
+      "id":309,
+      "display_label":"Martin K. Gay"
+    },
+    {
+      "entity_id":310,
+      "id":310,
+      "display_label":"Christina Thurmer-Rohr"
+    },
+    {
+      "entity_id":311,
+      "id":311,
+      "display_label":"Susan E. Davis"
+    },
+    {
+      "entity_id":312,
+      "id":312,
+      "display_label":"Barbara Findlen"
+    },
+    {
+      "entity_id":313,
+      "id":313,
+      "display_label":"Rebeldia Publications"
+    },
+    {
+      "entity_id":314,
+      "id":314,
+      "display_label":"The Womanpower Project"
+    },
+    {
+      "entity_id":315,
+      "id":315,
+      "display_label":"Lauren Rabinovitz"
+    },
+    {
+      "entity_id":316,
+      "id":316,
+      "display_label":"Margaret Marshment"
+    },
+    {
+      "entity_id":317,
+      "id":317,
+      "display_label":"Lorraine Gamman"
+    },
+    {
+      "entity_id":318,
+      "id":318,
+      "display_label":"Queen of the Neighborhood"
+    },
+    {
+      "entity_id":319,
+      "id":319,
+      "display_label":"The Bloodroot Collective"
+    },
+    {
+      "entity_id":320,
+      "id":320,
+      "display_label":"MaryAnn Doane"
+    },
+    {
+      "entity_id":321,
+      "id":321,
+      "display_label":"Jon Snoograss"
+    },
+    {
+      "entity_id":322,
+      "id":322,
+      "display_label":"Sheila Rowbotham"
+    },
+    {
+      "entity_id":323,
+      "id":323,
+      "display_label":"Judith P. Zinsser"
+    },
+    {
+      "entity_id":324,
+      "id":324,
+      "display_label":"Bonnie S. Anderson"
+    },
+    {
+      "entity_id":325,
+      "id":325,
+      "display_label":"Women's Action Coalition"
+    },
+    {
+      "entity_id":326,
+      "id":326,
+      "display_label":"Kathie Sarachild"
+    },
+    {
+      "entity_id":327,
+      "id":327,
+      "display_label":"Amelia Jones"
+    },
+    {
+      "entity_id":328,
+      "id":328,
+      "display_label":"Martin Luther King Jr."
+    },
+    {
+      "entity_id":329,
+      "id":329,
+      "display_label":"William White Jr."
+    },
+    {
+      "entity_id":330,
+      "id":330,
+      "display_label":"Olaudah Equiano"
+    },
+    {
+      "entity_id":331,
+      "id":331,
+      "display_label":"Nelson Mandela"
+    },
+    {
+      "entity_id":332,
+      "id":332,
+      "display_label":"Doris Lessing"
+    },
+    {
+      "entity_id":333,
+      "id":333,
+      "display_label":"Bessie Head"
+    },
+    {
+      "entity_id":334,
+      "id":334,
+      "display_label":"Craig Baldwin"
+    },
+    {
+      "entity_id":335,
+      "id":335,
+      "display_label":"Samir Amin"
+    },
+    {
+      "entity_id":336,
+      "id":336,
+      "display_label":"Peter Abrahams"
+    },
+    {
+      "entity_id":337,
+      "id":337,
+      "display_label":"Chinua Achebe"
+    },
+    {
+      "entity_id":338,
+      "id":338,
+      "display_label":"Okoi Arikpo"
+    },
+    {
+      "entity_id":339,
+      "id":339,
+      "display_label":"Alessandro Aruffo"
+    },
+    {
+      "entity_id":340,
+      "id":340,
+      "display_label":"Naseer Aruri"
+    },
+    {
+      "entity_id":341,
+      "id":341,
+      "display_label":"Mariama B\u00e2"
+    },
+    {
+      "entity_id":342,
+      "id":342,
+      "display_label":"Giovanni Baldelli"
+    },
+    {
+      "entity_id":343,
+      "id":343,
+      "display_label":"Benjamin Barber"
+    },
+    {
+      "entity_id":344,
+      "id":344,
+      "display_label":"Jacques Baulin"
+    },
+    {
+      "entity_id":345,
+      "id":345,
+      "display_label":"Soha Bechara"
+    },
+    {
+      "entity_id":346,
+      "id":346,
+      "display_label":"Zanny Begg"
+    },
+    {
+      "entity_id":347,
+      "id":347,
+      "display_label":"Ulli Beier"
+    },
+    {
+      "entity_id":348,
+      "id":348,
+      "display_label":"Joel Beinin"
+    },
+    {
+      "entity_id":349,
+      "id":349,
+      "display_label":"Mary Benson"
+    },
+    {
+      "entity_id":350,
+      "id":350,
+      "display_label":"Mongo Beti"
+    },
+    {
+      "entity_id":351,
+      "id":351,
+      "display_label":"Steve Biko"
+    },
+    {
+      "entity_id":352,
+      "id":352,
+      "display_label":"Hakim Bey"
+    },
+    {
+      "entity_id":353,
+      "id":353,
+      "display_label":"Nina Montenegro"
+    },
+    {
+      "entity_id":354,
+      "id":354,
+      "display_label":"Molly Crabapple"
+    },
+    {
+      "entity_id":355,
+      "id":355,
+      "display_label":"John Leavitt"
+    },
+    {
+      "entity_id":356,
+      "id":356,
+      "display_label":"Booklyn Artists Alliance"
+    },
+    {
+      "entity_id":357,
+      "id":357,
+      "display_label":"Alexandra Clotfelter"
+    },
+    {
+      "entity_id":359,
+      "id":359,
+      "display_label":"Katherine Ball"
+    },
+    {
+      "entity_id":360,
+      "id":360,
+      "display_label":"Marx Aviano"
+    },
+    {
+      "entity_id":361,
+      "id":361,
+      "display_label":"Rich Black"
+    },
+    {
+      "entity_id":362,
+      "id":362,
+      "display_label":"Cactus"
+    },
+    {
+      "entity_id":363,
+      "id":363,
+      "display_label":"Colectivo Cordyceps"
+    },
+    {
+      "entity_id":364,
+      "id":364,
+      "display_label":"John Emerson"
+    },
+    {
+      "entity_id":365,
+      "id":365,
+      "display_label":"Ronnie Goodman"
+    },
+    {
+      "entity_id":366,
+      "id":366,
+      "display_label":"Brad Kayal"
+    },
+    {
+      "entity_id":367,
+      "id":367,
+      "display_label":"Manya Kuzemchenko"
+    },
+    {
+      "entity_id":368,
+      "id":368,
+      "display_label":"John Langdon"
+    },
+    {
+      "entity_id":369,
+      "id":369,
+      "display_label":"LMNOP"
+    },
+    {
+      "entity_id":370,
+      "id":370,
+      "display_label":"Dave Loewenstein"
+    },
+    {
+      "entity_id":371,
+      "id":371,
+      "display_label":"Keith Lowe"
+    },
+    {
+      "entity_id":372,
+      "id":372,
+      "display_label":"Sebastien Marchal"
+    },
+    {
+      "entity_id":374,
+      "id":374,
+      "display_label":"Chelsea Peil"
+    },
+    {
+      "entity_id":375,
+      "id":375,
+      "display_label":"Pajaro Editions"
+    },
+    {
+      "entity_id":376,
+      "id":376,
+      "display_label":"Bushwick Print Lab"
+    },
+    {
+      "entity_id":377,
+      "id":377,
+      "display_label":"Stephen Thompson"
+    },
+    {
+      "entity_id":378,
+      "id":378,
+      "display_label":"Saar Shemesh"
+    },
+    {
+      "entity_id":379,
+      "id":379,
+      "display_label":"Ray Cross"
+    },
+    {
+      "entity_id":380,
+      "id":380,
+      "display_label":"Steve MacFarland"
+    },
+    {
+      "entity_id":381,
+      "id":381,
+      "display_label":"Jeanne Verdoux"
+    },
+    {
+      "entity_id":382,
+      "id":382,
+      "display_label":"Amnesty International"
+    },
+    {
+      "entity_id":383,
+      "id":383,
+      "display_label":"Center For Constitutional Rights"
+    },
+    {
+      "entity_id":384,
+      "id":384,
+      "display_label":"Craig Rosebraugh"
+    },
+    {
+      "entity_id":385,
+      "id":385,
+      "display_label":"Gina Lynn"
+    },
+    {
+      "entity_id":386,
+      "id":386,
+      "display_label":"Lindsay Parme"
+    },
+    {
+      "entity_id":387,
+      "id":387,
+      "display_label":"Sacramento Prisoner Support"
+    },
+    {
+      "entity_id":388,
+      "id":388,
+      "display_label":"Irish Northern Aid Committee"
+    },
+    {
+      "entity_id":389,
+      "id":389,
+      "display_label":"Orange Blossom Press"
+    },
+    {
+      "entity_id":390,
+      "id":390,
+      "display_label":"Francie Broderick"
+    },
+    {
+      "entity_id":391,
+      "id":391,
+      "display_label":"Gerry Coleman"
+    },
+    {
+      "entity_id":392,
+      "id":392,
+      "display_label":"Peter Hegarty"
+    },
+    {
+      "entity_id":393,
+      "id":393,
+      "display_label":"Jack Kilroy"
+    },
+    {
+      "entity_id":394,
+      "id":394,
+      "display_label":"Freedom Press"
+    },
+    {
+      "entity_id":395,
+      "id":395,
+      "display_label":"Bill Biggin"
+    },
+    {
+      "entity_id":396,
+      "id":396,
+      "display_label":"Prison Activist Resource Center"
+    },
+    {
+      "entity_id":397,
+      "id":397,
+      "display_label":"Free Write Jail Arts And Literacy Program"
+    },
+    {
+      "entity_id":398,
+      "id":398,
+      "display_label":"Jessie Houston"
+    },
+    {
+      "entity_id":399,
+      "id":399,
+      "display_label":"Redbird Prison Abolition"
+    },
+    {
+      "entity_id":400,
+      "id":400,
+      "display_label":"Political Prisoners Of War Coalition"
+    },
+    {
+      "entity_id":401,
+      "id":401,
+      "display_label":"South Chicago ABC Zine Distro"
+    },
+    {
+      "entity_id":403,
+      "id":403,
+      "display_label":"Book Em"
+    },
+    {
+      "entity_id":404,
+      "id":404,
+      "display_label":"South Chicago ABC Collective"
+    },
+    {
+      "entity_id":405,
+      "id":405,
+      "display_label":"Mark Miller"
+    },
+    {
+      "entity_id":406,
+      "id":406,
+      "display_label":"Colin Smith"
+    },
+    {
+      "entity_id":407,
+      "id":407,
+      "display_label":"Santana (Little Hamilton Collective Press)"
+    },
+    {
+      "entity_id":408,
+      "id":408,
+      "display_label":"Zolo Agona Azania"
+    },
+    {
+      "entity_id":409,
+      "id":409,
+      "display_label":"Kersplebebdeb"
+    },
+    {
+      "entity_id":410,
+      "id":410,
+      "display_label":"Equal Justice Committee"
+    },
+    {
+      "entity_id":411,
+      "id":411,
+      "display_label":"Johnny \"Byrd Dog\" Byrd"
+    },
+    {
+      "entity_id":412,
+      "id":412,
+      "display_label":"Raze The Walls"
+    },
+    {
+      "entity_id":414,
+      "id":414,
+      "display_label":"Lindsay Starbuck"
+    },
+    {
+      "entity_id":415,
+      "id":415,
+      "display_label":"Glukkake"
+    },
+    {
+      "entity_id":416,
+      "id":416,
+      "display_label":"Prison Creative Arts Project"
+    },
+    {
+      "entity_id":418,
+      "id":418,
+      "display_label":"Ella Baker Center For Human Rights"
+    },
+    {
+      "entity_id":419,
+      "id":419,
+      "display_label":"Leadfoot Press"
+    },
+    {
+      "entity_id":420,
+      "id":420,
+      "display_label":"Todd (Hyung-Rae) Tarselli"
+    },
+    {
+      "entity_id":422,
+      "id":422,
+      "display_label":"Alex Carlton"
+    },
+    {
+      "entity_id":423,
+      "id":423,
+      "display_label":"Gabriel Sayegh"
+    },
+    {
+      "entity_id":424,
+      "id":424,
+      "display_label":"Ali Khalid Abdullah"
+    },
+    {
+      "entity_id":425,
+      "id":425,
+      "display_label":"Sean Swain"
+    },
+    {
+      "entity_id":426,
+      "id":426,
+      "display_label":"Gamba Mateen Rastafari"
+    },
+    {
+      "entity_id":427,
+      "id":427,
+      "display_label":"Gamba Mateen Rastafari Defense Committee"
+    },
+    {
+      "entity_id":428,
+      "id":428,
+      "display_label":"Kevin (Rashid) Johnson"
+    },
+    {
+      "entity_id":429,
+      "id":429,
+      "display_label":"Shaka Zulu"
+    },
+    {
+      "entity_id":430,
+      "id":430,
+      "display_label":"Foglight Distro"
+    },
+    {
+      "entity_id":431,
+      "id":431,
+      "display_label":"Prison Poster Project"
+    },
+    {
+      "entity_id":432,
+      "id":432,
+      "display_label":"Prisoners Justice Day Committee"
+    },
+    {
+      "entity_id":433,
+      "id":433,
+      "display_label":"Leavenworth Brothers Offense  Defense Committee"
+    },
+    {
+      "entity_id":434,
+      "id":434,
+      "display_label":"Sweet Tea"
+    },
+    {
+      "entity_id":435,
+      "id":435,
+      "display_label":"North Carolina Piece Corps"
+    },
+    {
+      "entity_id":436,
+      "id":436,
+      "display_label":"Chapel Hill Prison Books Collective"
+    },
+    {
+      "entity_id":437,
+      "id":437,
+      "display_label":"Atmore-Holman Brothers Defense Fund"
+    },
+    {
+      "entity_id":438,
+      "id":438,
+      "display_label":"One Thousand Emotions"
+    },
+    {
+      "entity_id":439,
+      "id":439,
+      "display_label":"Lorenzo Kom'boa Ervin"
+    },
+    {
+      "entity_id":440,
+      "id":440,
+      "display_label":"Staughton Lynd"
+    },
+    {
+      "entity_id":441,
+      "id":441,
+      "display_label":"Project NIA"
+    },
+    {
+      "entity_id":442,
+      "id":442,
+      "display_label":"Mariame Kaba"
+    },
+    {
+      "entity_id":443,
+      "id":443,
+      "display_label":"Lewis Wallace"
+    },
+    {
+      "entity_id":444,
+      "id":444,
+      "display_label":"Occupied Wall Street Journal"
+    },
+    {
+      "entity_id":445,
+      "id":445,
+      "display_label":"Jed Brandt"
+    },
+    {
+      "entity_id":446,
+      "id":446,
+      "display_label":"Dignidad Rebelde"
+    },
+    {
+      "entity_id":447,
+      "id":447,
+      "display_label":"Maya Mihindou"
+    },
+    {
+      "entity_id":448,
+      "id":448,
+      "display_label":"ChrisMarker"
+    },
+    {
+      "entity_id":449,
+      "id":449,
+      "display_label":"Chris Marker"
+    },
+    {
+      "entity_id":450,
+      "id":450,
+      "display_label":"Jared Davidson"
+    },
+    {
+      "entity_id":451,
+      "id":451,
+      "display_label":"Edd Baldry"
+    },
+    {
+      "entity_id":452,
+      "id":452,
+      "display_label":"Cannon Dill"
+    },
+    {
+      "entity_id":453,
+      "id":453,
+      "display_label":"Noah Scalin"
+    },
+    {
+      "entity_id":454,
+      "id":454,
+      "display_label":"Image-shift"
+    },
+    {
+      "entity_id":455,
+      "id":455,
+      "display_label":"Jamaa Al-Yad"
+    },
+    {
+      "entity_id":456,
+      "id":456,
+      "display_label":"Matt Huynh"
+    },
+    {
+      "entity_id":457,
+      "id":457,
+      "display_label":"Paul Chan"
+    },
+    {
+      "entity_id":458,
+      "id":458,
+      "display_label":"Nobodycorp.Internationale Unlimited"
+    },
+    {
+      "entity_id":459,
+      "id":459,
+      "display_label":"Ernesto Yerena"
+    },
+    {
+      "entity_id":460,
+      "id":460,
+      "display_label":"Orlando Arenas"
+    },
+    {
+      "entity_id":461,
+      "id":461,
+      "display_label":"Sandra Castro"
+    },
+    {
+      "entity_id":462,
+      "id":462,
+      "display_label":"Ricardo Lopez"
+    },
+    {
+      "entity_id":463,
+      "id":463,
+      "display_label":"Chicago Anarchist Black Cross"
+    },
+    {
+      "entity_id":464,
+      "id":464,
+      "display_label":"Citizens Alert"
+    },
+    {
+      "entity_id":465,
+      "id":465,
+      "display_label":"Committee To End The Marion Lockdown"
+    },
+    {
+      "entity_id":466,
+      "id":466,
+      "display_label":"CROSSROAD Support Network"
+    },
+    {
+      "entity_id":467,
+      "id":467,
+      "display_label":"Eighth Day Center For Justice"
+    },
+    {
+      "entity_id":468,
+      "id":468,
+      "display_label":"Interfaith Prisoners Of Conscience Project"
+    },
+    {
+      "entity_id":469,
+      "id":469,
+      "display_label":"National Campaign To Stop Control Unit Prisons"
+    },
+    {
+      "entity_id":470,
+      "id":470,
+      "display_label":"Prairie Fire Organizing Committee"
+    },
+    {
+      "entity_id":471,
+      "id":471,
+      "display_label":"Prison Action Committee"
+    },
+    {
+      "entity_id":472,
+      "id":472,
+      "display_label":"Michael Deutsch"
+    },
+    {
+      "entity_id":473,
+      "id":473,
+      "display_label":"Frank \"Big Black\" Smith"
+    },
+    {
+      "entity_id":474,
+      "id":474,
+      "display_label":"Lourdes Lugo"
+    },
+    {
+      "entity_id":476,
+      "id":476,
+      "display_label":"Bomani Shakur"
+    },
+    {
+      "entity_id":477,
+      "id":477,
+      "display_label":"Siddique Abdullah Hasan"
+    },
+    {
+      "entity_id":478,
+      "id":478,
+      "display_label":"Jason Robb"
+    },
+    {
+      "entity_id":479,
+      "id":479,
+      "display_label":"Greg Curry"
+    },
+    {
+      "entity_id":480,
+      "id":480,
+      "display_label":"Mosi O Paki"
+    },
+    {
+      "entity_id":481,
+      "id":481,
+      "display_label":"George Skatzes"
+    },
+    {
+      "entity_id":482,
+      "id":482,
+      "display_label":"Shaka Shakur"
+    },
+    {
+      "entity_id":483,
+      "id":483,
+      "display_label":"Louis Rice"
+    },
+    {
+      "entity_id":484,
+      "id":484,
+      "display_label":"Jason Davies"
+    },
+    {
+      "entity_id":485,
+      "id":485,
+      "display_label":"Mark Cains"
+    },
+    {
+      "entity_id":486,
+      "id":486,
+      "display_label":"Adam Reid"
+    },
+    {
+      "entity_id":487,
+      "id":487,
+      "display_label":"Andy Webb"
+    },
+    {
+      "entity_id":488,
+      "id":488,
+      "display_label":"Hugh Ward"
+    },
+    {
+      "entity_id":489,
+      "id":489,
+      "display_label":"Jonathon Taphouse"
+    },
+    {
+      "entity_id":490,
+      "id":490,
+      "display_label":"Kai Heron"
+    },
+    {
+      "entity_id":491,
+      "id":491,
+      "display_label":"Matt Redmond"
+    },
+    {
+      "entity_id":492,
+      "id":492,
+      "display_label":"Marc Jay"
+    },
+    {
+      "entity_id":494,
+      "id":494,
+      "display_label":"Mike Taylor"
+    },
+    {
+      "entity_id":495,
+      "id":495,
+      "display_label":"Wakefield, Stacy"
+    },
+    {
+      "entity_id":496,
+      "id":496,
+      "display_label":"GRRRT"
+    },
+    {
+      "entity_id":497,
+      "id":497,
+      "display_label":"Evil Twin Publications"
+    },
+    {
+      "entity_id":498,
+      "id":498,
+      "display_label":"Ross Harrison"
+    },
+    {
+      "entity_id":499,
+      "id":499,
+      "display_label":"Tangent Books"
+    },
+    {
+      "entity_id":500,
+      "id":500,
+      "display_label":"Ruth Benn"
+    },
+    {
+      "entity_id":501,
+      "id":501,
+      "display_label":"Shaka Shakur Defense Committee"
+    },
+    {
+      "entity_id":502,
+      "id":502,
+      "display_label":"Interference Archive"
+    },
+    {
+      "entity_id":503,
+      "id":503,
+      "display_label":"Political Gridlock"
+    },
+    {
+      "entity_id":504,
+      "id":504,
+      "display_label":"Astria Suparak"
+    },
+    {
+      "entity_id":505,
+      "id":505,
+      "display_label":"Jaraslav Andel"
+    },
+    {
+      "entity_id":506,
+      "id":506,
+      "display_label":"Shannon ONeill"
+    },
+    {
+      "entity_id":507,
+      "id":507,
+      "display_label":"Howl Arts"
+    },
+    {
+      "entity_id":508,
+      "id":508,
+      "display_label":"C Ryder Cooley"
+    },
+    {
+      "entity_id":509,
+      "id":509,
+      "display_label":"Valerie Barr"
+    },
+    {
+      "entity_id":510,
+      "id":510,
+      "display_label":"Vanessa Renwick"
+    },
+    {
+      "entity_id":511,
+      "id":511,
+      "display_label":"All Natural"
+    },
+    {
+      "entity_id":512,
+      "id":512,
+      "display_label":"Aesop Rock"
+    },
+    {
+      "entity_id":513,
+      "id":513,
+      "display_label":"ANG 13"
+    },
+    {
+      "entity_id":514,
+      "id":514,
+      "display_label":"Definitive Jux"
+    },
+    {
+      "entity_id":515,
+      "id":515,
+      "display_label":"Talib Kweli"
+    },
+    {
+      "entity_id":516,
+      "id":516,
+      "display_label":"Da Lench Mob"
+    },
+    {
+      "entity_id":518,
+      "id":518,
+      "display_label":"Hi-Tek"
+    },
+    {
+      "entity_id":519,
+      "id":519,
+      "display_label":"Talib Kwelli"
+    },
+    {
+      "entity_id":521,
+      "id":521,
+      "display_label":"Rawkus Records"
+    },
+    {
+      "entity_id":522,
+      "id":522,
+      "display_label":"No Death Penalty For Zolo Committee"
+    },
+    {
+      "entity_id":523,
+      "id":523,
+      "display_label":"Frank Sosa"
+    },
+    {
+      "entity_id":524,
+      "id":524,
+      "display_label":"Reflection Eternal"
+    },
+    {
+      "entity_id":525,
+      "id":525,
+      "display_label":"The High & Mighty"
+    },
+    {
+      "entity_id":527,
+      "id":527,
+      "display_label":"Atmosphere"
+    },
+    {
+      "entity_id":528,
+      "id":528,
+      "display_label":"Vinia Mojica"
+    },
+    {
+      "entity_id":529,
+      "id":529,
+      "display_label":"Ice Cube"
+    },
+    {
+      "entity_id":530,
+      "id":530,
+      "display_label":"Mos Def"
+    },
+    {
+      "entity_id":532,
+      "id":532,
+      "display_label":"Maulkie"
+    },
+    {
+      "entity_id":533,
+      "id":533,
+      "display_label":"Res"
+    },
+    {
+      "entity_id":534,
+      "id":534,
+      "display_label":"Blackalicious"
+    },
+    {
+      "entity_id":535,
+      "id":535,
+      "display_label":"Rah Digga"
+    },
+    {
+      "entity_id":537,
+      "id":537,
+      "display_label":"Shorty"
+    },
+    {
+      "entity_id":538,
+      "id":538,
+      "display_label":"Mad Skillz"
+    },
+    {
+      "entity_id":539,
+      "id":539,
+      "display_label":"Xzibit"
+    },
+    {
+      "entity_id":541,
+      "id":541,
+      "display_label":"Anti Pop Consortium"
+    },
+    {
+      "entity_id":542,
+      "id":542,
+      "display_label":"T-Bone"
+    },
+    {
+      "entity_id":543,
+      "id":543,
+      "display_label":"Kool G Rap"
+    },
+    {
+      "entity_id":544,
+      "id":544,
+      "display_label":"Les Nubians"
+    },
+    {
+      "entity_id":545,
+      "id":545,
+      "display_label":"Te"
+    },
+    {
+      "entity_id":546,
+      "id":546,
+      "display_label":"Piakhan"
+    },
+    {
+      "entity_id":547,
+      "id":547,
+      "display_label":"Supa Dav West"
+    },
+    {
+      "entity_id":548,
+      "id":548,
+      "display_label":"Bahamadia"
+    },
+    {
+      "entity_id":550,
+      "id":550,
+      "display_label":"Black Hoodz"
+    },
+    {
+      "entity_id":551,
+      "id":551,
+      "display_label":"Priority Records"
+    },
+    {
+      "entity_id":552,
+      "id":552,
+      "display_label":"Mr. Man"
+    },
+    {
+      "entity_id":554,
+      "id":554,
+      "display_label":"J-Rocc"
+    },
+    {
+      "entity_id":555,
+      "id":555,
+      "display_label":"Mike Ladd"
+    },
+    {
+      "entity_id":556,
+      "id":556,
+      "display_label":"Babu"
+    },
+    {
+      "entity_id":557,
+      "id":557,
+      "display_label":"Seein' I"
+    },
+    {
+      "entity_id":558,
+      "id":558,
+      "display_label":"Medina Green"
+    },
+    {
+      "entity_id":559,
+      "id":559,
+      "display_label":"Aceyalone"
+    },
+    {
+      "entity_id":561,
+      "id":561,
+      "display_label":"Attica Blues"
+    },
+    {
+      "entity_id":562,
+      "id":562,
+      "display_label":"Company Flow"
+    },
+    {
+      "entity_id":563,
+      "id":563,
+      "display_label":"Ursula Rucker"
+    },
+    {
+      "entity_id":564,
+      "id":564,
+      "display_label":"BWP (Bitches with Problems)"
+    },
+    {
+      "entity_id":566,
+      "id":566,
+      "display_label":"Black Star"
+    },
+    {
+      "entity_id":567,
+      "id":567,
+      "display_label":"muMs the Schemer"
+    },
+    {
+      "entity_id":568,
+      "id":568,
+      "display_label":"Poor Righteous Teachers"
+    },
+    {
+      "entity_id":569,
+      "id":569,
+      "display_label":"Spear & Shield Publications"
+    },
+    {
+      "entity_id":570,
+      "id":570,
+      "display_label":"Diamond"
+    },
+    {
+      "entity_id":571,
+      "id":571,
+      "display_label":"Rakaa-Iriscience"
+    },
+    {
+      "entity_id":572,
+      "id":572,
+      "display_label":"Atiba Shanna"
+    },
+    {
+      "entity_id":574,
+      "id":574,
+      "display_label":"Jerry Quickley"
+    },
+    {
+      "entity_id":575,
+      "id":575,
+      "display_label":"Saul Williams"
+    },
+    {
+      "entity_id":576,
+      "id":576,
+      "display_label":"New Afrikan Prisoners Organization"
+    },
+    {
+      "entity_id":577,
+      "id":577,
+      "display_label":"The Unbound Allstars"
+    },
+    {
+      "entity_id":578,
+      "id":578,
+      "display_label":"The Coup"
+    },
+    {
+      "entity_id":581,
+      "id":581,
+      "display_label":"Dead Prez"
+    },
+    {
+      "entity_id":582,
+      "id":582,
+      "display_label":"75Ark"
+    },
+    {
+      "entity_id":583,
+      "id":583,
+      "display_label":"4strugglemag"
+    },
+    {
+      "entity_id":584,
+      "id":584,
+      "display_label":"Jaan Laaman"
+    },
+    {
+      "entity_id":585,
+      "id":585,
+      "display_label":"Mumia Abu-Jamal"
+    },
+    {
+      "entity_id":586,
+      "id":586,
+      "display_label":"Oscar Lopez Rivera"
+    },
+    {
+      "entity_id":588,
+      "id":588,
+      "display_label":"Akili Castlin"
+    },
+    {
+      "entity_id":589,
+      "id":589,
+      "display_label":"Herman Bell"
+    },
+    {
+      "entity_id":590,
+      "id":590,
+      "display_label":"Interboro Rhythm Team"
+    },
+    {
+      "entity_id":591,
+      "id":591,
+      "display_label":"J-Live"
+    },
+    {
+      "entity_id":592,
+      "id":592,
+      "display_label":"Raw Shack Productions"
+    },
+    {
+      "entity_id":593,
+      "id":593,
+      "display_label":"Marilyn Buck"
+    },
+    {
+      "entity_id":594,
+      "id":594,
+      "display_label":"Ray Luc Levasseur"
+    },
+    {
+      "entity_id":595,
+      "id":595,
+      "display_label":"Goodie Mob"
+    },
+    {
+      "entity_id":596,
+      "id":596,
+      "display_label":"Jungle Brothers"
+    },
+    {
+      "entity_id":597,
+      "id":597,
+      "display_label":"Esthero"
+    },
+    {
+      "entity_id":598,
+      "id":598,
+      "display_label":"Russell 'Maroon' Shoats"
+    },
+    {
+      "entity_id":599,
+      "id":599,
+      "display_label":"Nzingha Shakur Ali"
+    },
+    {
+      "entity_id":600,
+      "id":600,
+      "display_label":"Leonard Peltier"
+    },
+    {
+      "entity_id":601,
+      "id":601,
+      "display_label":"Jalil Muntaqim"
+    },
+    {
+      "entity_id":602,
+      "id":602,
+      "display_label":"DJ Shame"
+    },
+    {
+      "entity_id":603,
+      "id":603,
+      "display_label":"Los Angeles ABCF"
+    },
+    {
+      "entity_id":604,
+      "id":604,
+      "display_label":"John Feckner"
+    },
+    {
+      "entity_id":605,
+      "id":605,
+      "display_label":"Natural Resource"
+    },
+    {
+      "entity_id":606,
+      "id":606,
+      "display_label":"John Feckner City Squad"
+    },
+    {
+      "entity_id":607,
+      "id":607,
+      "display_label":"L-Fudge"
+    },
+    {
+      "entity_id":608,
+      "id":608,
+      "display_label":"B.K.N.Y"
+    },
+    {
+      "entity_id":609,
+      "id":609,
+      "display_label":"Jean Grae"
+    },
+    {
+      "entity_id":610,
+      "id":610,
+      "display_label":"Ass\u00fcck"
+    },
+    {
+      "entity_id":611,
+      "id":611,
+      "display_label":"Sister Asia"
+    },
+    {
+      "entity_id":614,
+      "id":614,
+      "display_label":"Ocean"
+    },
+    {
+      "entity_id":616,
+      "id":616,
+      "display_label":"Realized LLC"
+    },
+    {
+      "entity_id":617,
+      "id":617,
+      "display_label":"Steele & Top Dog"
+    },
+    {
+      "entity_id":618,
+      "id":618,
+      "display_label":"Mike Zoot"
+    },
+    {
+      "entity_id":620,
+      "id":620,
+      "display_label":"Danny Hoch"
+    },
+    {
+      "entity_id":621,
+      "id":621,
+      "display_label":"Animals + Men"
+    },
+    {
+      "entity_id":622,
+      "id":622,
+      "display_label":"DJ James \"AGGIE\" Barrett"
+    },
+    {
+      "entity_id":623,
+      "id":623,
+      "display_label":"The Last Emperor"
+    },
+    {
+      "entity_id":625,
+      "id":625,
+      "display_label":"Shabaam Sahdeeq"
+    },
+    {
+      "entity_id":631,
+      "id":631,
+      "display_label":"Makin' Records"
+    },
+    {
+      "entity_id":632,
+      "id":632,
+      "display_label":"DJ Spinna"
+    },
+    {
+      "entity_id":633,
+      "id":633,
+      "display_label":"Apani B-Fly Emcee"
+    },
+    {
+      "entity_id":634,
+      "id":634,
+      "display_label":"Skam\u00b2"
+    },
+    {
+      "entity_id":635,
+      "id":635,
+      "display_label":"L.I.F.E"
+    },
+    {
+      "entity_id":636,
+      "id":636,
+      "display_label":"Hurricane G"
+    },
+    {
+      "entity_id":637,
+      "id":637,
+      "display_label":"Sean C."
+    },
+    {
+      "entity_id":638,
+      "id":638,
+      "display_label":"Rich Boogie"
+    },
+    {
+      "entity_id":639,
+      "id":639,
+      "display_label":"Hedrush, dead prez & People's Army"
+    },
+    {
+      "entity_id":640,
+      "id":640,
+      "display_label":"Daddy-O"
+    },
+    {
+      "entity_id":641,
+      "id":641,
+      "display_label":"RUBBEROOM"
+    },
+    {
+      "entity_id":642,
+      "id":642,
+      "display_label":"Ill Bill"
+    },
+    {
+      "entity_id":643,
+      "id":643,
+      "display_label":"The Beatnigs"
+    },
+    {
+      "entity_id":644,
+      "id":644,
+      "display_label":"Helixx C Armageddon & Pri The Honey Dark"
+    },
+    {
+      "entity_id":645,
+      "id":645,
+      "display_label":"Alternative Tentacles Records"
+    },
+    {
+      "entity_id":646,
+      "id":646,
+      "display_label":"Prof. Cornel West"
+    },
+    {
+      "entity_id":647,
+      "id":647,
+      "display_label":"The Reepz"
+    },
+    {
+      "entity_id":648,
+      "id":648,
+      "display_label":"Kool DJ EQ"
+    },
+    {
+      "entity_id":649,
+      "id":649,
+      "display_label":"The Last Poets"
+    },
+    {
+      "entity_id":650,
+      "id":650,
+      "display_label":"Akbar"
+    },
+    {
+      "entity_id":651,
+      "id":651,
+      "display_label":"T-Love"
+    },
+    {
+      "entity_id":652,
+      "id":652,
+      "display_label":"P.A.C. Publications"
+    },
+    {
+      "entity_id":653,
+      "id":653,
+      "display_label":"El Battalion"
+    },
+    {
+      "entity_id":654,
+      "id":654,
+      "display_label":"Scientifik El-D"
+    },
+    {
+      "entity_id":655,
+      "id":655,
+      "display_label":"This Kid Named Miles"
+    },
+    {
+      "entity_id":656,
+      "id":656,
+      "display_label":"Patrick Moloney"
+    },
+    {
+      "entity_id":657,
+      "id":657,
+      "display_label":"Bikini Kill"
+    },
+    {
+      "entity_id":658,
+      "id":658,
+      "display_label":"Blondie"
+    },
+    {
+      "entity_id":659,
+      "id":659,
+      "display_label":"Scientifik El-D, God Wize, L Da Headtoucha, K-Slaughta"
+    },
+    {
+      "entity_id":660,
+      "id":660,
+      "display_label":"Chrysalis Records"
+    },
+    {
+      "entity_id":661,
+      "id":661,
+      "display_label":"New Jersey Anarchist Black Cross"
+    },
+    {
+      "entity_id":663,
+      "id":663,
+      "display_label":"Grandmaster Caz"
+    },
+    {
+      "entity_id":664,
+      "id":664,
+      "display_label":"Lyric & Mike Ladd"
+    },
+    {
+      "entity_id":665,
+      "id":665,
+      "display_label":"Chali 2na"
+    },
+    {
+      "entity_id":666,
+      "id":666,
+      "display_label":"Yazeed"
+    },
+    {
+      "entity_id":667,
+      "id":667,
+      "display_label":"Rocker T"
+    },
+    {
+      "entity_id":668,
+      "id":668,
+      "display_label":"Kool Keith"
+    },
+    {
+      "entity_id":669,
+      "id":669,
+      "display_label":"Afu Ra"
+    },
+    {
+      "entity_id":670,
+      "id":670,
+      "display_label":"Siah"
+    },
+    {
+      "entity_id":671,
+      "id":671,
+      "display_label":"Yeshua Da PoED"
+    },
+    {
+      "entity_id":672,
+      "id":672,
+      "display_label":"Raptivism Records"
+    },
+    {
+      "entity_id":673,
+      "id":673,
+      "display_label":"Wise Intelligent"
+    },
+    {
+      "entity_id":674,
+      "id":674,
+      "display_label":"Autoclave"
+    },
+    {
+      "entity_id":675,
+      "id":675,
+      "display_label":"Dischord Records"
+    },
+    {
+      "entity_id":676,
+      "id":676,
+      "display_label":"Zach De La Rocha"
+    },
+    {
+      "entity_id":677,
+      "id":677,
+      "display_label":"Mira Records"
+    },
+    {
+      "entity_id":678,
+      "id":678,
+      "display_label":"Gene Gray"
+    },
+    {
+      "entity_id":679,
+      "id":679,
+      "display_label":"Medusa"
+    },
+    {
+      "entity_id":680,
+      "id":680,
+      "display_label":"Ieye"
+    },
+    {
+      "entity_id":681,
+      "id":681,
+      "display_label":"Von Miesta"
+    },
+    {
+      "entity_id":682,
+      "id":682,
+      "display_label":"Fatjack"
+    },
+    {
+      "entity_id":683,
+      "id":683,
+      "display_label":"Linda Evans"
+    },
+    {
+      "entity_id":684,
+      "id":684,
+      "display_label":"Pat Benatar"
+    },
+    {
+      "entity_id":685,
+      "id":685,
+      "display_label":"Susan Rosenberg"
+    },
+    {
+      "entity_id":686,
+      "id":686,
+      "display_label":"Feline Science"
+    },
+    {
+      "entity_id":687,
+      "id":687,
+      "display_label":"Pickininny Recordings"
+    },
+    {
+      "entity_id":688,
+      "id":688,
+      "display_label":"Wil-Dog"
+    },
+    {
+      "entity_id":689,
+      "id":689,
+      "display_label":"Tragedy"
+    },
+    {
+      "entity_id":690,
+      "id":690,
+      "display_label":"Rich One"
+    },
+    {
+      "entity_id":691,
+      "id":691,
+      "display_label":"Born Against"
+    },
+    {
+      "entity_id":692,
+      "id":692,
+      "display_label":"Bratmobile"
+    },
+    {
+      "entity_id":693,
+      "id":693,
+      "display_label":"Kill Rock Stars"
+    },
+    {
+      "entity_id":694,
+      "id":694,
+      "display_label":"Non Phixion"
+    },
+    {
+      "entity_id":695,
+      "id":695,
+      "display_label":"Chaos"
+    },
+    {
+      "entity_id":696,
+      "id":696,
+      "display_label":"Black Thought"
+    },
+    {
+      "entity_id":697,
+      "id":697,
+      "display_label":"Uncle Howie Records Management"
+    },
+    {
+      "entity_id":698,
+      "id":698,
+      "display_label":"Women in Support of Political Prisoners"
+    },
+    {
+      "entity_id":699,
+      "id":699,
+      "display_label":"Mear One"
+    },
+    {
+      "entity_id":700,
+      "id":700,
+      "display_label":"KARMA"
+    },
+    {
+      "entity_id":701,
+      "id":701,
+      "display_label":"Ricky Powell"
+    },
+    {
+      "entity_id":702,
+      "id":702,
+      "display_label":"Michael Levine"
+    },
+    {
+      "entity_id":703,
+      "id":703,
+      "display_label":"Michael Benebib"
+    },
+    {
+      "entity_id":704,
+      "id":704,
+      "display_label":"Landspeed Records"
+    },
+    {
+      "entity_id":705,
+      "id":705,
+      "display_label":"Chased And Smashed"
+    },
+    {
+      "entity_id":706,
+      "id":706,
+      "display_label":"National Boricua Human Rights Network"
+    },
+    {
+      "entity_id":707,
+      "id":707,
+      "display_label":"Chin Chin"
+    },
+    {
+      "entity_id":708,
+      "id":708,
+      "display_label":"GoodVibe Recordings"
+    },
+    {
+      "entity_id":709,
+      "id":709,
+      "display_label":"Waiting For Bardot"
+    },
+    {
+      "entity_id":710,
+      "id":710,
+      "display_label":"Lil Dap"
+    },
+    {
+      "entity_id":711,
+      "id":711,
+      "display_label":"Necro"
+    },
+    {
+      "entity_id":712,
+      "id":712,
+      "display_label":"Ed O.G."
+    },
+    {
+      "entity_id":715,
+      "id":715,
+      "display_label":"Slumberland Records"
+    },
+    {
+      "entity_id":716,
+      "id":716,
+      "display_label":"Omega Tribe"
+    },
+    {
+      "entity_id":717,
+      "id":717,
+      "display_label":"MF Doom"
+    },
+    {
+      "entity_id":718,
+      "id":718,
+      "display_label":"Suspects"
+    },
+    {
+      "entity_id":719,
+      "id":719,
+      "display_label":"Your Funeral"
+    },
+    {
+      "entity_id":720,
+      "id":720,
+      "display_label":"The Beatnuts"
+    },
+    {
+      "entity_id":721,
+      "id":721,
+      "display_label":"Chubb Rock"
+    },
+    {
+      "entity_id":722,
+      "id":722,
+      "display_label":"Al Tariq"
+    },
+    {
+      "entity_id":723,
+      "id":723,
+      "display_label":"Krondstadt Uprising"
+    },
+    {
+      "entity_id":724,
+      "id":724,
+      "display_label":"Paw Duke"
+    },
+    {
+      "entity_id":725,
+      "id":725,
+      "display_label":"Marly Metal"
+    },
+    {
+      "entity_id":726,
+      "id":726,
+      "display_label":"Deformed"
+    },
+    {
+      "entity_id":727,
+      "id":727,
+      "display_label":"Pyro"
+    },
+    {
+      "entity_id":729,
+      "id":729,
+      "display_label":"Self-Scientific"
+    },
+    {
+      "entity_id":730,
+      "id":730,
+      "display_label":"Moonshine"
+    },
+    {
+      "entity_id":731,
+      "id":731,
+      "display_label":"Dialek"
+    },
+    {
+      "entity_id":732,
+      "id":732,
+      "display_label":"No Label"
+    },
+    {
+      "entity_id":733,
+      "id":733,
+      "display_label":"DJ Khalil"
+    },
+    {
+      "entity_id":734,
+      "id":734,
+      "display_label":"The Rejected"
+    },
+    {
+      "entity_id":735,
+      "id":735,
+      "display_label":"Boffo"
+    },
+    {
+      "entity_id":736,
+      "id":736,
+      "display_label":"XS"
+    },
+    {
+      "entity_id":737,
+      "id":737,
+      "display_label":"Polemic Attack"
+    },
+    {
+      "entity_id":738,
+      "id":738,
+      "display_label":"A.Gardener"
+    },
+    {
+      "entity_id":739,
+      "id":739,
+      "display_label":"Toxic"
+    },
+    {
+      "entity_id":740,
+      "id":740,
+      "display_label":"1984"
+    },
+    {
+      "entity_id":741,
+      "id":741,
+      "display_label":"Toxik Ephex"
+    },
+    {
+      "entity_id":742,
+      "id":742,
+      "display_label":"The Clash"
+    },
+    {
+      "entity_id":743,
+      "id":743,
+      "display_label":"SIC"
+    },
+    {
+      "entity_id":744,
+      "id":744,
+      "display_label":"Molitov Cocktail"
+    },
+    {
+      "entity_id":745,
+      "id":745,
+      "display_label":"Naked"
+    },
+    {
+      "entity_id":746,
+      "id":746,
+      "display_label":"Capital Punishment"
+    },
+    {
+      "entity_id":747,
+      "id":747,
+      "display_label":"Citizens Arrest"
+    },
+    {
+      "entity_id":748,
+      "id":748,
+      "display_label":"Anthrax"
+    },
+    {
+      "entity_id":749,
+      "id":749,
+      "display_label":"Wardance Records"
+    },
+    {
+      "entity_id":750,
+      "id":750,
+      "display_label":"Psuedo Sadists"
+    },
+    {
+      "entity_id":751,
+      "id":751,
+      "display_label":"Total Chaos"
+    },
+    {
+      "entity_id":752,
+      "id":752,
+      "display_label":"Dougie"
+    },
+    {
+      "entity_id":753,
+      "id":753,
+      "display_label":"St Vitus Dancers"
+    },
+    {
+      "entity_id":754,
+      "id":754,
+      "display_label":"Stegz"
+    },
+    {
+      "entity_id":755,
+      "id":755,
+      "display_label":"Metro Youth"
+    },
+    {
+      "entity_id":756,
+      "id":756,
+      "display_label":"Normality Complex"
+    },
+    {
+      "entity_id":757,
+      "id":757,
+      "display_label":"Youth In Asia"
+    },
+    {
+      "entity_id":758,
+      "id":758,
+      "display_label":"Riot Squad"
+    },
+    {
+      "entity_id":759,
+      "id":759,
+      "display_label":"Destructors"
+    },
+    {
+      "entity_id":760,
+      "id":760,
+      "display_label":"The Pits"
+    },
+    {
+      "entity_id":761,
+      "id":761,
+      "display_label":"The Bored"
+    },
+    {
+      "entity_id":762,
+      "id":762,
+      "display_label":"CBS Records"
+    },
+    {
+      "entity_id":763,
+      "id":763,
+      "display_label":"Toby Kettle"
+    },
+    {
+      "entity_id":764,
+      "id":764,
+      "display_label":"Chumbawamba"
+    },
+    {
+      "entity_id":765,
+      "id":765,
+      "display_label":"Passion Killers"
+    },
+    {
+      "entity_id":766,
+      "id":766,
+      "display_label":"Amerikan Arsenal"
+    },
+    {
+      "entity_id":768,
+      "id":768,
+      "display_label":"Conflict"
+    },
+    {
+      "entity_id":769,
+      "id":769,
+      "display_label":"Mecca Normal"
+    },
+    {
+      "entity_id":770,
+      "id":770,
+      "display_label":"K Records"
+    },
+    {
+      "entity_id":771,
+      "id":771,
+      "display_label":"David Lester"
+    },
+    {
+      "entity_id":772,
+      "id":772,
+      "display_label":"Jean Smith"
+    },
+    {
+      "entity_id":774,
+      "id":774,
+      "display_label":"Crass"
+    },
+    {
+      "entity_id":776,
+      "id":776,
+      "display_label":"Goldii Lokks"
+    },
+    {
+      "entity_id":777,
+      "id":777,
+      "display_label":"Pharoahe Monch"
+    },
+    {
+      "entity_id":778,
+      "id":778,
+      "display_label":"Matador Records"
+    },
+    {
+      "entity_id":779,
+      "id":779,
+      "display_label":"Slimkid 3"
+    },
+    {
+      "entity_id":780,
+      "id":780,
+      "display_label":"Sayeed"
+    },
+    {
+      "entity_id":781,
+      "id":781,
+      "display_label":"Ghislain Bellorget"
+    },
+    {
+      "entity_id":782,
+      "id":782,
+      "display_label":"Zack De La Rocha"
+    },
+    {
+      "entity_id":783,
+      "id":783,
+      "display_label":"Channel Live"
+    },
+    {
+      "entity_id":784,
+      "id":784,
+      "display_label":"Chuck D"
+    },
+    {
+      "entity_id":785,
+      "id":785,
+      "display_label":"Divine Styler"
+    },
+    {
+      "entity_id":787,
+      "id":787,
+      "display_label":"Mear"
+    },
+    {
+      "entity_id":788,
+      "id":788,
+      "display_label":"Poison Girls"
+    },
+    {
+      "entity_id":789,
+      "id":789,
+      "display_label":"XNTRIX Records"
+    },
+    {
+      "entity_id":790,
+      "id":790,
+      "display_label":"Passion Armee"
+    },
+    {
+      "entity_id":791,
+      "id":791,
+      "display_label":"Crimpshrine"
+    },
+    {
+      "entity_id":792,
+      "id":792,
+      "display_label":"Lookout Records"
+    },
+    {
+      "entity_id":793,
+      "id":793,
+      "display_label":"Crucial Youth"
+    },
+    {
+      "entity_id":794,
+      "id":794,
+      "display_label":"Cringer"
+    },
+    {
+      "entity_id":795,
+      "id":795,
+      "display_label":"Emotions Records"
+    },
+    {
+      "entity_id":796,
+      "id":796,
+      "display_label":"P.E.A.C.E."
+    },
+    {
+      "entity_id":797,
+      "id":797,
+      "display_label":"Away"
+    },
+    {
+      "entity_id":798,
+      "id":798,
+      "display_label":"Necrodamus"
+    },
+    {
+      "entity_id":799,
+      "id":799,
+      "display_label":"Bonnie Gordon"
+    },
+    {
+      "entity_id":801,
+      "id":801,
+      "display_label":"United Prisoners Union"
+    },
+    {
+      "entity_id":802,
+      "id":802,
+      "display_label":"Anton van Dalen"
+    },
+    {
+      "entity_id":803,
+      "id":803,
+      "display_label":"San Francisco Print Collective"
+    },
+    {
+      "entity_id":804,
+      "id":804,
+      "display_label":"Yuko Tohohira"
+    },
+    {
+      "entity_id":806,
+      "id":806,
+      "display_label":"Greg Mihalko"
+    },
+    {
+      "entity_id":807,
+      "id":807,
+      "display_label":"Cedar Nordbye"
+    },
+    {
+      "entity_id":809,
+      "id":809,
+      "display_label":"International Communist Current"
+    },
+    {
+      "entity_id":810,
+      "id":810,
+      "display_label":"Morgan Buck"
+    },
+    {
+      "entity_id":811,
+      "id":811,
+      "display_label":"Malav Kanuga"
+    },
+    {
+      "entity_id":812,
+      "id":812,
+      "display_label":"Certain Days"
+    },
+    {
+      "entity_id":813,
+      "id":813,
+      "display_label":"Lynne Stewart"
+    },
+    {
+      "entity_id":816,
+      "id":816,
+      "display_label":"Aric McBay"
+    },
+    {
+      "entity_id":817,
+      "id":817,
+      "display_label":"Shannon Willmott"
+    },
+    {
+      "entity_id":818,
+      "id":818,
+      "display_label":"Coalition Against Israeli Apartheid"
+    },
+    {
+      "entity_id":820,
+      "id":820,
+      "display_label":"Emily Kantar"
+    },
+    {
+      "entity_id":821,
+      "id":821,
+      "display_label":"Tom Manning"
+    },
+    {
+      "entity_id":822,
+      "id":822,
+      "display_label":"Safiya Bukhari"
+    },
+    {
+      "entity_id":823,
+      "id":823,
+      "display_label":"Ojore Lutalo"
+    },
+    {
+      "entity_id":824,
+      "id":824,
+      "display_label":"Tim Groves"
+    },
+    {
+      "entity_id":825,
+      "id":825,
+      "display_label":"Kara Sievewright"
+    },
+    {
+      "entity_id":826,
+      "id":826,
+      "display_label":"David Gilbert"
+    },
+    {
+      "entity_id":827,
+      "id":827,
+      "display_label":"We Are The Crisis"
+    },
+    {
+      "entity_id":828,
+      "id":828,
+      "display_label":"Jihad Abdulmumit"
+    },
+    {
+      "entity_id":829,
+      "id":829,
+      "display_label":"Gerald and Maas"
+    },
+    {
+      "entity_id":831,
+      "id":831,
+      "display_label":"Denver Anarchist Black Cross"
+    },
+    {
+      "entity_id":832,
+      "id":832,
+      "display_label":"Antonio Guerrero Rodriguez"
+    },
+    {
+      "entity_id":833,
+      "id":833,
+      "display_label":"Sundiata Acoli"
+    },
+    {
+      "entity_id":834,
+      "id":834,
+      "display_label":"Dave Ron"
+    },
+    {
+      "entity_id":835,
+      "id":835,
+      "display_label":"Malaquias Montoya"
+    },
+    {
+      "entity_id":837,
+      "id":837,
+      "display_label":"Herman Wallace"
+    },
+    {
+      "entity_id":838,
+      "id":838,
+      "display_label":"Jackie Sumell"
+    },
+    {
+      "entity_id":839,
+      "id":839,
+      "display_label":"Daniel McGowan"
+    },
+    {
+      "entity_id":840,
+      "id":840,
+      "display_label":"Alvaro Luna Hernandez"
+    },
+    {
+      "entity_id":841,
+      "id":841,
+      "display_label":"Theodore Harris"
+    },
+    {
+      "entity_id":842,
+      "id":842,
+      "display_label":"Robert Seth Hayes"
+    },
+    {
+      "entity_id":843,
+      "id":843,
+      "display_label":"Chrystos"
+    },
+    {
+      "entity_id":844,
+      "id":844,
+      "display_label":"Doug Minkler"
+    },
+    {
+      "entity_id":845,
+      "id":845,
+      "display_label":"Rebekah Tar\u00edn"
+    },
+    {
+      "entity_id":846,
+      "id":846,
+      "display_label":"Kandis Friesen"
+    },
+    {
+      "entity_id":847,
+      "id":847,
+      "display_label":"Farouk Abdel-Muhti"
+    },
+    {
+      "entity_id":848,
+      "id":848,
+      "display_label":"Mohamed Cherfi"
+    },
+    {
+      "entity_id":849,
+      "id":849,
+      "display_label":"Susie Day"
+    },
+    {
+      "entity_id":850,
+      "id":850,
+      "display_label":"Chesa Boudin"
+    },
+    {
+      "entity_id":851,
+      "id":851,
+      "display_label":"Emory Douglas"
+    },
+    {
+      "entity_id":852,
+      "id":852,
+      "display_label":"Jonah Fertig"
+    },
+    {
+      "entity_id":853,
+      "id":853,
+      "display_label":"Mirna Abdo"
+    },
+    {
+      "entity_id":854,
+      "id":854,
+      "display_label":"Sumoud"
+    },
+    {
+      "entity_id":855,
+      "id":855,
+      "display_label":"Carlos Cortez"
+    },
+    {
+      "entity_id":856,
+      "id":856,
+      "display_label":"Ward Churchill"
+    },
+    {
+      "entity_id":857,
+      "id":857,
+      "display_label":"Gord Hill"
+    },
+    {
+      "entity_id":858,
+      "id":858,
+      "display_label":"George Katsiaficas"
+    },
+    {
+      "entity_id":859,
+      "id":859,
+      "display_label":"Joy James"
+    },
+    {
+      "entity_id":860,
+      "id":860,
+      "display_label":"Xenios Zittis"
+    },
+    {
+      "entity_id":861,
+      "id":861,
+      "display_label":"Soffiyah Elijah"
+    },
+    {
+      "entity_id":862,
+      "id":862,
+      "display_label":"Ashanti Alston"
+    },
+    {
+      "entity_id":863,
+      "id":863,
+      "display_label":"Phyllis Jackson"
+    },
+    {
+      "entity_id":864,
+      "id":864,
+      "display_label":"Assata Shakur"
+    },
+    {
+      "entity_id":865,
+      "id":865,
+      "display_label":"Claude Marks"
+    },
+    {
+      "entity_id":866,
+      "id":866,
+      "display_label":"Missouri Prisoners' Labor Union"
+    },
+    {
+      "entity_id":867,
+      "id":867,
+      "display_label":"Black Unicorn Press"
+    },
+    {
+      "entity_id":868,
+      "id":868,
+      "display_label":"Peace Pledge Union Works For A Future Without War"
+    },
+    {
+      "entity_id":869,
+      "id":869,
+      "display_label":"PSC Publishers"
+    },
+    {
+      "entity_id":870,
+      "id":870,
+      "display_label":"Bulldozer Collective"
+    },
+    {
+      "entity_id":871,
+      "id":871,
+      "display_label":"Wallace House"
+    },
+    {
+      "entity_id":872,
+      "id":872,
+      "display_label":"Folkways Records"
+    },
+    {
+      "entity_id":873,
+      "id":873,
+      "display_label":"J\u00f6rgen Widsell"
+    },
+    {
+      "entity_id":874,
+      "id":874,
+      "display_label":"Lars Holmberg"
+    },
+    {
+      "entity_id":875,
+      "id":875,
+      "display_label":"Solidarnosc"
+    },
+    {
+      "entity_id":876,
+      "id":876,
+      "display_label":"New York City Anarchist Black Cross"
+    },
+    {
+      "entity_id":877,
+      "id":877,
+      "display_label":"Tamms Year Ten"
+    },
+    {
+      "entity_id":878,
+      "id":878,
+      "display_label":"National Public Radio"
+    },
+    {
+      "entity_id":879,
+      "id":879,
+      "display_label":"Jose Ortega"
+    },
+    {
+      "entity_id":880,
+      "id":880,
+      "display_label":"Hazel Dickens"
+    },
+    {
+      "entity_id":881,
+      "id":881,
+      "display_label":"Reel World String Band"
+    },
+    {
+      "entity_id":882,
+      "id":882,
+      "display_label":"Phyllis Boyens"
+    },
+    {
+      "entity_id":883,
+      "id":883,
+      "display_label":"Sarah Gunning"
+    },
+    {
+      "entity_id":884,
+      "id":884,
+      "display_label":"Florence Reece"
+    },
+    {
+      "entity_id":885,
+      "id":885,
+      "display_label":"F. Vialpando"
+    },
+    {
+      "entity_id":886,
+      "id":886,
+      "display_label":"Bar None"
+    },
+    {
+      "entity_id":887,
+      "id":887,
+      "display_label":"Rounder Records"
+    },
+    {
+      "entity_id":888,
+      "id":888,
+      "display_label":"Versus"
+    },
+    {
+      "entity_id":889,
+      "id":889,
+      "display_label":"Sue Coe"
+    },
+    {
+      "entity_id":890,
+      "id":890,
+      "display_label":"Mandy Coe"
+    },
+    {
+      "entity_id":891,
+      "id":891,
+      "display_label":"Rupert Garcia"
+    },
+    {
+      "entity_id":892,
+      "id":892,
+      "display_label":"Northern California Committees Of Correspondence"
+    },
+    {
+      "entity_id":893,
+      "id":893,
+      "display_label":"Inkworks Press"
+    },
+    {
+      "entity_id":894,
+      "id":894,
+      "display_label":"Madame Binh Graphics Collective"
+    },
+    {
+      "entity_id":895,
+      "id":895,
+      "display_label":"Refuse & Resist!"
+    },
+    {
+      "entity_id":896,
+      "id":896,
+      "display_label":"San Francisco Poster Brigade"
+    },
+    {
+      "entity_id":897,
+      "id":897,
+      "display_label":"Jericho Movement"
+    },
+    {
+      "entity_id":898,
+      "id":898,
+      "display_label":"October 10th Coalition"
+    },
+    {
+      "entity_id":899,
+      "id":899,
+      "display_label":"Free Mumia Abu-Jamal Coalition"
+    },
+    {
+      "entity_id":900,
+      "id":900,
+      "display_label":"Leonard Peltier Support Group"
+    },
+    {
+      "entity_id":901,
+      "id":901,
+      "display_label":"Malcolm X Commemoration Committee"
+    },
+    {
+      "entity_id":902,
+      "id":902,
+      "display_label":"ProLibertad"
+    },
+    {
+      "entity_id":903,
+      "id":903,
+      "display_label":"Resistance in Brooklyn"
+    },
+    {
+      "entity_id":904,
+      "id":904,
+      "display_label":"Nuh Washington Foundation"
+    },
+    {
+      "entity_id":905,
+      "id":905,
+      "display_label":"E Richard Sorenson"
+    },
+    {
+      "entity_id":906,
+      "id":906,
+      "display_label":"Almanac Singers"
+    },
+    {
+      "entity_id":907,
+      "id":907,
+      "display_label":"Pete Seeger"
+    },
+    {
+      "entity_id":908,
+      "id":908,
+      "display_label":"Michael Tanzer"
+    },
+    {
+      "entity_id":909,
+      "id":909,
+      "display_label":"Morrigan"
+    },
+    {
+      "entity_id":910,
+      "id":910,
+      "display_label":"Bob Webb"
+    },
+    {
+      "entity_id":911,
+      "id":911,
+      "display_label":"Mike Stanley"
+    },
+    {
+      "entity_id":912,
+      "id":912,
+      "display_label":"Paddy Hernon"
+    },
+    {
+      "entity_id":913,
+      "id":913,
+      "display_label":"Stan Hugill"
+    },
+    {
+      "entity_id":914,
+      "id":914,
+      "display_label":"Marc Bridgham"
+    },
+    {
+      "entity_id":915,
+      "id":915,
+      "display_label":"Stuart Frank"
+    },
+    {
+      "entity_id":916,
+      "id":916,
+      "display_label":"Mary Malloy"
+    },
+    {
+      "entity_id":917,
+      "id":917,
+      "display_label":"Peter Persoff"
+    },
+    {
+      "entity_id":918,
+      "id":918,
+      "display_label":"Clark Branson"
+    },
+    {
+      "entity_id":919,
+      "id":919,
+      "display_label":"MacLeod & Holdstock"
+    },
+    {
+      "entity_id":920,
+      "id":920,
+      "display_label":"David Baumgarten"
+    },
+    {
+      "entity_id":921,
+      "id":921,
+      "display_label":"U. Utah Phillips"
+    },
+    {
+      "entity_id":922,
+      "id":922,
+      "display_label":"Mystic Seaport Museum"
+    },
+    {
+      "entity_id":923,
+      "id":923,
+      "display_label":"SNCC Freedom Singers"
+    },
+    {
+      "entity_id":924,
+      "id":924,
+      "display_label":"Betty Mae Fikes"
+    },
+    {
+      "entity_id":925,
+      "id":925,
+      "display_label":"Willie Peacock"
+    },
+    {
+      "entity_id":926,
+      "id":926,
+      "display_label":"Hollis Watkins"
+    },
+    {
+      "entity_id":927,
+      "id":927,
+      "display_label":"Amanda Bowens Perdew"
+    },
+    {
+      "entity_id":928,
+      "id":928,
+      "display_label":"Virginia Davis"
+    },
+    {
+      "entity_id":929,
+      "id":929,
+      "display_label":"Fannie Lou Hamer"
+    },
+    {
+      "entity_id":930,
+      "id":930,
+      "display_label":"Integration Grooves"
+    },
+    {
+      "entity_id":931,
+      "id":931,
+      "display_label":"CORE Freedom Singers"
+    },
+    {
+      "entity_id":932,
+      "id":932,
+      "display_label":"Alabama Christian Movement Choir"
+    },
+    {
+      "entity_id":933,
+      "id":933,
+      "display_label":"Jimmy Collier"
+    },
+    {
+      "entity_id":934,
+      "id":934,
+      "display_label":"Cleo Kennedy"
+    },
+    {
+      "entity_id":935,
+      "id":935,
+      "display_label":"Sam Block"
+    },
+    {
+      "entity_id":936,
+      "id":936,
+      "display_label":"Mabel Hillary"
+    },
+    {
+      "entity_id":937,
+      "id":937,
+      "display_label":"Matthew Jones"
+    },
+    {
+      "entity_id":938,
+      "id":938,
+      "display_label":"Cordell Reagon"
+    },
+    {
+      "entity_id":939,
+      "id":939,
+      "display_label":"Rev. Lawrence Campbell"
+    },
+    {
+      "entity_id":940,
+      "id":940,
+      "display_label":"Bertha Gober"
+    },
+    {
+      "entity_id":941,
+      "id":941,
+      "display_label":"Carlton Reese"
+    },
+    {
+      "entity_id":942,
+      "id":942,
+      "display_label":"Bernice Johnson"
+    },
+    {
+      "entity_id":943,
+      "id":943,
+      "display_label":"Nancy Kurshan"
+    },
+    {
+      "entity_id":944,
+      "id":944,
+      "display_label":"Mary Taylor"
+    },
+    {
+      "entity_id":945,
+      "id":945,
+      "display_label":"Freedom Now!"
+    },
+    {
+      "entity_id":946,
+      "id":946,
+      "display_label":"Campaign to End The Death Penalty"
+    },
+    {
+      "entity_id":947,
+      "id":947,
+      "display_label":"Assata Shakur Defense Committee"
+    },
+    {
+      "entity_id":948,
+      "id":948,
+      "display_label":"Big Bill Broonzy"
+    },
+    {
+      "entity_id":949,
+      "id":949,
+      "display_label":"Memphis Slim"
+    },
+    {
+      "entity_id":950,
+      "id":950,
+      "display_label":"Willie Dixon"
+    },
+    {
+      "entity_id":951,
+      "id":951,
+      "display_label":"Smithsonian Institution"
+    },
+    {
+      "entity_id":952,
+      "id":952,
+      "display_label":"Rev. Frederick Douglass Kirkpatrick"
+    },
+    {
+      "entity_id":953,
+      "id":953,
+      "display_label":"Jeanne Humphries"
+    },
+    {
+      "entity_id":954,
+      "id":954,
+      "display_label":"Media Projects"
+    },
+    {
+      "entity_id":955,
+      "id":955,
+      "display_label":"Suni Paz"
+    },
+    {
+      "entity_id":956,
+      "id":956,
+      "display_label":"Martha Siegel"
+    },
+    {
+      "entity_id":957,
+      "id":957,
+      "display_label":"Norton Torres"
+    },
+    {
+      "entity_id":958,
+      "id":958,
+      "display_label":"Ramiro Fernandez"
+    },
+    {
+      "entity_id":959,
+      "id":959,
+      "display_label":"Mike Glick"
+    },
+    {
+      "entity_id":960,
+      "id":960,
+      "display_label":"Teddy Holt"
+    },
+    {
+      "entity_id":961,
+      "id":961,
+      "display_label":"Ronald Clyne"
+    },
+    {
+      "entity_id":962,
+      "id":962,
+      "display_label":"Elsa Garcia Pandavenes"
+    },
+    {
+      "entity_id":963,
+      "id":963,
+      "display_label":"Leadbelly"
+    },
+    {
+      "entity_id":964,
+      "id":964,
+      "display_label":"Alan Lomax"
+    },
+    {
+      "entity_id":965,
+      "id":965,
+      "display_label":"John Lomax"
+    },
+    {
+      "entity_id":966,
+      "id":966,
+      "display_label":"Frederick Ramsey"
+    },
+    {
+      "entity_id":967,
+      "id":967,
+      "display_label":"Ernst Busch"
+    },
+    {
+      "entity_id":968,
+      "id":968,
+      "display_label":"Tom Glazer"
+    },
+    {
+      "entity_id":969,
+      "id":969,
+      "display_label":"Baldwin Hawes"
+    },
+    {
+      "entity_id":970,
+      "id":970,
+      "display_label":"Bess Hawes"
+    },
+    {
+      "entity_id":971,
+      "id":971,
+      "display_label":"Interdesign"
+    },
+    {
+      "entity_id":972,
+      "id":972,
+      "display_label":"New World Records"
+    },
+    {
+      "entity_id":973,
+      "id":973,
+      "display_label":"Bing Crosby"
+    },
+    {
+      "entity_id":974,
+      "id":974,
+      "display_label":"Hal Kemp"
+    },
+    {
+      "entity_id":975,
+      "id":975,
+      "display_label":"Rudy Vallee"
+    },
+    {
+      "entity_id":976,
+      "id":976,
+      "display_label":"Glen Gray"
+    },
+    {
+      "entity_id":977,
+      "id":977,
+      "display_label":"Kenny Baker"
+    },
+    {
+      "entity_id":978,
+      "id":978,
+      "display_label":"Shirley Temple"
+    },
+    {
+      "entity_id":979,
+      "id":979,
+      "display_label":"Dick Powell"
+    },
+    {
+      "entity_id":980,
+      "id":980,
+      "display_label":"Uncle Dave Macon"
+    },
+    {
+      "entity_id":981,
+      "id":981,
+      "display_label":"The Delmore Brothers"
+    },
+    {
+      "entity_id":982,
+      "id":982,
+      "display_label":"Elizabeth Knight"
+    },
+    {
+      "entity_id":983,
+      "id":983,
+      "display_label":"Bill Cox"
+    },
+    {
+      "entity_id":984,
+      "id":984,
+      "display_label":"Sol Julty"
+    },
+    {
+      "entity_id":985,
+      "id":985,
+      "display_label":"Woody Guthrie"
+    },
+    {
+      "entity_id":986,
+      "id":986,
+      "display_label":"Gene Autry"
+    },
+    {
+      "entity_id":987,
+      "id":987,
+      "display_label":"Irwin Silber"
+    },
+    {
+      "entity_id":988,
+      "id":988,
+      "display_label":"The Evening Breezes Sextet"
+    },
+    {
+      "entity_id":989,
+      "id":989,
+      "display_label":"Peggy Seeger"
+    },
+    {
+      "entity_id":990,
+      "id":990,
+      "display_label":"Mike Seeger"
+    },
+    {
+      "entity_id":991,
+      "id":991,
+      "display_label":"Ruth Crawford Seeger"
+    },
+    {
+      "entity_id":992,
+      "id":992,
+      "display_label":"The New Haven Women's Liberation Band"
+    },
+    {
+      "entity_id":993,
+      "id":993,
+      "display_label":"The Chicago Women's Liberation Rock Band"
+    },
+    {
+      "entity_id":994,
+      "id":994,
+      "display_label":"Susan Abod"
+    },
+    {
+      "entity_id":995,
+      "id":995,
+      "display_label":"Sherry Jenkins"
+    },
+    {
+      "entity_id":996,
+      "id":996,
+      "display_label":"Patricia Miller"
+    },
+    {
+      "entity_id":997,
+      "id":997,
+      "display_label":"Linda Mitchell"
+    },
+    {
+      "entity_id":998,
+      "id":998,
+      "display_label":"Fania Montalvo"
+    },
+    {
+      "entity_id":999,
+      "id":999,
+      "display_label":"Suzanne Prescott"
+    },
+    {
+      "entity_id":1000,
+      "id":1000,
+      "display_label":"Naomi Weisstein"
+    },
+    {
+      "entity_id":1001,
+      "id":1001,
+      "display_label":"Rika Alper"
+    },
+    {
+      "entity_id":1002,
+      "id":1002,
+      "display_label":"Virginia Blaisdell"
+    },
+    {
+      "entity_id":1003,
+      "id":1003,
+      "display_label":"Harriet Cohen"
+    },
+    {
+      "entity_id":1004,
+      "id":1004,
+      "display_label":"Kathleen McClure"
+    },
+    {
+      "entity_id":1005,
+      "id":1005,
+      "display_label":"Leah Margulies"
+    },
+    {
+      "entity_id":1006,
+      "id":1006,
+      "display_label":"Judy Miller"
+    },
+    {
+      "entity_id":1007,
+      "id":1007,
+      "display_label":"Pat Ouellette"
+    },
+    {
+      "entity_id":1008,
+      "id":1008,
+      "display_label":"Donna Glickman"
+    },
+    {
+      "entity_id":1009,
+      "id":1009,
+      "display_label":"Aenjai Graphics"
+    },
+    {
+      "entity_id":1010,
+      "id":1010,
+      "display_label":"Stephen Dwoskin"
+    },
+    {
+      "entity_id":1011,
+      "id":1011,
+      "display_label":"Ewan MacColl"
+    },
+    {
+      "entity_id":1012,
+      "id":1012,
+      "display_label":"Mike Cooper"
+    },
+    {
+      "entity_id":1013,
+      "id":1013,
+      "display_label":"Andrew Lubicz"
+    },
+    {
+      "entity_id":1014,
+      "id":1014,
+      "display_label":"Jacqueline Sharpe"
+    },
+    {
+      "entity_id":1015,
+      "id":1015,
+      "display_label":"Walter Raim"
+    },
+    {
+      "entity_id":1016,
+      "id":1016,
+      "display_label":"Cutty Wren Records"
+    },
+    {
+      "entity_id":1017,
+      "id":1017,
+      "display_label":"Stanley Chamberlain"
+    },
+    {
+      "entity_id":1018,
+      "id":1018,
+      "display_label":"Columbia Records"
+    },
+    {
+      "entity_id":1019,
+      "id":1019,
+      "display_label":"Mike Berniker"
+    },
+    {
+      "entity_id":1020,
+      "id":1020,
+      "display_label":"John Hammond"
+    },
+    {
+      "entity_id":1021,
+      "id":1021,
+      "display_label":"Dan Seeger"
+    },
+    {
+      "entity_id":1022,
+      "id":1022,
+      "display_label":"People's Communications Committee"
+    },
+    {
+      "entity_id":1024,
+      "id":1024,
+      "display_label":"Ann Arbor Tribal Council"
+    },
+    {
+      "entity_id":1025,
+      "id":1025,
+      "display_label":"Tom Wilson"
+    },
+    {
+      "entity_id":1026,
+      "id":1026,
+      "display_label":"Jim Marshall"
+    },
+    {
+      "entity_id":1028,
+      "id":1028,
+      "display_label":"Jean Hart"
+    },
+    {
+      "entity_id":1030,
+      "id":1030,
+      "display_label":"Les Pine"
+    },
+    {
+      "entity_id":1031,
+      "id":1031,
+      "display_label":"Al Moss"
+    },
+    {
+      "entity_id":1032,
+      "id":1032,
+      "display_label":"Laura Duncan"
+    },
+    {
+      "entity_id":1033,
+      "id":1033,
+      "display_label":"Earl Robinson"
+    },
+    {
+      "entity_id":1034,
+      "id":1034,
+      "display_label":"Betty Sanders"
+    },
+    {
+      "entity_id":1035,
+      "id":1035,
+      "display_label":"Jackie Berman"
+    },
+    {
+      "entity_id":1036,
+      "id":1036,
+      "display_label":"Jerry Silverman"
+    },
+    {
+      "entity_id":1037,
+      "id":1037,
+      "display_label":"Leon Bibb"
+    },
+    {
+      "entity_id":1038,
+      "id":1038,
+      "display_label":"Jewish Young Folksingers"
+    },
+    {
+      "entity_id":1039,
+      "id":1039,
+      "display_label":"Bob and Louise DeCormier"
+    },
+    {
+      "entity_id":1040,
+      "id":1040,
+      "display_label":"Sylvia Kahn"
+    },
+    {
+      "entity_id":1041,
+      "id":1041,
+      "display_label":"Sonny Terry"
+    },
+    {
+      "entity_id":1042,
+      "id":1042,
+      "display_label":"Peoples Artists"
+    },
+    {
+      "entity_id":1043,
+      "id":1043,
+      "display_label":"Ed Epstein"
+    },
+    {
+      "entity_id":1045,
+      "id":1045,
+      "display_label":"Hootenanny Records"
+    },
+    {
+      "entity_id":1046,
+      "id":1046,
+      "display_label":"Buffy Sainte-Marie"
+    },
+    {
+      "entity_id":1047,
+      "id":1047,
+      "display_label":"Art Davis"
+    },
+    {
+      "entity_id":1048,
+      "id":1048,
+      "display_label":"Patrick Sky"
+    },
+    {
+      "entity_id":1049,
+      "id":1049,
+      "display_label":"David Gahr"
+    },
+    {
+      "entity_id":1051,
+      "id":1051,
+      "display_label":"Elmer Jared Gordon"
+    },
+    {
+      "entity_id":1052,
+      "id":1052,
+      "display_label":"Vanguard Recording Society"
+    },
+    {
+      "entity_id":1053,
+      "id":1053,
+      "display_label":"Jack Nitzsche"
+    },
+    {
+      "entity_id":1054,
+      "id":1054,
+      "display_label":"Guy Webster"
+    },
+    {
+      "entity_id":1055,
+      "id":1055,
+      "display_label":"Maynard Solomon"
+    },
+    {
+      "entity_id":1056,
+      "id":1056,
+      "display_label":"Peter Schickele"
+    },
+    {
+      "entity_id":1057,
+      "id":1057,
+      "display_label":"Michael Czajkowski"
+    },
+    {
+      "entity_id":1058,
+      "id":1058,
+      "display_label":"John Carviotto"
+    },
+    {
+      "entity_id":1059,
+      "id":1059,
+      "display_label":"Rick Oxendine"
+    },
+    {
+      "entity_id":1060,
+      "id":1060,
+      "display_label":"Bob Bozina"
+    },
+    {
+      "entity_id":1061,
+      "id":1061,
+      "display_label":"Russ Savakus"
+    },
+    {
+      "entity_id":1062,
+      "id":1062,
+      "display_label":"Bruce Langhorne"
+    },
+    {
+      "entity_id":1064,
+      "id":1064,
+      "display_label":"Lottie Kimbrough"
+    },
+    {
+      "entity_id":1065,
+      "id":1065,
+      "display_label":"Moses Asch"
+    },
+    {
+      "entity_id":1066,
+      "id":1066,
+      "display_label":"Craig Mierop"
+    },
+    {
+      "entity_id":1067,
+      "id":1067,
+      "display_label":"Joan Baez"
+    },
+    {
+      "entity_id":1068,
+      "id":1068,
+      "display_label":"Wilton Felder"
+    },
+    {
+      "entity_id":1069,
+      "id":1069,
+      "display_label":"Jim Gordon"
+    },
+    {
+      "entity_id":1070,
+      "id":1070,
+      "display_label":"Larry Carlton"
+    },
+    {
+      "entity_id":1071,
+      "id":1071,
+      "display_label":"Dean Parks"
+    },
+    {
+      "entity_id":1072,
+      "id":1072,
+      "display_label":"Larry Knechtel"
+    },
+    {
+      "entity_id":1073,
+      "id":1073,
+      "display_label":"Reinie Press"
+    },
+    {
+      "entity_id":1075,
+      "id":1075,
+      "display_label":"Joe Sample"
+    },
+    {
+      "entity_id":1076,
+      "id":1076,
+      "display_label":"David Paich"
+    },
+    {
+      "entity_id":1077,
+      "id":1077,
+      "display_label":"Red Rhodes"
+    },
+    {
+      "entity_id":1079,
+      "id":1079,
+      "display_label":"Malcolm Cecil"
+    },
+    {
+      "entity_id":1080,
+      "id":1080,
+      "display_label":"Hampton Hawes"
+    },
+    {
+      "entity_id":1081,
+      "id":1081,
+      "display_label":"Tom Scott"
+    },
+    {
+      "entity_id":1082,
+      "id":1082,
+      "display_label":"Max Bennett"
+    },
+    {
+      "entity_id":1083,
+      "id":1083,
+      "display_label":"John Guerin"
+    },
+    {
+      "entity_id":1084,
+      "id":1084,
+      "display_label":"Rick Lo Tempio"
+    },
+    {
+      "entity_id":1085,
+      "id":1085,
+      "display_label":"Joni Mitchell"
+    },
+    {
+      "entity_id":1086,
+      "id":1086,
+      "display_label":"Bernard Gelb"
+    },
+    {
+      "entity_id":1087,
+      "id":1087,
+      "display_label":"Denis Preston"
+    },
+    {
+      "entity_id":1088,
+      "id":1088,
+      "display_label":"Black Prisoners"
+    },
+    {
+      "entity_id":1089,
+      "id":1089,
+      "display_label":"Paul Robeson"
+    },
+    {
+      "entity_id":1090,
+      "id":1090,
+      "display_label":"Alan Booth"
+    },
+    {
+      "entity_id":1091,
+      "id":1091,
+      "display_label":"PYE Nixa"
+    },
+    {
+      "entity_id":1092,
+      "id":1092,
+      "display_label":"Jules Halfant"
+    },
+    {
+      "entity_id":1093,
+      "id":1093,
+      "display_label":"Harriet Wingreen"
+    },
+    {
+      "entity_id":1094,
+      "id":1094,
+      "display_label":"Monitor"
+    },
+    {
+      "entity_id":1095,
+      "id":1095,
+      "display_label":"Robin Adler"
+    },
+    {
+      "entity_id":1096,
+      "id":1096,
+      "display_label":"Guy Carawan"
+    },
+    {
+      "entity_id":1097,
+      "id":1097,
+      "display_label":"Reverend Ben Gay"
+    },
+    {
+      "entity_id":1098,
+      "id":1098,
+      "display_label":"Activists In Albany, Georgia"
+    },
+    {
+      "entity_id":1099,
+      "id":1099,
+      "display_label":"Dauntless"
+    },
+    {
+      "entity_id":1100,
+      "id":1100,
+      "display_label":"CORE (Congress of Racial Equality)"
+    },
+    {
+      "entity_id":1101,
+      "id":1101,
+      "display_label":"Mercury Records"
+    },
+    {
+      "entity_id":1102,
+      "id":1102,
+      "display_label":"John Lewis"
+    },
+    {
+      "entity_id":1103,
+      "id":1103,
+      "display_label":"ESP Disk"
+    },
+    {
+      "entity_id":1104,
+      "id":1104,
+      "display_label":"Black Liberation Movement"
+    },
+    {
+      "entity_id":1105,
+      "id":1105,
+      "display_label":"Elaine Brown"
+    },
+    {
+      "entity_id":1106,
+      "id":1106,
+      "display_label":"Horace Tapscott"
+    },
+    {
+      "entity_id":1107,
+      "id":1107,
+      "display_label":"Sweet Honey In The Rock"
+    },
+    {
+      "entity_id":1110,
+      "id":1110,
+      "display_label":"Yasmeen Sutton"
+    },
+    {
+      "entity_id":1111,
+      "id":1111,
+      "display_label":"Michael Velli"
+    },
+    {
+      "entity_id":1112,
+      "id":1112,
+      "display_label":"Isaak Illich Rubin"
+    },
+    {
+      "entity_id":1113,
+      "id":1113,
+      "display_label":"Voline"
+    },
+    {
+      "entity_id":1114,
+      "id":1114,
+      "display_label":"Milos Samardzija"
+    },
+    {
+      "entity_id":1115,
+      "id":1115,
+      "display_label":"Detroit Printing Co-op"
+    },
+    {
+      "entity_id":1116,
+      "id":1116,
+      "display_label":"Fredy Perlman"
+    },
+    {
+      "entity_id":1117,
+      "id":1117,
+      "display_label":"Black And Red"
+    },
+    {
+      "entity_id":1118,
+      "id":1118,
+      "display_label":"Holley Cantine"
+    },
+    {
+      "entity_id":1119,
+      "id":1119,
+      "display_label":"Sophia Nachala"
+    },
+    {
+      "entity_id":1122,
+      "id":1122,
+      "display_label":"Yarostan Vochek"
+    },
+    {
+      "entity_id":1123,
+      "id":1123,
+      "display_label":"Yarustan Vochek"
+    },
+    {
+      "entity_id":1124,
+      "id":1124,
+      "display_label":"Jean Barrot"
+    },
+    {
+      "entity_id":1125,
+      "id":1125,
+      "display_label":"Francois Martin"
+    },
+    {
+      "entity_id":1126,
+      "id":1126,
+      "display_label":"Henri Simon"
+    },
+    {
+      "entity_id":1127,
+      "id":1127,
+      "display_label":"Lorraine Perlman"
+    },
+    {
+      "entity_id":1129,
+      "id":1129,
+      "display_label":"Jos\u00e9 Peirats"
+    },
+    {
+      "entity_id":1130,
+      "id":1130,
+      "display_label":"Andy Anderson"
+    },
+    {
+      "entity_id":1131,
+      "id":1131,
+      "display_label":"Peter Arshinov"
+    },
+    {
+      "entity_id":1132,
+      "id":1132,
+      "display_label":"Solidarity (Chicago)"
+    },
+    {
+      "entity_id":1133,
+      "id":1133,
+      "display_label":"Akil Al-Jundi"
+    },
+    {
+      "entity_id":1134,
+      "id":1134,
+      "display_label":"Prisoners Solidarity Committee"
+    },
+    {
+      "entity_id":1135,
+      "id":1135,
+      "display_label":"Lallan"
+    },
+    {
+      "entity_id":1136,
+      "id":1136,
+      "display_label":"Solidarity (London)"
+    },
+    {
+      "entity_id":1137,
+      "id":1137,
+      "display_label":"Situationist International"
+    },
+    {
+      "entity_id":1138,
+      "id":1138,
+      "display_label":"Students At The University Of Strassbourg"
+    },
+    {
+      "entity_id":1139,
+      "id":1139,
+      "display_label":"John Ricklefs"
+    },
+    {
+      "entity_id":1140,
+      "id":1140,
+      "display_label":"Situationist Intertan"
+    },
+    {
+      "entity_id":1141,
+      "id":1141,
+      "display_label":"Jaques Camette"
+    },
+    {
+      "entity_id":1142,
+      "id":1142,
+      "display_label":"Lorraine Pearlman"
+    },
+    {
+      "entity_id":1143,
+      "id":1143,
+      "display_label":"Peter Rachleff"
+    },
+    {
+      "entity_id":1144,
+      "id":1144,
+      "display_label":"Alan Wallach"
+    },
+    {
+      "entity_id":1145,
+      "id":1145,
+      "display_label":"J. Cicero"
+    },
+    {
+      "entity_id":1146,
+      "id":1146,
+      "display_label":"Jacques Camatte"
+    },
+    {
+      "entity_id":1147,
+      "id":1147,
+      "display_label":"Stephanie Browner"
+    },
+    {
+      "entity_id":1148,
+      "id":1148,
+      "display_label":"Steven Deutsch"
+    },
+    {
+      "entity_id":1149,
+      "id":1149,
+      "display_label":"Huub Sanders"
+    },
+    {
+      "entity_id":1151,
+      "id":1151,
+      "display_label":"Steve Lambert"
+    },
+    {
+      "entity_id":1152,
+      "id":1152,
+      "display_label":"Laura Zelasnic"
+    },
+    {
+      "entity_id":1153,
+      "id":1153,
+      "display_label":"DeeDee Halleck"
+    },
+    {
+      "entity_id":1154,
+      "id":1154,
+      "display_label":"Ryan Nuckel"
+    },
+    {
+      "entity_id":1156,
+      "id":1156,
+      "display_label":"Rachel Caidor"
+    },
+    {
+      "entity_id":1157,
+      "id":1157,
+      "display_label":"Stefan Christoff"
+    },
+    {
+      "entity_id":1158,
+      "id":1158,
+      "display_label":"Sam Shalabi"
+    },
+    {
+      "entity_id":1159,
+      "id":1159,
+      "display_label":"Nazik Dakkach"
+    },
+    {
+      "entity_id":1160,
+      "id":1160,
+      "display_label":"Nathan Meltz"
+    },
+    {
+      "entity_id":1162,
+      "id":1162,
+      "display_label":"Tom Quigley"
+    },
+    {
+      "entity_id":1163,
+      "id":1163,
+      "display_label":"David Senior"
+    },
+    {
+      "entity_id":1164,
+      "id":1164,
+      "display_label":"Melanie Bush"
+    },
+    {
+      "entity_id":1165,
+      "id":1165,
+      "display_label":"Anna Perricci"
+    },
+    {
+      "entity_id":1166,
+      "id":1166,
+      "display_label":"Richard Bird"
+    },
+    {
+      "entity_id":1167,
+      "id":1167,
+      "display_label":"Mark Looney"
+    },
+    {
+      "entity_id":1168,
+      "id":1168,
+      "display_label":"Johannes Diesing"
+    },
+    {
+      "entity_id":1169,
+      "id":1169,
+      "display_label":"Jenna Loyd"
+    },
+    {
+      "entity_id":1170,
+      "id":1170,
+      "display_label":"David Widgington"
+    },
+    {
+      "entity_id":1171,
+      "id":1171,
+      "display_label":"Elektra KB"
+    },
+    {
+      "entity_id":1172,
+      "id":1172,
+      "display_label":"Jon Glovin"
+    },
+    {
+      "entity_id":1173,
+      "id":1173,
+      "display_label":"William Sumner"
+    },
+    {
+      "entity_id":1174,
+      "id":1174,
+      "display_label":"Susan Jahoda"
+    },
+    {
+      "entity_id":1175,
+      "id":1175,
+      "display_label":"Rae Street"
+    },
+    {
+      "entity_id":1176,
+      "id":1176,
+      "display_label":"Jane Guskin"
+    },
+    {
+      "entity_id":1177,
+      "id":1177,
+      "display_label":"Susan Platt"
+    },
+    {
+      "entity_id":1178,
+      "id":1178,
+      "display_label":"Nicaragua Solidarity Network"
+    },
+    {
+      "entity_id":1179,
+      "id":1179,
+      "display_label":"Communicating Vessels"
+    },
+    {
+      "entity_id":1180,
+      "id":1180,
+      "display_label":"Lasse Lau"
+    },
+    {
+      "entity_id":1181,
+      "id":1181,
+      "display_label":"Sophie Hope"
+    },
+    {
+      "entity_id":1182,
+      "id":1182,
+      "display_label":"Mobile Print Power"
+    },
+    {
+      "entity_id":1183,
+      "id":1183,
+      "display_label":"Patrick Rowe"
+    },
+    {
+      "entity_id":1184,
+      "id":1184,
+      "display_label":"Charles Overbeck"
+    },
+    {
+      "entity_id":1185,
+      "id":1185,
+      "display_label":"Tactical Technology Collective"
+    },
+    {
+      "entity_id":1186,
+      "id":1186,
+      "display_label":"Jesse Vega-Frey"
+    },
+    {
+      "entity_id":1187,
+      "id":1187,
+      "display_label":"Lisa Wilde"
+    },
+    {
+      "entity_id":1188,
+      "id":1188,
+      "display_label":"Etta Cetera"
+    },
+    {
+      "entity_id":1189,
+      "id":1189,
+      "display_label":"Jessie Singer"
+    },
+    {
+      "entity_id":1190,
+      "id":1190,
+      "display_label":"John Singer"
+    },
+    {
+      "entity_id":1191,
+      "id":1191,
+      "display_label":"Bill Bronston"
+    },
+    {
+      "entity_id":1192,
+      "id":1192,
+      "display_label":"Kelly Baur"
+    },
+    {
+      "entity_id":1193,
+      "id":1193,
+      "display_label":"Daniel Kahn Gillmor"
+    },
+    {
+      "entity_id":1194,
+      "id":1194,
+      "display_label":"Peter Linebaugh"
+    },
+    {
+      "entity_id":1195,
+      "id":1195,
+      "display_label":"Sandra de la Loza"
+    },
+    {
+      "entity_id":1196,
+      "id":1196,
+      "display_label":"Davina Cohen"
+    },
+    {
+      "entity_id":1197,
+      "id":1197,
+      "display_label":"Susan Tipograph"
+    },
+    {
+      "entity_id":1198,
+      "id":1198,
+      "display_label":"Katherine Bell"
+    },
+    {
+      "entity_id":1199,
+      "id":1199,
+      "display_label":"House Magic"
+    },
+    {
+      "entity_id":1200,
+      "id":1200,
+      "display_label":"Duan Kellum"
+    },
+    {
+      "entity_id":1201,
+      "id":1201,
+      "display_label":"Lara Lucretia"
+    },
+    {
+      "entity_id":1202,
+      "id":1202,
+      "display_label":"New Space"
+    },
+    {
+      "entity_id":1203,
+      "id":1203,
+      "display_label":"G. Munis"
+    },
+    {
+      "entity_id":1204,
+      "id":1204,
+      "display_label":"John Zerzan"
+    },
+    {
+      "entity_id":1205,
+      "id":1205,
+      "display_label":"Brian Pickett"
+    },
+    {
+      "entity_id":1206,
+      "id":1206,
+      "display_label":"Miguel Macias"
+    },
+    {
+      "entity_id":1207,
+      "id":1207,
+      "display_label":"Alex Bag"
+    },
+    {
+      "entity_id":1208,
+      "id":1208,
+      "display_label":"Matthew Barney"
+    },
+    {
+      "entity_id":1209,
+      "id":1209,
+      "display_label":"Lucy Gunning"
+    },
+    {
+      "entity_id":1210,
+      "id":1210,
+      "display_label":"Elvis Presley"
+    },
+    {
+      "entity_id":1211,
+      "id":1211,
+      "display_label":"Patsy Cline"
+    },
+    {
+      "entity_id":1213,
+      "id":1213,
+      "display_label":"Hank Williams"
+    },
+    {
+      "entity_id":1214,
+      "id":1214,
+      "display_label":"Janice Tanaka"
+    },
+    {
+      "entity_id":1215,
+      "id":1215,
+      "display_label":"Carter Family"
+    },
+    {
+      "entity_id":1216,
+      "id":1216,
+      "display_label":"Video Data Bank"
+    },
+    {
+      "entity_id":1218,
+      "id":1218,
+      "display_label":"\u00ae\u2122ark"
+    },
+    {
+      "entity_id":1219,
+      "id":1219,
+      "display_label":"Valerie Tevere"
+    },
+    {
+      "entity_id":1220,
+      "id":1220,
+      "display_label":"The Art Institute Of Chicago"
+    },
+    {
+      "entity_id":1223,
+      "id":1223,
+      "display_label":"La Union De Vecinos"
+    },
+    {
+      "entity_id":1224,
+      "id":1224,
+      "display_label":"Ultra Red"
+    },
+    {
+      "entity_id":1225,
+      "id":1225,
+      "display_label":"Michele Mahoney"
+    },
+    {
+      "entity_id":1226,
+      "id":1226,
+      "display_label":"Ericka Beckman"
+    },
+    {
+      "entity_id":1227,
+      "id":1227,
+      "display_label":"Sam Stalling"
+    },
+    {
+      "entity_id":1228,
+      "id":1228,
+      "display_label":"Dianne Torr"
+    },
+    {
+      "entity_id":1229,
+      "id":1229,
+      "display_label":"Barbara Degenevieve"
+    },
+    {
+      "entity_id":1230,
+      "id":1230,
+      "display_label":"Kenyatta Forbes"
+    },
+    {
+      "entity_id":1231,
+      "id":1231,
+      "display_label":"Big Noise Tactical Media"
+    },
+    {
+      "entity_id":1233,
+      "id":1233,
+      "display_label":"Moefilm Productions"
+    },
+    {
+      "entity_id":1234,
+      "id":1234,
+      "display_label":"Gillo Pontecorvo"
+    },
+    {
+      "entity_id":1235,
+      "id":1235,
+      "display_label":"Miranda July"
+    },
+    {
+      "entity_id":1236,
+      "id":1236,
+      "display_label":"Joan Leandre"
+    },
+    {
+      "entity_id":1237,
+      "id":1237,
+      "display_label":"Kelly Spivey"
+    },
+    {
+      "entity_id":1239,
+      "id":1239,
+      "display_label":"Christopher E Kubasik"
+    },
+    {
+      "entity_id":1240,
+      "id":1240,
+      "display_label":"Abu Ali"
+    },
+    {
+      "entity_id":1241,
+      "id":1241,
+      "display_label":"Volatile Works"
+    },
+    {
+      "entity_id":1242,
+      "id":1242,
+      "display_label":"Amy Miller"
+    },
+    {
+      "entity_id":1243,
+      "id":1243,
+      "display_label":"Erin Yanke"
+    },
+    {
+      "entity_id":1245,
+      "id":1245,
+      "display_label":"Shinsuke Ogawa"
+    },
+    {
+      "entity_id":1246,
+      "id":1246,
+      "display_label":"Shannon Walsh"
+    },
+    {
+      "entity_id":1247,
+      "id":1247,
+      "display_label":"Boban Chaldovich"
+    },
+    {
+      "entity_id":1248,
+      "id":1248,
+      "display_label":"Jeff Feldman"
+    },
+    {
+      "entity_id":1249,
+      "id":1249,
+      "display_label":"Eric Abraham Viggo Hanson"
+    },
+    {
+      "entity_id":1250,
+      "id":1250,
+      "display_label":"James McKie"
+    },
+    {
+      "entity_id":1251,
+      "id":1251,
+      "display_label":"Josh Weinstein"
+    },
+    {
+      "entity_id":1252,
+      "id":1252,
+      "display_label":"Flaco Blag"
+    },
+    {
+      "entity_id":1253,
+      "id":1253,
+      "display_label":"KBOO Community Radio"
+    },
+    {
+      "entity_id":1254,
+      "id":1254,
+      "display_label":"Yugen Rashad"
+    },
+    {
+      "entity_id":1255,
+      "id":1255,
+      "display_label":"Lisa Smolkin"
+    },
+    {
+      "entity_id":1256,
+      "id":1256,
+      "display_label":"No Media Kings"
+    },
+    {
+      "entity_id":1257,
+      "id":1257,
+      "display_label":"Guerillavision"
+    },
+    {
+      "entity_id":1258,
+      "id":1258,
+      "display_label":"Jodi Darby"
+    },
+    {
+      "entity_id":1259,
+      "id":1259,
+      "display_label":"Jesse Drew"
+    },
+    {
+      "entity_id":1260,
+      "id":1260,
+      "display_label":"Mary Dann"
+    },
+    {
+      "entity_id":1261,
+      "id":1261,
+      "display_label":"Carrie Dann"
+    },
+    {
+      "entity_id":1262,
+      "id":1262,
+      "display_label":"Mariam Ghani"
+    },
+    {
+      "entity_id":1263,
+      "id":1263,
+      "display_label":"Daniel Bejar"
+    },
+    {
+      "entity_id":1264,
+      "id":1264,
+      "display_label":"Heather Rogers"
+    },
+    {
+      "entity_id":1265,
+      "id":1265,
+      "display_label":"Hannah E Dobbz"
+    },
+    {
+      "entity_id":1266,
+      "id":1266,
+      "display_label":"Cat Mazza"
+    },
+    {
+      "entity_id":1267,
+      "id":1267,
+      "display_label":"Wide Open Exposure"
+    },
+    {
+      "entity_id":1268,
+      "id":1268,
+      "display_label":"Alex Chechile"
+    },
+    {
+      "entity_id":1270,
+      "id":1270,
+      "display_label":"Anke Haarmann"
+    },
+    {
+      "entity_id":1271,
+      "id":1271,
+      "display_label":"Michael Gitlin"
+    },
+    {
+      "entity_id":1272,
+      "id":1272,
+      "display_label":"Miguel Vivelos de Castro"
+    },
+    {
+      "entity_id":1273,
+      "id":1273,
+      "display_label":"Beeban Kidron"
+    },
+    {
+      "entity_id":1274,
+      "id":1274,
+      "display_label":"Nao Bustamante"
+    },
+    {
+      "entity_id":1275,
+      "id":1275,
+      "display_label":"Cyric Kuhn"
+    },
+    {
+      "entity_id":1276,
+      "id":1276,
+      "display_label":"Amanda Richardson"
+    },
+    {
+      "entity_id":1278,
+      "id":1278,
+      "display_label":"Rich Bott"
+    },
+    {
+      "entity_id":1279,
+      "id":1279,
+      "display_label":"James Haroway"
+    },
+    {
+      "entity_id":1280,
+      "id":1280,
+      "display_label":"National Film And Television School"
+    },
+    {
+      "entity_id":1281,
+      "id":1281,
+      "display_label":"Zeynep Dadak"
+    },
+    {
+      "entity_id":1282,
+      "id":1282,
+      "display_label":"Stephan Moore"
+    },
+    {
+      "entity_id":1283,
+      "id":1283,
+      "display_label":"Boston Womens Video Collective"
+    },
+    {
+      "entity_id":1284,
+      "id":1284,
+      "display_label":"Ba\u015fak Ert\u00fcr"
+    },
+    {
+      "entity_id":1285,
+      "id":1285,
+      "display_label":"Stephanie Gray"
+    },
+    {
+      "entity_id":1286,
+      "id":1286,
+      "display_label":"Enis K\u00f6stepen"
+    },
+    {
+      "entity_id":1287,
+      "id":1287,
+      "display_label":"Mia Rovegno"
+    },
+    {
+      "entity_id":1288,
+      "id":1288,
+      "display_label":"Alisa Lebow"
+    },
+    {
+      "entity_id":1289,
+      "id":1289,
+      "display_label":"Merve Kayan"
+    },
+    {
+      "entity_id":1290,
+      "id":1290,
+      "display_label":"Arundhati Roy"
+    },
+    {
+      "entity_id":1291,
+      "id":1291,
+      "display_label":"Eve Ensler"
+    },
+    {
+      "entity_id":1292,
+      "id":1292,
+      "display_label":"Richard Falk"
+    },
+    {
+      "entity_id":1293,
+      "id":1293,
+      "display_label":"Hamid Dabashi"
+    },
+    {
+      "entity_id":1294,
+      "id":1294,
+      "display_label":"G8-TV"
+    },
+    {
+      "entity_id":1295,
+      "id":1295,
+      "display_label":"Dewayne Slightweight"
+    },
+    {
+      "entity_id":1296,
+      "id":1296,
+      "display_label":"Scapegoat Journal"
+    },
+    {
+      "entity_id":1297,
+      "id":1297,
+      "display_label":"University Of North Carolina Press"
+    },
+    {
+      "entity_id":1298,
+      "id":1298,
+      "display_label":"Irregular Rhythm Asylum"
+    },
+    {
+      "entity_id":1299,
+      "id":1299,
+      "display_label":"Blackwood Gallery"
+    },
+    {
+      "entity_id":1300,
+      "id":1300,
+      "display_label":"Anarchism Publishing"
+    },
+    {
+      "entity_id":1301,
+      "id":1301,
+      "display_label":"Amy Hicks"
+    },
+    {
+      "entity_id":1302,
+      "id":1302,
+      "display_label":"Serge Van der Straeten"
+    },
+    {
+      "entity_id":1303,
+      "id":1303,
+      "display_label":"Philippe Daufouy"
+    },
+    {
+      "entity_id":1304,
+      "id":1304,
+      "display_label":"Ruth Nybakken"
+    },
+    {
+      "entity_id":1305,
+      "id":1305,
+      "display_label":"Guy Debord"
+    },
+    {
+      "entity_id":1306,
+      "id":1306,
+      "display_label":"Bookmobile Book HQ"
+    },
+    {
+      "entity_id":1307,
+      "id":1307,
+      "display_label":"Onya Hogan-Finlay"
+    },
+    {
+      "entity_id":1308,
+      "id":1308,
+      "display_label":"Leila Pourtavaf"
+    },
+    {
+      "entity_id":1309,
+      "id":1309,
+      "display_label":"Ginger Brooks Takahashi"
+    },
+    {
+      "entity_id":1311,
+      "id":1311,
+      "display_label":"Jon Davies"
+    },
+    {
+      "entity_id":1312,
+      "id":1312,
+      "display_label":"Cecilia Berkovic"
+    },
+    {
+      "entity_id":1313,
+      "id":1313,
+      "display_label":"Tennessee Watson"
+    },
+    {
+      "entity_id":1314,
+      "id":1314,
+      "display_label":"Caryn Nelson"
+    },
+    {
+      "entity_id":1315,
+      "id":1315,
+      "display_label":"AREA Magazine"
+    },
+    {
+      "entity_id":1316,
+      "id":1316,
+      "display_label":"Strike! Magazine"
+    },
+    {
+      "entity_id":1317,
+      "id":1317,
+      "display_label":"Kalenderpanden"
+    },
+    {
+      "entity_id":1318,
+      "id":1318,
+      "display_label":"Phoenix Press"
+    },
+    {
+      "entity_id":1319,
+      "id":1319,
+      "display_label":"BPCC Wheatons"
+    },
+    {
+      "entity_id":1320,
+      "id":1320,
+      "display_label":"ICO Informations Correspondance Ouvrieres"
+    },
+    {
+      "entity_id":1321,
+      "id":1321,
+      "display_label":"Fifth Estate"
+    },
+    {
+      "entity_id":1322,
+      "id":1322,
+      "display_label":"Left Bank Books"
+    },
+    {
+      "entity_id":1323,
+      "id":1323,
+      "display_label":"News From Everywhere"
+    },
+    {
+      "entity_id":1324,
+      "id":1324,
+      "display_label":"121 Bookshop"
+    },
+    {
+      "entity_id":1325,
+      "id":1325,
+      "display_label":"Half Letter Press"
+    },
+    {
+      "entity_id":1326,
+      "id":1326,
+      "display_label":"Nancy Peckenham"
+    },
+    {
+      "entity_id":1327,
+      "id":1327,
+      "display_label":"Colectivo De Profesionales En Solidaridad Con El Pueblo De Guatemala"
+    },
+    {
+      "entity_id":1328,
+      "id":1328,
+      "display_label":"Nexus Press"
+    },
+    {
+      "entity_id":1329,
+      "id":1329,
+      "display_label":"Irene Ledwith"
+    },
+    {
+      "entity_id":1330,
+      "id":1330,
+      "display_label":"Neill Bogan"
+    },
+    {
+      "entity_id":1331,
+      "id":1331,
+      "display_label":"Priscilla Smith"
+    },
+    {
+      "entity_id":1332,
+      "id":1332,
+      "display_label":"Art Pluribus Unum"
+    },
+    {
+      "entity_id":1334,
+      "id":1334,
+      "display_label":"Monica Johnson"
+    },
+    {
+      "entity_id":1335,
+      "id":1335,
+      "display_label":"Left Bank Distribution"
+    },
+    {
+      "entity_id":1336,
+      "id":1336,
+      "display_label":"Radical America"
+    },
+    {
+      "entity_id":1338,
+      "id":1338,
+      "display_label":"Revolutionary Printing Cooperative"
+    },
+    {
+      "entity_id":1339,
+      "id":1339,
+      "display_label":"In Our Hearts"
+    },
+    {
+      "entity_id":1340,
+      "id":1340,
+      "display_label":"Roger Gregoire"
+    },
+    {
+      "entity_id":1341,
+      "id":1341,
+      "display_label":"Terry Forman"
+    },
+    {
+      "entity_id":1343,
+      "id":1343,
+      "display_label":"Fireworks Graphics Collective"
+    },
+    {
+      "entity_id":1344,
+      "id":1344,
+      "display_label":"Ash Thayer"
+    },
+    {
+      "entity_id":1345,
+      "id":1345,
+      "display_label":"Frank Morales"
+    },
+    {
+      "entity_id":1346,
+      "id":1346,
+      "display_label":"PowerHouse Books"
+    },
+    {
+      "entity_id":1347,
+      "id":1347,
+      "display_label":"Mary Louise Pratt"
+    },
+    {
+      "entity_id":1348,
+      "id":1348,
+      "display_label":"Aaron Eliot"
+    },
+    {
+      "entity_id":1349,
+      "id":1349,
+      "display_label":"I Think We're Still Thinking"
+    },
+    {
+      "entity_id":1350,
+      "id":1350,
+      "display_label":"Momoe Narazaki"
+    },
+    {
+      "entity_id":1351,
+      "id":1351,
+      "display_label":"William Shum"
+    },
+    {
+      "entity_id":1352,
+      "id":1352,
+      "display_label":"Linda Mikdadi Tabbara"
+    },
+    {
+      "entity_id":1353,
+      "id":1353,
+      "display_label":"OSPAAAL"
+    },
+    {
+      "entity_id":1354,
+      "id":1354,
+      "display_label":"Gaspar C\u00faneo Elizondo"
+    },
+    {
+      "entity_id":1355,
+      "id":1355,
+      "display_label":"Alfonso Beal"
+    },
+    {
+      "entity_id":1356,
+      "id":1356,
+      "display_label":"Che Guevara"
+    },
+    {
+      "entity_id":1357,
+      "id":1357,
+      "display_label":"Inti Peredo"
+    },
+    {
+      "entity_id":1358,
+      "id":1358,
+      "display_label":"Tricontinental"
+    },
+    {
+      "entity_id":1359,
+      "id":1359,
+      "display_label":"Instituto Cubano Del Libro"
+    },
+    {
+      "entity_id":1360,
+      "id":1360,
+      "display_label":"Camilo Cienfuegos Press"
+    },
+    {
+      "entity_id":1361,
+      "id":1361,
+      "display_label":"ACT UP"
+    },
+    {
+      "entity_id":1363,
+      "id":1363,
+      "display_label":"Karen Ranucci"
+    },
+    {
+      "entity_id":1364,
+      "id":1364,
+      "display_label":"d\u00e9qui kioni-sadiki"
+    },
+    {
+      "entity_id":1365,
+      "id":1365,
+      "display_label":"Kevin Van Meter"
+    },
+    {
+      "entity_id":1366,
+      "id":1366,
+      "display_label":"Amos Kennedy"
+    },
+    {
+      "entity_id":1367,
+      "id":1367,
+      "display_label":"Jem Cohen"
+    },
+    {
+      "entity_id":1368,
+      "id":1368,
+      "display_label":"Teresa Vald\u00e9s Betancourt"
+    },
+    {
+      "entity_id":1369,
+      "id":1369,
+      "display_label":"Ra\u00fal A. Garcia Vald\u00e9s"
+    },
+    {
+      "entity_id":1370,
+      "id":1370,
+      "display_label":"Ho Chi Minh"
+    },
+    {
+      "entity_id":1371,
+      "id":1371,
+      "display_label":"Mario Reguera Gomez"
+    },
+    {
+      "entity_id":1372,
+      "id":1372,
+      "display_label":"Kim Il Sung"
+    },
+    {
+      "entity_id":1373,
+      "id":1373,
+      "display_label":"NY Writers Coalition"
+    },
+    {
+      "entity_id":1374,
+      "id":1374,
+      "display_label":"Bruce Trigg"
+    },
+    {
+      "entity_id":1375,
+      "id":1375,
+      "display_label":"Beverly Grant"
+    },
+    {
+      "entity_id":1376,
+      "id":1376,
+      "display_label":"Salvatore Engel-Di Mauro"
+    },
+    {
+      "entity_id":1377,
+      "id":1377,
+      "display_label":"DJ Trouble"
+    },
+    {
+      "entity_id":1378,
+      "id":1378,
+      "display_label":"Jean-Pierre Farkas"
+    },
+    {
+      "entity_id":1379,
+      "id":1379,
+      "display_label":"Daniel Cohn-Bend"
+    },
+    {
+      "entity_id":1380,
+      "id":1380,
+      "display_label":"Daniel Cohn-Bendit"
+    },
+    {
+      "entity_id":1381,
+      "id":1381,
+      "display_label":"Jean-Paul Sartre"
+    },
+    {
+      "entity_id":1382,
+      "id":1382,
+      "display_label":"Alain Peyrefitte"
+    },
+    {
+      "entity_id":1383,
+      "id":1383,
+      "display_label":"Philips Records"
+    },
+    {
+      "entity_id":1384,
+      "id":1384,
+      "display_label":"Ramsey Kanaan"
+    },
+    {
+      "entity_id":1385,
+      "id":1385,
+      "display_label":"Carol Jacobsen"
+    },
+    {
+      "entity_id":1386,
+      "id":1386,
+      "display_label":"Adam Koren-Roth"
+    },
+    {
+      "entity_id":1387,
+      "id":1387,
+      "display_label":"ABC No Rio"
+    },
+    {
+      "entity_id":1388,
+      "id":1388,
+      "display_label":"Steven Englander"
+    },
+    {
+      "entity_id":1389,
+      "id":1389,
+      "display_label":"Sarah Seidman"
+    },
+    {
+      "entity_id":1390,
+      "id":1390,
+      "display_label":"Jane Norling"
+    },
+    {
+      "entity_id":1391,
+      "id":1391,
+      "display_label":"Lani Hanna"
+    },
+    {
+      "entity_id":1392,
+      "id":1392,
+      "display_label":"Cecilia Dogherty"
+    },
+    {
+      "entity_id":1394,
+      "id":1394,
+      "display_label":"A3BC"
+    },
+    {
+      "entity_id":1395,
+      "id":1395,
+      "display_label":"John Fleissner"
+    },
+    {
+      "entity_id":1396,
+      "id":1396,
+      "display_label":"Gene Plaks"
+    },
+    {
+      "entity_id":1397,
+      "id":1397,
+      "display_label":"Tina Orlandini"
+    },
+    {
+      "entity_id":1398,
+      "id":1398,
+      "display_label":"El Rebozo"
+    },
+    {
+      "entity_id":1399,
+      "id":1399,
+      "display_label":"Amy Lang"
+    },
+    {
+      "entity_id":1400,
+      "id":1400,
+      "display_label":"Cassandra L"
+    },
+    {
+      "entity_id":1401,
+      "id":1401,
+      "display_label":"Chris Kasper"
+    },
+    {
+      "entity_id":1403,
+      "id":1403,
+      "display_label":"Dushky Petrovichi"
+    },
+    {
+      "entity_id":1404,
+      "id":1404,
+      "display_label":"Art Handlers Alliance"
+    },
+    {
+      "entity_id":1405,
+      "id":1405,
+      "display_label":"Kathi Wilcox"
+    },
+    {
+      "entity_id":1406,
+      "id":1406,
+      "display_label":"Tobi Vail"
+    },
+    {
+      "entity_id":1407,
+      "id":1407,
+      "display_label":"Kathleen Hanna"
+    },
+    {
+      "entity_id":1408,
+      "id":1408,
+      "display_label":"Billy Karren"
+    },
+    {
+      "entity_id":1409,
+      "id":1409,
+      "display_label":"ZineWiki"
+    },
+    {
+      "entity_id":1410,
+      "id":1410,
+      "display_label":"John Ros"
+    },
+    {
+      "entity_id":1411,
+      "id":1411,
+      "display_label":"Anna Hoberman"
+    },
+    {
+      "entity_id":1412,
+      "id":1412,
+      "display_label":"Afternoon Editions"
+    },
+    {
+      "entity_id":1413,
+      "id":1413,
+      "display_label":"325 Distro"
+    },
+    {
+      "entity_id":1414,
+      "id":1414,
+      "display_label":"Pipsqueak"
+    },
+    {
+      "entity_id":1415,
+      "id":1415,
+      "display_label":"AbolishingBB"
+    },
+    {
+      "entity_id":1416,
+      "id":1416,
+      "display_label":"Active Distribution"
+    },
+    {
+      "entity_id":1417,
+      "id":1417,
+      "display_label":"Eastern Europe Contributors"
+    },
+    {
+      "entity_id":1418,
+      "id":1418,
+      "display_label":"8th Route Readers Club"
+    },
+    {
+      "entity_id":1419,
+      "id":1419,
+      "display_label":"Betsy Mickel"
+    },
+    {
+      "entity_id":1420,
+      "id":1420,
+      "display_label":"Radical Alternatives To Prison (RAP)"
+    },
+    {
+      "entity_id":1421,
+      "id":1421,
+      "display_label":"Committee to Abolish Prison Slavery"
+    },
+    {
+      "entity_id":1422,
+      "id":1422,
+      "display_label":"Critical Resistance"
+    },
+    {
+      "entity_id":1423,
+      "id":1423,
+      "display_label":"Teamsters Local 814"
+    },
+    {
+      "entity_id":1424,
+      "id":1424,
+      "display_label":"Ruch Wolno\u015b\u0107 I Pok\u00f3j"
+    },
+    {
+      "entity_id":1425,
+      "id":1425,
+      "display_label":"Joshua Price"
+    },
+    {
+      "entity_id":1426,
+      "id":1426,
+      "display_label":"Sascha Scatter"
+    },
+    {
+      "entity_id":1428,
+      "id":1428,
+      "display_label":"Masturc\u00f6re"
+    },
+    {
+      "entity_id":1429,
+      "id":1429,
+      "display_label":"Ronica Sanyal"
+    },
+    {
+      "entity_id":1430,
+      "id":1430,
+      "display_label":"Daniel Lynn Rose"
+    },
+    {
+      "entity_id":1431,
+      "id":1431,
+      "display_label":"J Koh"
+    },
+    {
+      "entity_id":1432,
+      "id":1432,
+      "display_label":"cory dory catfish"
+    },
+    {
+      "entity_id":1433,
+      "id":1433,
+      "display_label":"Tamiko Beyer"
+    },
+    {
+      "entity_id":1434,
+      "id":1434,
+      "display_label":"Colectivo Accion Directa Ediciones"
+    },
+    {
+      "entity_id":1435,
+      "id":1435,
+      "display_label":"Adbusters Media Foundation"
+    },
+    {
+      "entity_id":1436,
+      "id":1436,
+      "display_label":"War Resisters League"
+    },
+    {
+      "entity_id":1437,
+      "id":1437,
+      "display_label":"Donna Myhre"
+    },
+    {
+      "entity_id":1438,
+      "id":1438,
+      "display_label":"Deb Friedman"
+    },
+    {
+      "entity_id":1439,
+      "id":1439,
+      "display_label":"Sue Lenaerts"
+    },
+    {
+      "entity_id":1440,
+      "id":1440,
+      "display_label":"Charlotte Bunch"
+    },
+    {
+      "entity_id":1441,
+      "id":1441,
+      "display_label":"S Oberg"
+    },
+    {
+      "entity_id":1442,
+      "id":1442,
+      "display_label":"Susan Clark"
+    },
+    {
+      "entity_id":1443,
+      "id":1443,
+      "display_label":"Karalyn Schmidt"
+    },
+    {
+      "entity_id":1444,
+      "id":1444,
+      "display_label":"Susan Schechter"
+    },
+    {
+      "entity_id":1445,
+      "id":1445,
+      "display_label":"Cathy Avi\u00f1a"
+    },
+    {
+      "entity_id":1446,
+      "id":1446,
+      "display_label":"Kathy Ellison"
+    },
+    {
+      "entity_id":1447,
+      "id":1447,
+      "display_label":"Sharon Evans"
+    },
+    {
+      "entity_id":1448,
+      "id":1448,
+      "display_label":"Denise Gamache"
+    },
+    {
+      "entity_id":1449,
+      "id":1449,
+      "display_label":"Visual Studies Workshop"
+    },
+    {
+      "entity_id":1451,
+      "id":1451,
+      "display_label":"Liberation Publications Inc"
+    },
+    {
+      "entity_id":1452,
+      "id":1452,
+      "display_label":"Affinity Collective"
+    },
+    {
+      "entity_id":1453,
+      "id":1453,
+      "display_label":"Partido Cubano Democratico Socialista"
+    },
+    {
+      "entity_id":1454,
+      "id":1454,
+      "display_label":"Juan Manuel Armendariz"
+    },
+    {
+      "entity_id":1455,
+      "id":1455,
+      "display_label":"Maria Abigail Sandoval"
+    },
+    {
+      "entity_id":1456,
+      "id":1456,
+      "display_label":"Against Sleep and Nightmare"
+    },
+    {
+      "entity_id":1457,
+      "id":1457,
+      "display_label":"Central Saint Martins College Of Art And Design"
+    },
+    {
+      "entity_id":1458,
+      "id":1458,
+      "display_label":"National Communications Network"
+    },
+    {
+      "entity_id":1459,
+      "id":1459,
+      "display_label":"Feminist Alliance Against Rape"
+    },
+    {
+      "entity_id":1460,
+      "id":1460,
+      "display_label":"Gustavo Desk Vidal"
+    },
+    {
+      "entity_id":1461,
+      "id":1461,
+      "display_label":"Collective Opposed To Police Brutality"
+    },
+    {
+      "entity_id":1462,
+      "id":1462,
+      "display_label":"Alea Woodlee"
+    },
+    {
+      "entity_id":1463,
+      "id":1463,
+      "display_label":"Periodico Anarquista"
+    },
+    {
+      "entity_id":1466,
+      "id":1466,
+      "display_label":"AKCE!"
+    },
+    {
+      "entity_id":1467,
+      "id":1467,
+      "display_label":"Pickersgill, Edward"
+    },
+    {
+      "entity_id":1468,
+      "id":1468,
+      "display_label":"Grupo Alav\u00edo"
+    },
+    {
+      "entity_id":1469,
+      "id":1469,
+      "display_label":"Socialist Worker Printers And Publishers Ltd"
+    },
+    {
+      "entity_id":1470,
+      "id":1470,
+      "display_label":"AFA"
+    },
+    {
+      "entity_id":1471,
+      "id":1471,
+      "display_label":"Rahef Awadallah Alkouk"
+    },
+    {
+      "entity_id":1472,
+      "id":1472,
+      "display_label":"Kansas Mutual Aid"
+    },
+    {
+      "entity_id":1473,
+      "id":1473,
+      "display_label":"George Asaaf"
+    },
+    {
+      "entity_id":1474,
+      "id":1474,
+      "display_label":"Cambridge Anarchists"
+    },
+    {
+      "entity_id":1475,
+      "id":1475,
+      "display_label":"Caudwell, Christopher"
+    },
+    {
+      "entity_id":1476,
+      "id":1476,
+      "display_label":"Iremus RMS"
+    },
+    {
+      "entity_id":1477,
+      "id":1477,
+      "display_label":"Gorky, Maxim"
+    },
+    {
+      "entity_id":1478,
+      "id":1478,
+      "display_label":"FSA-MAP"
+    },
+    {
+      "entity_id":1479,
+      "id":1479,
+      "display_label":"Danielle Morgan Feris"
+    },
+    {
+      "entity_id":1480,
+      "id":1480,
+      "display_label":"Allied Resistance"
+    },
+    {
+      "entity_id":1481,
+      "id":1481,
+      "display_label":"Mandy Van Deven"
+    },
+    {
+      "entity_id":1482,
+      "id":1482,
+      "display_label":"Vojtech Svoboda"
+    },
+    {
+      "entity_id":1483,
+      "id":1483,
+      "display_label":"Lu Xun"
+    },
+    {
+      "entity_id":1485,
+      "id":1485,
+      "display_label":"Pavel Pecka"
+    },
+    {
+      "entity_id":1487,
+      "id":1487,
+      "display_label":"Alternative Press Syndicate"
+    },
+    {
+      "entity_id":1488,
+      "id":1488,
+      "display_label":"Jindrich Lacina"
+    },
+    {
+      "entity_id":1489,
+      "id":1489,
+      "display_label":"Martin Houdelka"
+    },
+    {
+      "entity_id":1490,
+      "id":1490,
+      "display_label":"Publicaci\u00f3n Quincenal Editada Por El Colectivo La Hormiga En Cusco"
+    },
+    {
+      "entity_id":1491,
+      "id":1491,
+      "display_label":"Jason McQuinn"
+    },
+    {
+      "entity_id":1492,
+      "id":1492,
+      "display_label":"Mark Pearsall"
+    },
+    {
+      "entity_id":1493,
+      "id":1493,
+      "display_label":"Harel Ros\u00e1k"
+    },
+    {
+      "entity_id":1494,
+      "id":1494,
+      "display_label":"Judy Yu"
+    },
+    {
+      "entity_id":1497,
+      "id":1497,
+      "display_label":"Marek Vondra"
+    },
+    {
+      "entity_id":1499,
+      "id":1499,
+      "display_label":"Yasmine Chahkar Farhang"
+    },
+    {
+      "entity_id":1500,
+      "id":1500,
+      "display_label":"Chuck Munson"
+    },
+    {
+      "entity_id":1501,
+      "id":1501,
+      "display_label":"David Jary"
+    },
+    {
+      "entity_id":1502,
+      "id":1502,
+      "display_label":"Tom Wheeler"
+    },
+    {
+      "entity_id":1503,
+      "id":1503,
+      "display_label":"Alive Production Collective"
+    },
+    {
+      "entity_id":1504,
+      "id":1504,
+      "display_label":"Dialog Publications"
+    },
+    {
+      "entity_id":1505,
+      "id":1505,
+      "display_label":"Department Of Health, Education, And Welfare"
+    },
+    {
+      "entity_id":1506,
+      "id":1506,
+      "display_label":"Komit\u00e9 CLAC-Am\u00e9rique Latine"
+    },
+    {
+      "entity_id":1507,
+      "id":1507,
+      "display_label":"Robert Biggert"
+    },
+    {
+      "entity_id":1508,
+      "id":1508,
+      "display_label":"Rehabilitation Services Administration"
+    },
+    {
+      "entity_id":1509,
+      "id":1509,
+      "display_label":"Alan Antliff"
+    },
+    {
+      "entity_id":1510,
+      "id":1510,
+      "display_label":"Thomas Wheeler"
+    },
+    {
+      "entity_id":1511,
+      "id":1511,
+      "display_label":"John Pilger"
+    },
+    {
+      "entity_id":1512,
+      "id":1512,
+      "display_label":"Derrick Jensen"
+    },
+    {
+      "entity_id":1513,
+      "id":1513,
+      "display_label":"Washington State Penitentiary"
+    },
+    {
+      "entity_id":1514,
+      "id":1514,
+      "display_label":"G Jewell"
+    },
+    {
+      "entity_id":1515,
+      "id":1515,
+      "display_label":"Woodstock Anarchist Party"
+    },
+    {
+      "entity_id":1516,
+      "id":1516,
+      "display_label":"Eddie Sanchez"
+    },
+    {
+      "entity_id":1517,
+      "id":1517,
+      "display_label":"Harry Siitonen"
+    },
+    {
+      "entity_id":1518,
+      "id":1518,
+      "display_label":"Rebecca Schechter"
+    },
+    {
+      "entity_id":1519,
+      "id":1519,
+      "display_label":"Murray Defence Group"
+    },
+    {
+      "entity_id":1520,
+      "id":1520,
+      "display_label":"Chicago Anarchist Black Cross Collective"
+    },
+    {
+      "entity_id":1521,
+      "id":1521,
+      "display_label":"Anarchist Feminist Group"
+    },
+    {
+      "entity_id":1522,
+      "id":1522,
+      "display_label":"Randall S Cornish"
+    },
+    {
+      "entity_id":1523,
+      "id":1523,
+      "display_label":"Awaken"
+    },
+    {
+      "entity_id":1524,
+      "id":1524,
+      "display_label":"Stephen Dunifer"
+    },
+    {
+      "entity_id":1525,
+      "id":1525,
+      "display_label":"Stuart Christie"
+    },
+    {
+      "entity_id":1527,
+      "id":1527,
+      "display_label":"Ray Luc Lavasseur"
+    },
+    {
+      "entity_id":1528,
+      "id":1528,
+      "display_label":"Anthony Jalil Bottom"
+    },
+    {
+      "entity_id":1529,
+      "id":1529,
+      "display_label":"Veronza Bowers Jr"
+    },
+    {
+      "entity_id":1530,
+      "id":1530,
+      "display_label":"Yu Kikumura"
+    },
+    {
+      "entity_id":1531,
+      "id":1531,
+      "display_label":"London Anarchist Black Cross"
+    },
+    {
+      "entity_id":1532,
+      "id":1532,
+      "display_label":"Margarett Loke"
+    },
+    {
+      "entity_id":1533,
+      "id":1533,
+      "display_label":"Frank Ching"
+    },
+    {
+      "entity_id":1534,
+      "id":1534,
+      "display_label":"Peter Chow"
+    },
+    {
+      "entity_id":1536,
+      "id":1536,
+      "display_label":"Christopher Chow"
+    },
+    {
+      "entity_id":1537,
+      "id":1537,
+      "display_label":"Rockwell Chin"
+    },
+    {
+      "entity_id":1538,
+      "id":1538,
+      "display_label":"Susanne Joe"
+    },
+    {
+      "entity_id":1539,
+      "id":1539,
+      "display_label":"Peter Pan"
+    },
+    {
+      "entity_id":1540,
+      "id":1540,
+      "display_label":"Victor Li"
+    },
+    {
+      "entity_id":1541,
+      "id":1541,
+      "display_label":"Bill Wong"
+    },
+    {
+      "entity_id":1542,
+      "id":1542,
+      "display_label":"Odoric Wou"
+    },
+    {
+      "entity_id":1543,
+      "id":1543,
+      "display_label":"Jing Jhi Wu"
+    },
+    {
+      "entity_id":1544,
+      "id":1544,
+      "display_label":"Robin Wu"
+    },
+    {
+      "entity_id":1545,
+      "id":1545,
+      "display_label":"N T Yung"
+    },
+    {
+      "entity_id":1546,
+      "id":1546,
+      "display_label":"Sylvia Fung"
+    },
+    {
+      "entity_id":1547,
+      "id":1547,
+      "display_label":"Andrew Kwan"
+    },
+    {
+      "entity_id":1548,
+      "id":1548,
+      "display_label":"Rose Pak"
+    },
+    {
+      "entity_id":1549,
+      "id":1549,
+      "display_label":"Basement Workshop"
+    },
+    {
+      "entity_id":1550,
+      "id":1550,
+      "display_label":"Chris Iijima"
+    },
+    {
+      "entity_id":1551,
+      "id":1551,
+      "display_label":"Joanne Miyamoto"
+    },
+    {
+      "entity_id":1552,
+      "id":1552,
+      "display_label":"Dennis Hirota"
+    },
+    {
+      "entity_id":1553,
+      "id":1553,
+      "display_label":"Pamela Eguchi"
+    },
+    {
+      "entity_id":1554,
+      "id":1554,
+      "display_label":"Fay Chiang"
+    },
+    {
+      "entity_id":1555,
+      "id":1555,
+      "display_label":"Serafin Malay Syquia"
+    },
+    {
+      "entity_id":1556,
+      "id":1556,
+      "display_label":"Koon Jo"
+    },
+    {
+      "entity_id":1557,
+      "id":1557,
+      "display_label":"Ying L Eng"
+    },
+    {
+      "entity_id":1558,
+      "id":1558,
+      "display_label":"Bun Yoshikami"
+    },
+    {
+      "entity_id":1559,
+      "id":1559,
+      "display_label":"Curtis Choy"
+    },
+    {
+      "entity_id":1560,
+      "id":1560,
+      "display_label":"Yasunori Gene Kita"
+    },
+    {
+      "entity_id":1561,
+      "id":1561,
+      "display_label":"Takashi Yanagida"
+    },
+    {
+      "entity_id":1562,
+      "id":1562,
+      "display_label":"Frances C Chung"
+    },
+    {
+      "entity_id":1563,
+      "id":1563,
+      "display_label":"Dorothy Suzuki"
+    },
+    {
+      "entity_id":1564,
+      "id":1564,
+      "display_label":"John H Saka"
+    },
+    {
+      "entity_id":1565,
+      "id":1565,
+      "display_label":"George T Chew"
+    },
+    {
+      "entity_id":1566,
+      "id":1566,
+      "display_label":"Henry Chang"
+    },
+    {
+      "entity_id":1567,
+      "id":1567,
+      "display_label":"Richard Young"
+    },
+    {
+      "entity_id":1568,
+      "id":1568,
+      "display_label":"Charlie Chin"
+    },
+    {
+      "entity_id":1569,
+      "id":1569,
+      "display_label":"Bob Fong"
+    },
+    {
+      "entity_id":1571,
+      "id":1571,
+      "display_label":"Sharon"
+    },
+    {
+      "entity_id":1572,
+      "id":1572,
+      "display_label":"John Chu"
+    },
+    {
+      "entity_id":1574,
+      "id":1574,
+      "display_label":"Aileen Yip"
+    },
+    {
+      "entity_id":1575,
+      "id":1575,
+      "display_label":"Tomi Tanaka Ohta"
+    },
+    {
+      "entity_id":1576,
+      "id":1576,
+      "display_label":"Isomi Handrych"
+    },
+    {
+      "entity_id":1577,
+      "id":1577,
+      "display_label":"Lois Chin"
+    },
+    {
+      "entity_id":1578,
+      "id":1578,
+      "display_label":"Lova Eng"
+    },
+    {
+      "entity_id":1579,
+      "id":1579,
+      "display_label":"Alice Look"
+    },
+    {
+      "entity_id":1580,
+      "id":1580,
+      "display_label":"Toyo Obayashi"
+    },
+    {
+      "entity_id":1582,
+      "id":1582,
+      "display_label":"Merle Motooka"
+    },
+    {
+      "entity_id":1583,
+      "id":1583,
+      "display_label":"Lili E Liu"
+    },
+    {
+      "entity_id":1584,
+      "id":1584,
+      "display_label":"Betty Chin"
+    },
+    {
+      "entity_id":1585,
+      "id":1585,
+      "display_label":"Shinya Ono"
+    },
+    {
+      "entity_id":1586,
+      "id":1586,
+      "display_label":"Wally Lim"
+    },
+    {
+      "entity_id":1587,
+      "id":1587,
+      "display_label":"Sam Potts"
+    },
+    {
+      "entity_id":1589,
+      "id":1589,
+      "display_label":"Mary Kraft"
+    },
+    {
+      "entity_id":1590,
+      "id":1590,
+      "display_label":"Kelly"
+    },
+    {
+      "entity_id":1591,
+      "id":1591,
+      "display_label":"Jessica Mills"
+    },
+    {
+      "entity_id":1592,
+      "id":1592,
+      "display_label":"Jessica Pirozzi"
+    },
+    {
+      "entity_id":1593,
+      "id":1593,
+      "display_label":"Anthony Rayson"
+    },
+    {
+      "entity_id":1595,
+      "id":1595,
+      "display_label":"Travis"
+    },
+    {
+      "entity_id":1596,
+      "id":1596,
+      "display_label":"Justin Sullivan"
+    },
+    {
+      "entity_id":1597,
+      "id":1597,
+      "display_label":"Lorraine Depietro"
+    },
+    {
+      "entity_id":1598,
+      "id":1598,
+      "display_label":"Randy Nichols"
+    },
+    {
+      "entity_id":1599,
+      "id":1599,
+      "display_label":"Kevin Halpenny"
+    },
+    {
+      "entity_id":1600,
+      "id":1600,
+      "display_label":"Jessy Kendall"
+    },
+    {
+      "entity_id":1601,
+      "id":1601,
+      "display_label":"Obscurist Press"
+    },
+    {
+      "entity_id":1603,
+      "id":1603,
+      "display_label":"Ellen Bortel"
+    },
+    {
+      "entity_id":1604,
+      "id":1604,
+      "display_label":"Seth Fertenbaugh"
+    },
+    {
+      "entity_id":1605,
+      "id":1605,
+      "display_label":"Deanna Hitchcock"
+    },
+    {
+      "entity_id":1606,
+      "id":1606,
+      "display_label":"Martha Riecks"
+    },
+    {
+      "entity_id":1607,
+      "id":1607,
+      "display_label":"Elaine Perignat"
+    },
+    {
+      "entity_id":1608,
+      "id":1608,
+      "display_label":"Breen Casey"
+    },
+    {
+      "entity_id":1609,
+      "id":1609,
+      "display_label":"David Fazzino"
+    },
+    {
+      "entity_id":1610,
+      "id":1610,
+      "display_label":"Eric Meisberger"
+    },
+    {
+      "entity_id":1611,
+      "id":1611,
+      "display_label":"Aprovecho Research Center"
+    },
+    {
+      "entity_id":1612,
+      "id":1612,
+      "display_label":"Richard Corbridge"
+    },
+    {
+      "entity_id":1613,
+      "id":1613,
+      "display_label":"Rachel Weber"
+    },
+    {
+      "entity_id":1614,
+      "id":1614,
+      "display_label":"Suckzoo Hann"
+    },
+    {
+      "entity_id":1615,
+      "id":1615,
+      "display_label":"Jenna Freedman"
+    },
+    {
+      "entity_id":1616,
+      "id":1616,
+      "display_label":"Jack Z Bratich"
+    },
+    {
+      "entity_id":1617,
+      "id":1617,
+      "display_label":"Stephen Duncombe"
+    },
+    {
+      "entity_id":1618,
+      "id":1618,
+      "display_label":"Alison Piepmeier"
+    },
+    {
+      "entity_id":1619,
+      "id":1619,
+      "display_label":"China Martens"
+    },
+    {
+      "entity_id":1620,
+      "id":1620,
+      "display_label":"Jon Bekken"
+    },
+    {
+      "entity_id":1621,
+      "id":1621,
+      "display_label":"Mike Hargis"
+    },
+    {
+      "entity_id":1622,
+      "id":1622,
+      "display_label":"Mike Long"
+    },
+    {
+      "entity_id":1623,
+      "id":1623,
+      "display_label":"Jeff Stein"
+    },
+    {
+      "entity_id":1624,
+      "id":1624,
+      "display_label":"Maria Rodriguez-Gil"
+    },
+    {
+      "entity_id":1625,
+      "id":1625,
+      "display_label":"Sid Parissi"
+    },
+    {
+      "entity_id":1626,
+      "id":1626,
+      "display_label":"Brett Matthews"
+    },
+    {
+      "entity_id":1627,
+      "id":1627,
+      "display_label":"Anarchist Association Of The Americas"
+    },
+    {
+      "entity_id":1629,
+      "id":1629,
+      "display_label":"John Joh"
+    },
+    {
+      "entity_id":1630,
+      "id":1630,
+      "display_label":"Anarchist Workers Alliance"
+    },
+    {
+      "entity_id":1631,
+      "id":1631,
+      "display_label":"Cienfuegos Press"
+    },
+    {
+      "entity_id":1632,
+      "id":1632,
+      "display_label":"Albert Meltzer"
+    },
+    {
+      "entity_id":1633,
+      "id":1633,
+      "display_label":"Elfrieda M Abbe"
+    },
+    {
+      "entity_id":1634,
+      "id":1634,
+      "display_label":"Animal Rights Network"
+    },
+    {
+      "entity_id":1635,
+      "id":1635,
+      "display_label":"Patrice Greanville"
+    },
+    {
+      "entity_id":1636,
+      "id":1636,
+      "display_label":"Carol Grunewald"
+    },
+    {
+      "entity_id":1637,
+      "id":1637,
+      "display_label":"Jim Mason"
+    },
+    {
+      "entity_id":1638,
+      "id":1638,
+      "display_label":"Noreen Mola"
+    },
+    {
+      "entity_id":1639,
+      "id":1639,
+      "display_label":"\u00c1npao D\u00fata"
+    },
+    {
+      "entity_id":1640,
+      "id":1640,
+      "display_label":"Laura A Moretti"
+    },
+    {
+      "entity_id":1641,
+      "id":1641,
+      "display_label":"Doug Moss"
+    },
+    {
+      "entity_id":1645,
+      "id":1645,
+      "display_label":"Antifascist Left Berlin "
+    },
+    {
+      "entity_id":1646,
+      "id":1646,
+      "display_label":"Eric Kjensrud"
+    },
+    {
+      "entity_id":1648,
+      "id":1648,
+      "display_label":"Skot Odierno"
+    },
+    {
+      "entity_id":1649,
+      "id":1649,
+      "display_label":"Mathew Courtneys"
+    },
+    {
+      "entity_id":1650,
+      "id":1650,
+      "display_label":"Jennifer Blowdryer"
+    },
+    {
+      "entity_id":1651,
+      "id":1651,
+      "display_label":"Winchester Chimes"
+    },
+    {
+      "entity_id":1652,
+      "id":1652,
+      "display_label":"Steven Dominici Prestianni"
+    },
+    {
+      "entity_id":1654,
+      "id":1654,
+      "display_label":"Baron Von Blumenzack"
+    },
+    {
+      "entity_id":1655,
+      "id":1655,
+      "display_label":"Margaret Killjoy"
+    },
+    {
+      "entity_id":1657,
+      "id":1657,
+      "display_label":"Strangers In A Tangled Wilderness"
+    },
+    {
+      "entity_id":1658,
+      "id":1658,
+      "display_label":"XCHADx"
+    },
+    {
+      "entity_id":1659,
+      "id":1659,
+      "display_label":"Carrie McN"
+    },
+    {
+      "entity_id":1660,
+      "id":1660,
+      "display_label":"Carrie McNinch"
+    },
+    {
+      "entity_id":1664,
+      "id":1664,
+      "display_label":"riot grrrl press"
+    },
+    {
+      "entity_id":1665,
+      "id":1665,
+      "display_label":"B Loewe"
+    },
+    {
+      "entity_id":1666,
+      "id":1666,
+      "display_label":"Aubrey L-C"
+    },
+    {
+      "entity_id":1667,
+      "id":1667,
+      "display_label":"HooRay Books"
+    },
+    {
+      "entity_id":1668,
+      "id":1668,
+      "display_label":"Sam J. Miller"
+    },
+    {
+      "entity_id":1672,
+      "id":1672,
+      "display_label":"myranda"
+    },
+    {
+      "entity_id":1673,
+      "id":1673,
+      "display_label":"Keith Rosson"
+    },
+    {
+      "entity_id":1674,
+      "id":1674,
+      "display_label":"Megan"
+    },
+    {
+      "entity_id":1675,
+      "id":1675,
+      "display_label":"Farrah"
+    },
+    {
+      "entity_id":1679,
+      "id":1679,
+      "display_label":"JW"
+    },
+    {
+      "entity_id":1680,
+      "id":1680,
+      "display_label":"Firclaw Books"
+    },
+    {
+      "entity_id":1681,
+      "id":1681,
+      "display_label":"Travis M"
+    },
+    {
+      "entity_id":1682,
+      "id":1682,
+      "display_label":"Student Coalition Resisting Enlistment And Militarism"
+    },
+    {
+      "entity_id":1683,
+      "id":1683,
+      "display_label":"Vikki Law"
+    },
+    {
+      "entity_id":1684,
+      "id":1684,
+      "display_label":"Dave Powell"
+    },
+    {
+      "entity_id":1685,
+      "id":1685,
+      "display_label":"Esneider"
+    },
+    {
+      "entity_id":1686,
+      "id":1686,
+      "display_label":"Marc Miller"
+    },
+    {
+      "entity_id":1687,
+      "id":1687,
+      "display_label":"Cookie Puss"
+    },
+    {
+      "entity_id":1688,
+      "id":1688,
+      "display_label":"Eric Sickler"
+    },
+    {
+      "entity_id":1689,
+      "id":1689,
+      "display_label":"Andy G"
+    },
+    {
+      "entity_id":1690,
+      "id":1690,
+      "display_label":"John"
+    },
+    {
+      "entity_id":1692,
+      "id":1692,
+      "display_label":"Larry-Bob"
+    },
+    {
+      "entity_id":1693,
+      "id":1693,
+      "display_label":"Last Gasp"
+    },
+    {
+      "entity_id":1694,
+      "id":1694,
+      "display_label":"Sara"
+    },
+    {
+      "entity_id":1695,
+      "id":1695,
+      "display_label":"Lis"
+    },
+    {
+      "entity_id":1696,
+      "id":1696,
+      "display_label":"Inconvenient Press"
+    },
+    {
+      "entity_id":1697,
+      "id":1697,
+      "display_label":"Shelley Pearson"
+    },
+    {
+      "entity_id":1698,
+      "id":1698,
+      "display_label":"MK JCBSN"
+    },
+    {
+      "entity_id":1699,
+      "id":1699,
+      "display_label":"Thunder's Mouth Press Chicago"
+    },
+    {
+      "entity_id":1701,
+      "id":1701,
+      "display_label":"Antifasisticni Akcija Siska"
+    },
+    {
+      "entity_id":1702,
+      "id":1702,
+      "display_label":"C.A.L. Press"
+    },
+    {
+      "entity_id":1703,
+      "id":1703,
+      "display_label":"Eberhart Press"
+    },
+    {
+      "entity_id":1704,
+      "id":1704,
+      "display_label":"Kelly Porter"
+    },
+    {
+      "entity_id":1705,
+      "id":1705,
+      "display_label":"Amy Halbohm"
+    },
+    {
+      "entity_id":1707,
+      "id":1707,
+      "display_label":"Dari Fulmer"
+    },
+    {
+      "entity_id":1708,
+      "id":1708,
+      "display_label":"New York Student Federation Against War"
+    },
+    {
+      "entity_id":1709,
+      "id":1709,
+      "display_label":"Magazine Of The Anarchy Organization"
+    },
+    {
+      "entity_id":1710,
+      "id":1710,
+      "display_label":"Socialist Club Of Roosevelt College"
+    },
+    {
+      "entity_id":1711,
+      "id":1711,
+      "display_label":"Politics Club Of University Of Chicago"
+    },
+    {
+      "entity_id":1712,
+      "id":1712,
+      "display_label":"Focal Point Of Yale University"
+    },
+    {
+      "entity_id":1713,
+      "id":1713,
+      "display_label":"\u0393\u03b5\u03c9\u03c1\u03b3\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2"
+    },
+    {
+      "entity_id":1714,
+      "id":1714,
+      "display_label":"Peter Max Polshek"
+    },
+    {
+      "entity_id":1715,
+      "id":1715,
+      "display_label":"Oliver Trager"
+    },
+    {
+      "entity_id":1716,
+      "id":1716,
+      "display_label":"Michael Forwell"
+    },
+    {
+      "entity_id":1717,
+      "id":1717,
+      "display_label":"Rick Weisfeld"
+    },
+    {
+      "entity_id":1718,
+      "id":1718,
+      "display_label":"Bill Arnold"
+    },
+    {
+      "entity_id":1719,
+      "id":1719,
+      "display_label":"Barbara Donachy"
+    },
+    {
+      "entity_id":1720,
+      "id":1720,
+      "display_label":"Mathew Finch"
+    },
+    {
+      "entity_id":1721,
+      "id":1721,
+      "display_label":"Michele Harvey"
+    },
+    {
+      "entity_id":1722,
+      "id":1722,
+      "display_label":"Clay Jumper"
+    },
+    {
+      "entity_id":1723,
+      "id":1723,
+      "display_label":"Peter Kuper"
+    },
+    {
+      "entity_id":1724,
+      "id":1724,
+      "display_label":"Ken Mikolowski"
+    },
+    {
+      "entity_id":1725,
+      "id":1725,
+      "display_label":"Ann Phelan"
+    },
+    {
+      "entity_id":1726,
+      "id":1726,
+      "display_label":"Steven Skollar"
+    },
+    {
+      "entity_id":1727,
+      "id":1727,
+      "display_label":"James St Clair"
+    },
+    {
+      "entity_id":1728,
+      "id":1728,
+      "display_label":"Urban Rats"
+    },
+    {
+      "entity_id":1729,
+      "id":1729,
+      "display_label":"Jonathan Williams"
+    },
+    {
+      "entity_id":1730,
+      "id":1730,
+      "display_label":"Rebecca Wolf"
+    },
+    {
+      "entity_id":1731,
+      "id":1731,
+      "display_label":"Anti-Racist Action Network"
+    },
+    {
+      "entity_id":1732,
+      "id":1732,
+      "display_label":"ARA Chicago"
+    },
+    {
+      "entity_id":1733,
+      "id":1733,
+      "display_label":"Chicago Anti-Racist Action"
+    },
+    {
+      "entity_id":1734,
+      "id":1734,
+      "display_label":"Fourth World"
+    },
+    {
+      "entity_id":1735,
+      "id":1735,
+      "display_label":"An Architektur EV"
+    },
+    {
+      "entity_id":1736,
+      "id":1736,
+      "display_label":"Druckhaus Berlin-Mitte GmbH"
+    },
+    {
+      "entity_id":1737,
+      "id":1737,
+      "display_label":"Vice Versa"
+    },
+    {
+      "entity_id":1739,
+      "id":1739,
+      "display_label":"Circulo De Cultura Cubana, Inc."
+    },
+    {
+      "entity_id":1740,
+      "id":1740,
+      "display_label":"Photo Comp Press"
+    },
+    {
+      "entity_id":1741,
+      "id":1741,
+      "display_label":"Associazione per la pace"
+    },
+    {
+      "entity_id":1742,
+      "id":1742,
+      "display_label":"Grafica Bella, Inc."
+    },
+    {
+      "entity_id":1743,
+      "id":1743,
+      "display_label":"PM Press"
+    },
+    {
+      "entity_id":1744,
+      "id":1744,
+      "display_label":"ChristieBooks"
+    },
+    {
+      "entity_id":1745,
+      "id":1745,
+      "display_label":"Arise! Bookstore And Resource Center"
+    },
+    {
+      "entity_id":1746,
+      "id":1746,
+      "display_label":"Jennifer Gilpin"
+    },
+    {
+      "entity_id":1747,
+      "id":1747,
+      "display_label":"Minnesota Civil Liberties Union"
+    },
+    {
+      "entity_id":1748,
+      "id":1748,
+      "display_label":"Christopher Loch"
+    },
+    {
+      "entity_id":1749,
+      "id":1749,
+      "display_label":"Zen Dochterman"
+    },
+    {
+      "entity_id":1750,
+      "id":1750,
+      "display_label":"RAMBL"
+    },
+    {
+      "entity_id":1751,
+      "id":1751,
+      "display_label":"Katherine Gerwig"
+    },
+    {
+      "entity_id":1752,
+      "id":1752,
+      "display_label":"Michelle Lee"
+    },
+    {
+      "entity_id":1753,
+      "id":1753,
+      "display_label":"Greg Diedrich"
+    },
+    {
+      "entity_id":1754,
+      "id":1754,
+      "display_label":"Aaron Marcus"
+    },
+    {
+      "entity_id":1755,
+      "id":1755,
+      "display_label":"Danny Schechter"
+    },
+    {
+      "entity_id":1756,
+      "id":1756,
+      "display_label":"Jane Franklin"
+    },
+    {
+      "entity_id":1757,
+      "id":1757,
+      "display_label":"Arm The Spirit"
+    },
+    {
+      "entity_id":1758,
+      "id":1758,
+      "display_label":"Wild Seed Press"
+    },
+    {
+      "entity_id":1759,
+      "id":1759,
+      "display_label":"ARNIE"
+    },
+    {
+      "entity_id":1760,
+      "id":1760,
+      "display_label":"Franklin Rosemont"
+    },
+    {
+      "entity_id":1761,
+      "id":1761,
+      "display_label":"Art Papers, Inc."
+    },
+    {
+      "entity_id":1762,
+      "id":1762,
+      "display_label":"Project South: Institute For The Elimination Of Poverty & Genocide"
+    },
+    {
+      "entity_id":1763,
+      "id":1763,
+      "display_label":"Tony Doyle"
+    },
+    {
+      "entity_id":1764,
+      "id":1764,
+      "display_label":"Matt Emerson"
+    },
+    {
+      "entity_id":1765,
+      "id":1765,
+      "display_label":"Rik Hakala"
+    },
+    {
+      "entity_id":1766,
+      "id":1766,
+      "display_label":"Eric Piper"
+    },
+    {
+      "entity_id":1767,
+      "id":1767,
+      "display_label":"Vic Speedwell"
+    },
+    {
+      "entity_id":1768,
+      "id":1768,
+      "display_label":"Mike Staudenmaier"
+    },
+    {
+      "entity_id":1769,
+      "id":1769,
+      "display_label":"Carlos Fernandez"
+    },
+    {
+      "entity_id":1770,
+      "id":1770,
+      "display_label":"Bad Dog Printing Co."
+    },
+    {
+      "entity_id":1771,
+      "id":1771,
+      "display_label":"Mike Poizone"
+    },
+    {
+      "entity_id":1772,
+      "id":1772,
+      "display_label":"The College Art Association Of America"
+    },
+    {
+      "entity_id":1773,
+      "id":1773,
+      "display_label":"C&D Printshop"
+    },
+    {
+      "entity_id":1774,
+      "id":1774,
+      "display_label":"Henry R Hope"
+    },
+    {
+      "entity_id":1775,
+      "id":1775,
+      "display_label":"Diane M Kelder"
+    },
+    {
+      "entity_id":1776,
+      "id":1776,
+      "display_label":"Clive Phillpot"
+    },
+    {
+      "entity_id":1777,
+      "id":1777,
+      "display_label":"Richard Pommer"
+    },
+    {
+      "entity_id":1778,
+      "id":1778,
+      "display_label":"Joseph Ansell"
+    },
+    {
+      "entity_id":1779,
+      "id":1779,
+      "display_label":"James Thorpe"
+    },
+    {
+      "entity_id":1780,
+      "id":1780,
+      "display_label":"Sara Hornbacher"
+    },
+    {
+      "entity_id":1781,
+      "id":1781,
+      "display_label":"Linda Dalrymple"
+    },
+    {
+      "entity_id":1782,
+      "id":1782,
+      "display_label":"Cecilia F Klein"
+    },
+    {
+      "entity_id":1783,
+      "id":1783,
+      "display_label":"Brighton & Hove Unemployed Workers Centre"
+    },
+    {
+      "entity_id":1784,
+      "id":1784,
+      "display_label":"Joanna Frueh"
+    },
+    {
+      "entity_id":1785,
+      "id":1785,
+      "display_label":"Arlene Raven"
+    },
+    {
+      "entity_id":1786,
+      "id":1786,
+      "display_label":"Virginia Hegelstein Marquardt"
+    },
+    {
+      "entity_id":1787,
+      "id":1787,
+      "display_label":"Patricia C Phillips"
+    },
+    {
+      "entity_id":1788,
+      "id":1788,
+      "display_label":"Susan Sherman"
+    },
+    {
+      "entity_id":1789,
+      "id":1789,
+      "display_label":"Cindy Giokas"
+    },
+    {
+      "entity_id":1790,
+      "id":1790,
+      "display_label":"Tali  Laura"
+    },
+    {
+      "entity_id":1791,
+      "id":1791,
+      "display_label":"Blue"
+    },
+    {
+      "entity_id":1792,
+      "id":1792,
+      "display_label":"Charlie"
+    },
+    {
+      "entity_id":1793,
+      "id":1793,
+      "display_label":"Maya"
+    },
+    {
+      "entity_id":1794,
+      "id":1794,
+      "display_label":"Blair"
+    },
+    {
+      "entity_id":1795,
+      "id":1795,
+      "display_label":"Dummy Lemont"
+    },
+    {
+      "entity_id":1796,
+      "id":1796,
+      "display_label":"Wilson Pite"
+    },
+    {
+      "entity_id":1797,
+      "id":1797,
+      "display_label":"Thebodyposercouk"
+    },
+    {
+      "entity_id":1798,
+      "id":1798,
+      "display_label":"KT Habits"
+    },
+    {
+      "entity_id":1799,
+      "id":1799,
+      "display_label":"Jon Kupperman"
+    },
+    {
+      "entity_id":1800,
+      "id":1800,
+      "display_label":"Erik Heise"
+    },
+    {
+      "entity_id":1801,
+      "id":1801,
+      "display_label":"Josh-Redd Sanchez"
+    },
+    {
+      "entity_id":1802,
+      "id":1802,
+      "display_label":"Nate Higley"
+    },
+    {
+      "entity_id":1803,
+      "id":1803,
+      "display_label":"Actual Birds"
+    },
+    {
+      "entity_id":1804,
+      "id":1804,
+      "display_label":"Matt Hans"
+    },
+    {
+      "entity_id":1805,
+      "id":1805,
+      "display_label":"Matt Hanson"
+    },
+    {
+      "entity_id":1806,
+      "id":1806,
+      "display_label":"The Bad Idea Collective"
+    },
+    {
+      "entity_id":1807,
+      "id":1807,
+      "display_label":"Shannon  Tom Kenny"
+    },
+    {
+      "entity_id":1808,
+      "id":1808,
+      "display_label":"The Nail Polish Club"
+    },
+    {
+      "entity_id":1809,
+      "id":1809,
+      "display_label":"Tavi Lux Veraldi"
+    },
+    {
+      "entity_id":1810,
+      "id":1810,
+      "display_label":"Constant Agitation"
+    },
+    {
+      "entity_id":1811,
+      "id":1811,
+      "display_label":"Paul Goodman"
+    },
+    {
+      "entity_id":1812,
+      "id":1812,
+      "display_label":"Percival Goodman"
+    },
+    {
+      "entity_id":1813,
+      "id":1813,
+      "display_label":"Krysti Adams"
+    },
+    {
+      "entity_id":1814,
+      "id":1814,
+      "display_label":"Stephanie Drinkard"
+    },
+    {
+      "entity_id":1815,
+      "id":1815,
+      "display_label":"Valerie Gillispie"
+    },
+    {
+      "entity_id":1816,
+      "id":1816,
+      "display_label":"Noah Michelson"
+    },
+    {
+      "entity_id":1817,
+      "id":1817,
+      "display_label":"Anna Stern"
+    },
+    {
+      "entity_id":1818,
+      "id":1818,
+      "display_label":"Elizabeth Weintraub"
+    },
+    {
+      "entity_id":1819,
+      "id":1819,
+      "display_label":"JGuerrero"
+    },
+    {
+      "entity_id":1820,
+      "id":1820,
+      "display_label":"Shannon Keough"
+    },
+    {
+      "entity_id":1821,
+      "id":1821,
+      "display_label":"Dan Tanz"
+    },
+    {
+      "entity_id":1823,
+      "id":1823,
+      "display_label":"Jay Feiker"
+    },
+    {
+      "entity_id":1824,
+      "id":1824,
+      "display_label":"Cole Sarar"
+    },
+    {
+      "entity_id":1825,
+      "id":1825,
+      "display_label":"Christopher Jozwiak"
+    },
+    {
+      "entity_id":1826,
+      "id":1826,
+      "display_label":"Steve Jaska"
+    },
+    {
+      "entity_id":1827,
+      "id":1827,
+      "display_label":"Wes Putman"
+    },
+    {
+      "entity_id":1828,
+      "id":1828,
+      "display_label":"Seth Lind"
+    },
+    {
+      "entity_id":1829,
+      "id":1829,
+      "display_label":"Angel Latterell"
+    },
+    {
+      "entity_id":1830,
+      "id":1830,
+      "display_label":"Ben Chapman"
+    },
+    {
+      "entity_id":1831,
+      "id":1831,
+      "display_label":"Audrey Mocco"
+    },
+    {
+      "entity_id":1832,
+      "id":1832,
+      "display_label":"Will Robinson Sheff"
+    },
+    {
+      "entity_id":1833,
+      "id":1833,
+      "display_label":"Jane Yager"
+    },
+    {
+      "entity_id":1834,
+      "id":1834,
+      "display_label":"Kate Copeland"
+    },
+    {
+      "entity_id":1835,
+      "id":1835,
+      "display_label":"Anne Gomez Huff"
+    },
+    {
+      "entity_id":1836,
+      "id":1836,
+      "display_label":"Kathleen Flandrick"
+    },
+    {
+      "entity_id":1837,
+      "id":1837,
+      "display_label":"Arra Lynn Patience"
+    },
+    {
+      "entity_id":1838,
+      "id":1838,
+      "display_label":"Brittany Anderson"
+    },
+    {
+      "entity_id":1839,
+      "id":1839,
+      "display_label":"Melita"
+    },
+    {
+      "entity_id":1840,
+      "id":1840,
+      "display_label":"Jenny Smith"
+    },
+    {
+      "entity_id":1841,
+      "id":1841,
+      "display_label":"Joanofarcinflamesyahoocom"
+    },
+    {
+      "entity_id":1842,
+      "id":1842,
+      "display_label":"Rachel Schneider"
+    },
+    {
+      "entity_id":1843,
+      "id":1843,
+      "display_label":"Mojica, Yvonne"
+    },
+    {
+      "entity_id":1844,
+      "id":1844,
+      "display_label":"Emma Spertus"
+    },
+    {
+      "entity_id":1845,
+      "id":1845,
+      "display_label":"Tanya Snyder"
+    },
+    {
+      "entity_id":1846,
+      "id":1846,
+      "display_label":"Erik Leavitt"
+    },
+    {
+      "entity_id":1847,
+      "id":1847,
+      "display_label":"Lauren Hesse"
+    },
+    {
+      "entity_id":1848,
+      "id":1848,
+      "display_label":"Jordan Pender"
+    },
+    {
+      "entity_id":1849,
+      "id":1849,
+      "display_label":"Katie Nelson"
+    },
+    {
+      "entity_id":1850,
+      "id":1850,
+      "display_label":"Greta Spottswood"
+    },
+    {
+      "entity_id":1851,
+      "id":1851,
+      "display_label":"Jacob Gelfand"
+    },
+    {
+      "entity_id":1852,
+      "id":1852,
+      "display_label":"Alex Lemon"
+    },
+    {
+      "entity_id":1853,
+      "id":1853,
+      "display_label":"Julie Gausebeck"
+    },
+    {
+      "entity_id":1854,
+      "id":1854,
+      "display_label":"Arra Lynn Ross"
+    },
+    {
+      "entity_id":1856,
+      "id":1856,
+      "display_label":"Christian Campbell"
+    },
+    {
+      "entity_id":1857,
+      "id":1857,
+      "display_label":"Angie Grischkowsky"
+    },
+    {
+      "entity_id":1858,
+      "id":1858,
+      "display_label":"Sam Mackison"
+    },
+    {
+      "entity_id":1859,
+      "id":1859,
+      "display_label":"Scott Gilardi"
+    },
+    {
+      "entity_id":1860,
+      "id":1860,
+      "display_label":"Geoffrey Hing"
+    },
+    {
+      "entity_id":1861,
+      "id":1861,
+      "display_label":"Gabe Heiss"
+    },
+    {
+      "entity_id":1862,
+      "id":1862,
+      "display_label":"Lauren"
+    },
+    {
+      "entity_id":1863,
+      "id":1863,
+      "display_label":"Kendra"
+    },
+    {
+      "entity_id":1864,
+      "id":1864,
+      "display_label":"VanCleave, Mikeal"
+    },
+    {
+      "entity_id":1866,
+      "id":1866,
+      "display_label":"Patrisse Cullors"
+    },
+    {
+      "entity_id":1867,
+      "id":1867,
+      "display_label":"Treva Ellison"
+    },
+    {
+      "entity_id":1868,
+      "id":1868,
+      "display_label":"Kai M Green"
+    },
+    {
+      "entity_id":1869,
+      "id":1869,
+      "display_label":"Analena Hope"
+    },
+    {
+      "entity_id":1871,
+      "id":1871,
+      "display_label":"Ren-yo Hwang"
+    },
+    {
+      "entity_id":1872,
+      "id":1872,
+      "display_label":"Street Inc"
+    },
+    {
+      "entity_id":1873,
+      "id":1873,
+      "display_label":"Jessica Gonji Lee"
+    },
+    {
+      "entity_id":1874,
+      "id":1874,
+      "display_label":"Jordan Camp"
+    },
+    {
+      "entity_id":1876,
+      "id":1876,
+      "display_label":"Christina Heatherton"
+    },
+    {
+      "entity_id":1877,
+      "id":1877,
+      "display_label":"Kathy Wilcox"
+    },
+    {
+      "entity_id":1878,
+      "id":1878,
+      "display_label":"Joel Herron"
+    },
+    {
+      "entity_id":1880,
+      "id":1880,
+      "display_label":"Capitaloforegongmailcom"
+    },
+    {
+      "entity_id":1881,
+      "id":1881,
+      "display_label":"Sean Goblin"
+    },
+    {
+      "entity_id":1882,
+      "id":1882,
+      "display_label":"Andy Hinman"
+    },
+    {
+      "entity_id":1883,
+      "id":1883,
+      "display_label":"Brandon B"
+    },
+    {
+      "entity_id":1884,
+      "id":1884,
+      "display_label":"Chantal Johnson"
+    },
+    {
+      "entity_id":1885,
+      "id":1885,
+      "display_label":"Tatyana"
+    },
+    {
+      "entity_id":1886,
+      "id":1886,
+      "display_label":"Tatyana Kagamas"
+    },
+    {
+      "entity_id":1887,
+      "id":1887,
+      "display_label":"Khalid El Khatib"
+    },
+    {
+      "entity_id":1888,
+      "id":1888,
+      "display_label":"Sam McKinniss"
+    },
+    {
+      "entity_id":1889,
+      "id":1889,
+      "display_label":"Matt McCann"
+    },
+    {
+      "entity_id":1890,
+      "id":1890,
+      "display_label":"K Naoum"
+    },
+    {
+      "entity_id":1891,
+      "id":1891,
+      "display_label":"Julia Norton"
+    },
+    {
+      "entity_id":1892,
+      "id":1892,
+      "display_label":"Jess Paps"
+    },
+    {
+      "entity_id":1893,
+      "id":1893,
+      "display_label":"Roy Perez"
+    },
+    {
+      "entity_id":1894,
+      "id":1894,
+      "display_label":"Tommy Pico"
+    },
+    {
+      "entity_id":1895,
+      "id":1895,
+      "display_label":"Daniel Portland"
+    },
+    {
+      "entity_id":1896,
+      "id":1896,
+      "display_label":"Danielle Rosa"
+    },
+    {
+      "entity_id":1897,
+      "id":1897,
+      "display_label":"Michelle Russell"
+    },
+    {
+      "entity_id":1898,
+      "id":1898,
+      "display_label":"Lauren Savitz"
+    },
+    {
+      "entity_id":1899,
+      "id":1899,
+      "display_label":"Gigi Swift"
+    },
+    {
+      "entity_id":1900,
+      "id":1900,
+      "display_label":"Max Steele"
+    },
+    {
+      "entity_id":1901,
+      "id":1901,
+      "display_label":"Geoff Trenchard"
+    },
+    {
+      "entity_id":1902,
+      "id":1902,
+      "display_label":"Lauren Wilkinson"
+    },
+    {
+      "entity_id":1903,
+      "id":1903,
+      "display_label":"Jane Yoo"
+    },
+    {
+      "entity_id":1904,
+      "id":1904,
+      "display_label":"Michelle Yu"
+    },
+    {
+      "entity_id":1905,
+      "id":1905,
+      "display_label":"Carissa"
+    },
+    {
+      "entity_id":1906,
+      "id":1906,
+      "display_label":"Katie Naoum"
+    },
+    {
+      "entity_id":1907,
+      "id":1907,
+      "display_label":"Danny Coeyman"
+    },
+    {
+      "entity_id":1908,
+      "id":1908,
+      "display_label":"Cat Glennon"
+    },
+    {
+      "entity_id":1909,
+      "id":1909,
+      "display_label":"Tena Scalph"
+    },
+    {
+      "entity_id":1910,
+      "id":1910,
+      "display_label":"Dignity and Power Now"
+    },
+    {
+      "entity_id":1911,
+      "id":1911,
+      "display_label":"B Kite"
+    },
+    {
+      "entity_id":1913,
+      "id":1913,
+      "display_label":"La John Joseph"
+    },
+    {
+      "entity_id":1914,
+      "id":1914,
+      "display_label":"Rhorn"
+    },
+    {
+      "entity_id":1915,
+      "id":1915,
+      "display_label":"Sayaka Omori"
+    },
+    {
+      "entity_id":1916,
+      "id":1916,
+      "display_label":"Chrysalis Collective"
+    },
+    {
+      "entity_id":1917,
+      "id":1917,
+      "display_label":"Lex"
+    },
+    {
+      "entity_id":1918,
+      "id":1918,
+      "display_label":"Allan Paul"
+    },
+    {
+      "entity_id":1919,
+      "id":1919,
+      "display_label":"Raven Schwartz"
+    },
+    {
+      "entity_id":1920,
+      "id":1920,
+      "display_label":"Louise Bak"
+    },
+    {
+      "entity_id":1921,
+      "id":1921,
+      "display_label":"Alyssa"
+    },
+    {
+      "entity_id":1922,
+      "id":1922,
+      "display_label":"Mickey"
+    },
+    {
+      "entity_id":1923,
+      "id":1923,
+      "display_label":"RJ Maccani"
+    },
+    {
+      "entity_id":1924,
+      "id":1924,
+      "display_label":"Mike"
+    },
+    {
+      "entity_id":1925,
+      "id":1925,
+      "display_label":"Kertis"
+    },
+    {
+      "entity_id":1926,
+      "id":1926,
+      "display_label":"Grace Lee Boggs"
+    },
+    {
+      "entity_id":1927,
+      "id":1927,
+      "display_label":"Maxine Williams"
+    },
+    {
+      "entity_id":1928,
+      "id":1928,
+      "display_label":"Pamela Newman"
+    },
+    {
+      "entity_id":1929,
+      "id":1929,
+      "display_label":"Connie Colvin"
+    },
+    {
+      "entity_id":1930,
+      "id":1930,
+      "display_label":"Rev. Richard J. Mackin"
+    },
+    {
+      "entity_id":1931,
+      "id":1931,
+      "display_label":"Michelle Liptrot"
+    },
+    {
+      "entity_id":1932,
+      "id":1932,
+      "display_label":"Casavoladora@hotmailcom"
+    },
+    {
+      "entity_id":1933,
+      "id":1933,
+      "display_label":"Casero Records"
+    },
+    {
+      "entity_id":1934,
+      "id":1934,
+      "display_label":"James Bell"
+    },
+    {
+      "entity_id":1936,
+      "id":1936,
+      "display_label":"King VelVeeda"
+    },
+    {
+      "entity_id":1937,
+      "id":1937,
+      "display_label":"Out Of Order Books"
+    },
+    {
+      "entity_id":1940,
+      "id":1940,
+      "display_label":"Alycia Sellie"
+    },
+    {
+      "entity_id":1941,
+      "id":1941,
+      "display_label":"Rachel S"
+    },
+    {
+      "entity_id":1942,
+      "id":1942,
+      "display_label":"Mike, Lindsey, Dave & Lily"
+    },
+    {
+      "entity_id":1943,
+      "id":1943,
+      "display_label":"Jesse & Ryan"
+    },
+    {
+      "entity_id":1944,
+      "id":1944,
+      "display_label":"Rawr"
+    },
+    {
+      "entity_id":1945,
+      "id":1945,
+      "display_label":"Threat"
+    },
+    {
+      "entity_id":1946,
+      "id":1946,
+      "display_label":"Simon Strikeback"
+    },
+    {
+      "entity_id":1947,
+      "id":1947,
+      "display_label":"Joe Biel"
+    },
+    {
+      "entity_id":1948,
+      "id":1948,
+      "display_label":"Cody"
+    },
+    {
+      "entity_id":1949,
+      "id":1949,
+      "display_label":"Zach"
+    },
+    {
+      "entity_id":1950,
+      "id":1950,
+      "display_label":"Alex Wrekk"
+    },
+    {
+      "entity_id":1951,
+      "id":1951,
+      "display_label":"Ashley Wright"
+    },
+    {
+      "entity_id":1952,
+      "id":1952,
+      "display_label":"Al Barkley"
+    },
+    {
+      "entity_id":1953,
+      "id":1953,
+      "display_label":"Garret JN Talbot"
+    },
+    {
+      "entity_id":1954,
+      "id":1954,
+      "display_label":"Jason Florin"
+    },
+    {
+      "entity_id":1955,
+      "id":1955,
+      "display_label":"Anthony LaPorte"
+    },
+    {
+      "entity_id":1956,
+      "id":1956,
+      "display_label":"ben michell"
+    },
+    {
+      "entity_id":1958,
+      "id":1958,
+      "display_label":"7U?"
+    },
+    {
+      "entity_id":1959,
+      "id":1959,
+      "display_label":"Bro X"
+    },
+    {
+      "entity_id":1960,
+      "id":1960,
+      "display_label":"Katie Joa"
+    },
+    {
+      "entity_id":1961,
+      "id":1961,
+      "display_label":"Anarchist Action Collective"
+    },
+    {
+      "entity_id":1962,
+      "id":1962,
+      "display_label":"Kangrejo"
+    },
+    {
+      "entity_id":1963,
+      "id":1963,
+      "display_label":"JTS"
+    },
+    {
+      "entity_id":1964,
+      "id":1964,
+      "display_label":"Greezus J"
+    },
+    {
+      "entity_id":1965,
+      "id":1965,
+      "display_label":"Art Kunkin"
+    },
+    {
+      "entity_id":1966,
+      "id":1966,
+      "display_label":"Federation For Anarchist Organizing"
+    },
+    {
+      "entity_id":1967,
+      "id":1967,
+      "display_label":"AWOL"
+    },
+    {
+      "entity_id":1968,
+      "id":1968,
+      "display_label":"Slivia Federici  George Caffentzis"
+    },
+    {
+      "entity_id":1969,
+      "id":1969,
+      "display_label":"Andalusia"
+    },
+    {
+      "entity_id":1970,
+      "id":1970,
+      "display_label":"Little Nathan"
+    },
+    {
+      "entity_id":1971,
+      "id":1971,
+      "display_label":"Chris Larson"
+    },
+    {
+      "entity_id":1973,
+      "id":1973,
+      "display_label":"Seedhead"
+    },
+    {
+      "entity_id":1974,
+      "id":1974,
+      "display_label":"Vermicious Knid"
+    },
+    {
+      "entity_id":1975,
+      "id":1975,
+      "display_label":"Chris Dodge"
+    },
+    {
+      "entity_id":1976,
+      "id":1976,
+      "display_label":"Adrienne"
+    },
+    {
+      "entity_id":1977,
+      "id":1977,
+      "display_label":"Tom Webb"
+    },
+    {
+      "entity_id":1978,
+      "id":1978,
+      "display_label":"Jeff Reinhardt"
+    },
+    {
+      "entity_id":1979,
+      "id":1979,
+      "display_label":"Joan Nestle"
+    },
+    {
+      "entity_id":1980,
+      "id":1980,
+      "display_label":"Geoff Carens"
+    },
+    {
+      "entity_id":1981,
+      "id":1981,
+      "display_label":"Jake Carman"
+    },
+    {
+      "entity_id":1982,
+      "id":1982,
+      "display_label":"Bruce"
+    },
+    {
+      "entity_id":1983,
+      "id":1983,
+      "display_label":"Eric Brown"
+    },
+    {
+      "entity_id":1984,
+      "id":1984,
+      "display_label":"Bad Attitude"
+    },
+    {
+      "entity_id":1985,
+      "id":1985,
+      "display_label":"Orlo"
+    },
+    {
+      "entity_id":1986,
+      "id":1986,
+      "display_label":"Barricada Collective"
+    },
+    {
+      "entity_id":1988,
+      "id":1988,
+      "display_label":"Feral Children Productions LLC"
+    },
+    {
+      "entity_id":1990,
+      "id":1990,
+      "display_label":"Amir H Fallah"
+    },
+    {
+      "entity_id":1991,
+      "id":1991,
+      "display_label":"Rachel Harriet Atlas Godfrey"
+    },
+    {
+      "entity_id":1992,
+      "id":1992,
+      "display_label":"Kirsten Fricke"
+    },
+    {
+      "entity_id":1993,
+      "id":1993,
+      "display_label":"Stacy Buchanan"
+    },
+    {
+      "entity_id":1994,
+      "id":1994,
+      "display_label":"Kate Livingston"
+    },
+    {
+      "entity_id":1995,
+      "id":1995,
+      "display_label":"Matthew Newton"
+    },
+    {
+      "entity_id":1996,
+      "id":1996,
+      "display_label":"Bent Bars Project"
+    },
+    {
+      "entity_id":1997,
+      "id":1997,
+      "display_label":"EDIPRES"
+    },
+    {
+      "entity_id":1998,
+      "id":1998,
+      "display_label":"Jens Kastner"
+    },
+    {
+      "entity_id":1999,
+      "id":1999,
+      "display_label":"Bent Bars Collective"
+    },
+    {
+      "entity_id":2000,
+      "id":2000,
+      "display_label":"IG Bildende Kunst"
+    },
+    {
+      "entity_id":2001,
+      "id":2001,
+      "display_label":"Margo Farrar"
+    },
+    {
+      "entity_id":2002,
+      "id":2002,
+      "display_label":"Liselotte Erlanger"
+    },
+    {
+      "entity_id":2003,
+      "id":2003,
+      "display_label":"Anne Crecelius"
+    },
+    {
+      "entity_id":2004,
+      "id":2004,
+      "display_label":"Beth Bosk"
+    },
+    {
+      "entity_id":2005,
+      "id":2005,
+      "display_label":"George Mahood"
+    },
+    {
+      "entity_id":2006,
+      "id":2006,
+      "display_label":"Publisher Lisa Jervis"
+    },
+    {
+      "entity_id":2007,
+      "id":2007,
+      "display_label":"Val Spaulding"
+    },
+    {
+      "entity_id":2008,
+      "id":2008,
+      "display_label":"Samella Lewis"
+    },
+    {
+      "entity_id":2009,
+      "id":2009,
+      "display_label":"Jan Jemison"
+    },
+    {
+      "entity_id":2010,
+      "id":2010,
+      "display_label":"Anna Noriega"
+    },
+    {
+      "entity_id":2011,
+      "id":2011,
+      "display_label":"Jim Ricks"
+    },
+    {
+      "entity_id":2012,
+      "id":2012,
+      "display_label":"Phillina Sun"
+    },
+    {
+      "entity_id":2013,
+      "id":2013,
+      "display_label":"Chase"
+    },
+    {
+      "entity_id":2014,
+      "id":2014,
+      "display_label":"Steve Faustina"
+    },
+    {
+      "entity_id":2015,
+      "id":2015,
+      "display_label":"Mosk"
+    },
+    {
+      "entity_id":2016,
+      "id":2016,
+      "display_label":"Oze 108"
+    },
+    {
+      "entity_id":2017,
+      "id":2017,
+      "display_label":"Safari"
+    },
+    {
+      "entity_id":2018,
+      "id":2018,
+      "display_label":"Sibl"
+    },
+    {
+      "entity_id":2019,
+      "id":2019,
+      "display_label":"Thuy"
+    },
+    {
+      "entity_id":2020,
+      "id":2020,
+      "display_label":"Robert Chrisman"
+    },
+    {
+      "entity_id":2021,
+      "id":2021,
+      "display_label":"Robert Allen"
+    },
+    {
+      "entity_id":2022,
+      "id":2022,
+      "display_label":"Janice Bevien"
+    },
+    {
+      "entity_id":2023,
+      "id":2023,
+      "display_label":"Nathan Hare"
+    },
+    {
+      "entity_id":2024,
+      "id":2024,
+      "display_label":"Frances M Beal"
+    },
+    {
+      "entity_id":2025,
+      "id":2025,
+      "display_label":"Black Flag Group"
+    },
+    {
+      "entity_id":2026,
+      "id":2026,
+      "display_label":"Lauren Trout"
+    },
+    {
+      "entity_id":2027,
+      "id":2027,
+      "display_label":"David Bigelow"
+    },
+    {
+      "entity_id":2028,
+      "id":2028,
+      "display_label":"Mike Barnett"
+    },
+    {
+      "entity_id":2029,
+      "id":2029,
+      "display_label":"Mike Thompson"
+    },
+    {
+      "entity_id":2030,
+      "id":2030,
+      "display_label":"Mike White"
+    },
+    {
+      "entity_id":2031,
+      "id":2031,
+      "display_label":"Charles Koller"
+    },
+    {
+      "entity_id":2032,
+      "id":2032,
+      "display_label":"Clifton Howard"
+    },
+    {
+      "entity_id":2033,
+      "id":2033,
+      "display_label":"Andrew Haupt"
+    },
+    {
+      "entity_id":2034,
+      "id":2034,
+      "display_label":"Jackie Cheshire"
+    },
+    {
+      "entity_id":2035,
+      "id":2035,
+      "display_label":"Sari"
+    },
+    {
+      "entity_id":2036,
+      "id":2036,
+      "display_label":"East"
+    },
+    {
+      "entity_id":2037,
+      "id":2037,
+      "display_label":"Mchawi Basir"
+    },
+    {
+      "entity_id":2039,
+      "id":2039,
+      "display_label":"Anarchy News Service"
+    },
+    {
+      "entity_id":2040,
+      "id":2040,
+      "display_label":"Autonomy News Service"
+    },
+    {
+      "entity_id":2042,
+      "id":2042,
+      "display_label":"Marvin Garson"
+    },
+    {
+      "entity_id":2043,
+      "id":2043,
+      "display_label":"Bob Novick"
+    }
+  ]
+}
