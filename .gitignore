@@ -2,3 +2,8 @@
 data/
 config.py
 *.pyc
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
+=======
+pickles/
+venv*
+>>>>>>> deleting dupes from IA collective access

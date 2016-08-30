@@ -1813,11 +1813,14 @@
       "display_label":"Raze The Walls"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":413,
       "id":413,
       "display_label":"Lindsay Starbuck"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":414,
       "id":414,
       "display_label":"Lindsay Starbuck"
@@ -2113,11 +2116,14 @@
       "display_label":"Lourdes Lugo"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":475,
       "id":475,
       "display_label":"Lourdes Lugo"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":476,
       "id":476,
       "display_label":"Bomani Shakur"
@@ -2203,11 +2209,14 @@
       "display_label":"Marc Jay"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":493,
       "id":493,
       "display_label":"Marc Jay"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":494,
       "id":494,
       "display_label":"Mike Taylor"
@@ -2333,11 +2342,14 @@
       "display_label":"Talib Kwelli"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":520,
       "id":520,
       "display_label":"Hi-Tek"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":521,
       "id":521,
       "display_label":"Rawkus Records"
@@ -2383,11 +2395,14 @@
       "display_label":"Mos Def"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":531,
       "id":531,
       "display_label":"Hi-Tek"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":532,
       "id":532,
       "display_label":"Maulkie"
@@ -2408,11 +2423,14 @@
       "display_label":"Rah Digga"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":536,
       "id":536,
       "display_label":"Rah Digga"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":537,
       "id":537,
       "display_label":"Shorty"
@@ -2428,11 +2446,14 @@
       "display_label":"Xzibit"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":540,
       "id":540,
       "display_label":"Xzibit"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":541,
       "id":541,
       "display_label":"Anti Pop Consortium"
@@ -2473,11 +2494,14 @@
       "display_label":"Bahamadia"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":549,
       "id":549,
       "display_label":"Bahamadia"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":550,
       "id":550,
       "display_label":"Black Hoodz"
@@ -2493,11 +2517,14 @@
       "display_label":"Mr. Man"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":553,
       "id":553,
       "display_label":"Mr. Man"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":554,
       "id":554,
       "display_label":"J-Rocc"
@@ -2528,11 +2555,14 @@
       "display_label":"Aceyalone"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":560,
       "id":560,
       "display_label":"Hi-Tek"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":561,
       "id":561,
       "display_label":"Attica Blues"
@@ -2763,6 +2793,7 @@
       "display_label":"Sister Asia"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":612,
       "id":612,
       "display_label":"Sister Asia"
@@ -2773,16 +2804,21 @@
       "display_label":"Sister Asia"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":614,
       "id":614,
       "display_label":"Ocean"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":615,
       "id":615,
       "display_label":"Sister Asia"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":616,
       "id":616,
       "display_label":"Realized LLC"
@@ -2798,11 +2834,14 @@
       "display_label":"Mike Zoot"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":619,
       "id":619,
       "display_label":"Mike Zoot"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":620,
       "id":620,
       "display_label":"Danny Hoch"
@@ -2828,11 +2867,14 @@
       "display_label":"Shabaam Sahdeeq"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":630,
       "id":630,
       "display_label":"Shabaam Sahdeeq"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":631,
       "id":631,
       "display_label":"Makin' Records"
@@ -3238,6 +3280,7 @@
       "display_label":"Ed O.G."
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":713,
       "id":713,
       "display_label":"Ed O.G."
@@ -3248,6 +3291,8 @@
       "display_label":"Ed O.G."
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":715,
       "id":715,
       "display_label":"Slumberland Records"
@@ -3313,11 +3358,14 @@
       "display_label":"Pyro"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":728,
       "id":728,
       "display_label":"Pyro"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":729,
       "id":729,
       "display_label":"Self-Scientific"
@@ -3533,11 +3581,14 @@
       "display_label":"Jean Smith"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":773,
       "id":773,
       "display_label":"Jean Smith"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":774,
       "id":774,
       "display_label":"Crass"
@@ -3593,11 +3644,14 @@
       "display_label":"Divine Styler"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":786,
       "id":786,
       "display_label":"P.E.A.C.E."
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":787,
       "id":787,
       "display_label":"Mear"
@@ -3683,11 +3737,14 @@
       "display_label":"Yuko Tohohira"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":805,
       "id":805,
       "display_label":"Yuko Tohohira"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":806,
       "id":806,
       "display_label":"Greg Mihalko"
@@ -3698,11 +3755,14 @@
       "display_label":"Cedar Nordbye"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":808,
       "id":808,
       "display_label":"Cedar Nordbye"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":809,
       "id":809,
       "display_label":"International Communist Current"
@@ -3728,6 +3788,7 @@
       "display_label":"Lynne Stewart"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":814,
       "id":814,
       "display_label":"Lynne Stewart"
@@ -3738,6 +3799,8 @@
       "display_label":"Fireworks Graphics Collective"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":816,
       "id":816,
       "display_label":"Aric McBay"
@@ -3753,11 +3816,14 @@
       "display_label":"Coalition Against Israeli Apartheid"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":819,
       "id":819,
       "display_label":"Coalition Against Israeli Apartheid"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":820,
       "id":820,
       "display_label":"Emily Kantar"
@@ -3833,11 +3899,14 @@
       "display_label":"Malaquias Montoya"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":836,
       "id":836,
       "display_label":"Malaquias Montoya"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":837,
       "id":837,
       "display_label":"Herman Wallace"
@@ -4768,11 +4837,14 @@
       "display_label":"People's Communications Committee"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1023,
       "id":1023,
       "display_label":"People's Communications Committee"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1024,
       "id":1024,
       "display_label":"Ann Arbor Tribal Council"
@@ -4793,11 +4865,14 @@
       "display_label":"Jean Hart"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1029,
       "id":1029,
       "display_label":"Jean Hart"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1030,
       "id":1030,
       "display_label":"Les Pine"
@@ -4868,11 +4943,14 @@
       "display_label":"Ed Epstein"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1044,
       "id":1044,
       "display_label":"Ed Epstein"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1045,
       "id":1045,
       "display_label":"Hootenanny Records"
@@ -4898,11 +4976,14 @@
       "display_label":"David Gahr"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1050,
       "id":1050,
       "display_label":"David Gahr"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1051,
       "id":1051,
       "display_label":"Elmer Jared Gordon"
@@ -4963,11 +5044,14 @@
       "display_label":"Bruce Langhorne"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1063,
       "id":1063,
       "display_label":"Bruce Langhorne"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1064,
       "id":1064,
       "display_label":"Lottie Kimbrough"
@@ -5018,11 +5102,14 @@
       "display_label":"Reinie Press"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1074,
       "id":1074,
       "display_label":"Reinie Press"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1075,
       "id":1075,
       "display_label":"Joe Sample"
@@ -5233,6 +5320,7 @@
       "display_label":"Sophia Nachala"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1120,
       "id":1120,
       "display_label":"Sophia Nachala"
@@ -5243,6 +5331,8 @@
       "display_label":"Sophia Nachala"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1122,
       "id":1122,
       "display_label":"Yarostan Vochek"
@@ -5273,11 +5363,14 @@
       "display_label":"Lorraine Perlman"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1128,
       "id":1128,
       "display_label":"Lorraine Perlman"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1129,
       "id":1129,
       "display_label":"Jos\u00e9 Peirats"
@@ -5403,11 +5496,14 @@
       "display_label":"Ryan Nuckel"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1155,
       "id":1155,
       "display_label":"Doug Minkler"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1156,
       "id":1156,
       "display_label":"Rachel Caidor"
@@ -5433,11 +5529,14 @@
       "display_label":"Nathan Meltz"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1161,
       "id":1161,
       "display_label":"Nathan Meltz"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1162,
       "id":1162,
       "display_label":"Tom Quigley"
@@ -5723,6 +5822,7 @@
       "display_label":"The Art Institute Of Chicago"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1221,
       "id":1221,
       "display_label":"The Art Institute Of Chicago"
@@ -5733,6 +5833,8 @@
       "display_label":"The Art Institute Of Chicago"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1223,
       "id":1223,
       "display_label":"La Union De Vecinos"
@@ -5778,11 +5880,14 @@
       "display_label":"Big Noise Tactical Media"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1232,
       "id":1232,
       "display_label":"Big Noise Tactical Media"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1233,
       "id":1233,
       "display_label":"Moefilm Productions"
@@ -5808,11 +5913,14 @@
       "display_label":"Kelly Spivey"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1238,
       "id":1238,
       "display_label":"Christopher E Kubasik"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1239,
       "id":1239,
       "display_label":"Christopher E Kubasik"
@@ -5958,11 +6066,14 @@
       "display_label":"Alex Chechile"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1269,
       "id":1269,
       "display_label":"Alex Chechile"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1270,
       "id":1270,
       "display_label":"Anke Haarmann"
@@ -5998,11 +6109,14 @@
       "display_label":"Amanda Richardson"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1277,
       "id":1277,
       "display_label":"Amanda Richardson"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1278,
       "id":1278,
       "display_label":"Rich Bott"
@@ -6163,11 +6277,14 @@
       "display_label":"Ginger Brooks Takahashi"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1310,
       "id":1310,
       "display_label":"Ginger Brooks Takahashi"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1311,
       "id":1311,
       "display_label":"Jon Davies"
@@ -6278,11 +6395,14 @@
       "display_label":"Art Pluribus Unum"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1333,
       "id":1333,
       "display_label":"Art Pluribus Unum"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1334,
       "id":1334,
       "display_label":"Monica Johnson"
@@ -6298,11 +6418,14 @@
       "display_label":"Radical America"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1337,
       "id":1337,
       "display_label":"Radical America"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1338,
       "id":1338,
       "display_label":"Revolutionary Printing Cooperative"
@@ -6568,11 +6691,14 @@
       "display_label":"Cecilia Dogherty"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1393,
       "id":1393,
       "display_label":"A3BC"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1394,
       "id":1394,
       "display_label":"A3BC"
@@ -6613,11 +6739,14 @@
       "display_label":"Chris Kasper"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1402,
       "id":1402,
       "display_label":"Chris Kasper"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1403,
       "id":1403,
       "display_label":"Dushky Petrovichi"
@@ -7188,11 +7317,14 @@
       "display_label":"Stuart Christie"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1526,
       "id":1526,
       "display_label":"Ojore Lutalo"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1527,
       "id":1527,
       "display_label":"Ray Luc Lavasseur"
@@ -7233,11 +7365,14 @@
       "display_label":"Peter Chow"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1535,
       "id":1535,
       "display_label":"Peter Chow"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1536,
       "id":1536,
       "display_label":"Christopher Chow"
@@ -7418,11 +7553,14 @@
       "display_label":"John Chu"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1573,
       "id":1573,
       "display_label":"John Chu"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1574,
       "id":1574,
       "display_label":"Aileen Yip"
@@ -7458,11 +7596,14 @@
       "display_label":"Toyo Obayashi"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1581,
       "id":1581,
       "display_label":"Toyo Obayashi"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1582,
       "id":1582,
       "display_label":"Merle Motooka"
@@ -7553,11 +7694,14 @@
       "display_label":"Obscurist Press"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1602,
       "id":1602,
       "display_label":"Obscurist Press"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1603,
       "id":1603,
       "display_label":"Ellen Bortel"
@@ -7683,11 +7827,14 @@
       "display_label":"Anarchist Association Of The Americas"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1628,
       "id":1628,
       "display_label":"Anarchist Association Of The Americas"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1629,
       "id":1629,
       "display_label":"John Joh"
@@ -7763,11 +7910,14 @@
       "display_label":"Eric Kjensrud"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1647,
       "id":1647,
       "display_label":"Eric Kjensrud"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1648,
       "id":1648,
       "display_label":"Skot Odierno"
@@ -7793,11 +7943,14 @@
       "display_label":"Steven Dominici Prestianni"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1653,
       "id":1653,
       "display_label":"Steven Dominici Prestianni"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1654,
       "id":1654,
       "display_label":"Baron Von Blumenzack"
@@ -7808,11 +7961,14 @@
       "display_label":"Margaret Killjoy"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1656,
       "id":1656,
       "display_label":"Margaret Killjoy"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1657,
       "id":1657,
       "display_label":"Strangers In A Tangled Wilderness"
@@ -7833,11 +7989,14 @@
       "display_label":"Carrie McNinch"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1661,
       "id":1661,
       "display_label":"Carrie McNinch"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1664,
       "id":1664,
       "display_label":"riot grrrl press"
@@ -8008,11 +8167,14 @@
       "display_label":"Amy Halbohm"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1706,
       "id":1706,
       "display_label":"Amy Halbohm"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1707,
       "id":1707,
       "display_label":"Dari Fulmer"
@@ -8583,11 +8745,14 @@
       "display_label":"Dan Tanz"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1822,
       "id":1822,
       "display_label":"Dan Tanz"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1823,
       "id":1823,
       "display_label":"Jay Feiker"
@@ -8748,11 +8913,14 @@
       "display_label":"Arra Lynn Ross"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1855,
       "id":1855,
       "display_label":"Arra Lynn Ross"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1856,
       "id":1856,
       "display_label":"Christian Campbell"
@@ -8853,11 +9021,14 @@
       "display_label":"Joel Herron"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1879,
       "id":1879,
       "display_label":"Joel Herron"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1880,
       "id":1880,
       "display_label":"Capitaloforegongmailcom"
@@ -9018,11 +9189,14 @@
       "display_label":"B Kite"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1912,
       "id":1912,
       "display_label":"B Kite"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1913,
       "id":1913,
       "display_label":"La John Joseph"
@@ -9133,11 +9307,14 @@
       "display_label":"James Bell"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1935,
       "id":1935,
       "display_label":"James Bell"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1936,
       "id":1936,
       "display_label":"King VelVeeda"
@@ -9148,6 +9325,7 @@
       "display_label":"Out Of Order Books"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1938,
       "id":1938,
       "display_label":"Out Of Order Books"
@@ -9158,6 +9336,8 @@
       "display_label":"Out Of Order Books"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1940,
       "id":1940,
       "display_label":"Alycia Sellie"
@@ -9243,11 +9423,14 @@
       "display_label":"ben michell"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1957,
       "id":1957,
       "display_label":"7U?"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1958,
       "id":1958,
       "display_label":"7U?"
@@ -9318,11 +9501,14 @@
       "display_label":"Chris Larson"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1972,
       "id":1972,
       "display_label":"Chris Larson"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1973,
       "id":1973,
       "display_label":"Seedhead"
@@ -9393,21 +9579,27 @@
       "display_label":"Barricada Collective"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1987,
       "id":1987,
       "display_label":"Barricada Collective"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1988,
       "id":1988,
       "display_label":"Feral Children Productions LLC"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":1989,
       "id":1989,
       "display_label":"Feral Children Productions LLC"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":1990,
       "id":1990,
       "display_label":"Amir H Fallah"
@@ -9648,11 +9840,14 @@
       "display_label":"Mchawi Basir"
     },
     {
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
       "entity_id":2038,
       "id":2038,
       "display_label":"Mchawi Basir"
     },
     {
+=======
+>>>>>>> deleting dupes from IA collective access
       "entity_id":2039,
       "id":2039,
       "display_label":"Anarchy News Service"
@@ -9661,6 +9856,19 @@
       "entity_id":2040,
       "id":2040,
       "display_label":"Autonomy News Service"
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
+=======
+    },
+    {
+      "entity_id":2042,
+      "id":2042,
+      "display_label":"Marvin Garson"
+    },
+    {
+      "entity_id":2043,
+      "id":2043,
+      "display_label":"Bob Novick"
+>>>>>>> deleting dupes from IA collective access
     }
   ]
 }
