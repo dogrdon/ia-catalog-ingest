@@ -2,5 +2,8 @@
 data/
 config.py
 *.pyc
+<<<<<<< HEAD
 pickles/
 venv*
+=======
+>>>>>>> 01db1d65a92e8ed66391bd9532cb9a06bfff16fc

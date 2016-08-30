@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 '''ad hoc script for removing duplicate entities (for now) from IA collective access.
 	1) pulls down all entities from web service api and figures out dupes merely by matching display_labels (doesn't capture alternative spellings etc)
 	2) checks if of the dupes there is one with established relationships and others with nothing, it will delete the ones w/o relationships
@@ -33,6 +34,24 @@ def find_dupes(entities):
 	data = json.loads(entities.content)
 	for d in data['results']:
 		dupes.setdefault(d['display_label'], []).append(d['entity_id'])
+=======
+import json
+import sys
+import config
+import requests
+
+__USER = config.__USER
+__PASS = config.__PASS
+target_url = 'https://catalog.interferencearchive.org/service.php/item/ca_entities/id/%s'
+
+
+def find_dupes(filename):
+	dupes = {}
+	with open(filename, 'r') as infile:
+		data = json.loads(infile.read())
+		for d in data['results']:
+			dupes.setdefault(d['display_label'], []).append(d['entity_id'])
+>>>>>>> 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
 	for d,v in dupes.items():
 		if len(v) < 2:
 			del dupes[d]
@@ -40,6 +59,7 @@ def find_dupes(entities):
 
 def check_record(entity_id_list):
 	d = {}
+<<<<<<< HEAD
 	print("checking: ", entity_id_list)
 	for eid in entity_id_list:
 		res = requests.get((target_url % eid), auth=(__USER, __PASS))
@@ -48,10 +68,23 @@ def check_record(entity_id_list):
 			d[eid] = True
 		else:
 			d[eid] = False
+=======
+	for eid in entity_id_list:
+		res = requests.get((target_url % eid), auth=(__USER, __PASS))
+		try: 
+			r = res.content['results']
+			if 'related' in r.keys()
+				d[eid] = True
+			else:
+				d[eid] = False
+		except e:
+			sys.exit(e)
+>>>>>>> 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
 	return d
 
 
 def filter_dupes(datastore):
+<<<<<<< HEAD
 	delete_me = []
 	for k,v in datastore.items():
 		res = check_record(v)
@@ -84,6 +117,17 @@ def delete_entities(delete_list):
 	os.remove(DELETION_STORE)
 
 if __name__ == '__main__':
+=======
+	checked = []
+	for k,v in datastore.items():
+		res = check_record(v)
+		checked.append(res)
+	return checked
+
+if __name__ == '__main__':
+
+	f = sys.argv[1] #file to id dupes
+>>>>>>> 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
 	
 	# loop through ca_entities.json
 
@@ -93,7 +137,11 @@ if __name__ == '__main__':
 
 	# this is your list of entities that need to be checked for deletion....
 
+<<<<<<< HEAD
 	dupe_store = find_dupes(requests.get((entities_all), auth=(__USER, __PASS)))
+=======
+	dupe_store = find_dupes(f)
+>>>>>>> 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
 
 	# with deletion list, 
 
@@ -107,6 +155,7 @@ if __name__ == '__main__':
 
 	# store id in list for deletion
 
+<<<<<<< HEAD
 	if os.path.isfile(DELETION_STORE):
 		deletion_list = pickle.load( open( DELETION_STORE, "rb" ) )
 	else:
@@ -123,5 +172,10 @@ if __name__ == '__main__':
 	else:
 		print("Runnning command with `-r`, You will delete %s items: %s" % (str(len(deletion_list)), str(deletion_list)) )
 
+=======
+	deletion_list = filter_dupes(dupe_store)
+
+	# delete whichever does not have relateds or just leave one (if both no relateds)
+>>>>>>> 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
 
 
