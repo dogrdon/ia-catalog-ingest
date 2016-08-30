@@ -3,7 +3,15 @@ data/
 config.py
 *.pyc
 <<<<<<< HEAD
+<<<<<<< HEAD
 pickles/
 venv*
 =======
 >>>>>>> 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
+=======
+<<<<<<< 01db1d65a92e8ed66391bd9532cb9a06bfff16fc
+=======
+pickles/
+venv*
+>>>>>>> deleting dupes from IA collective access
+>>>>>>> ca27f4e7ae65f75aa2a3ecacdc3ad208ca43f76e
