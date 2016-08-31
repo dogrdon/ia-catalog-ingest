@@ -60,3 +60,13 @@ else (soft delete):
     curl -XDELETE 'http://{user}:{pass}@catalog.interferencearchive.org/service.php/item/ca_entities/id/{id}?pretty=1'
 
 **MATCH ENTITIES IN INGEST WITH THOSE ALREADY IN COLLECTIVE ACCESS:**
+
+---based on a fuzzywuzzy fuzz score of >75:
+
+Terry Forman ----- Terry Forman 1341
+Amnesty International ----- Amnesty International 382
+Inkworks Press ----- Inkworks Press 893
+Prairie Fire Organizing Committee (PFOC) ----- Prairie Fire Organizing Committee 470
+Resistance Publications ----- Rebeldia Publications 313
+SF Poster Brigade ----- San Francisco Poster Brigade 896
+Urban Arts ----- Urban Rats 1728
