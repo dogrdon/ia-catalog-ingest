@@ -67,9 +67,11 @@ else: (soft delete)
 
 **UNKNOWN ENTITIES FOR CLARIFICATION**
 
-- CIRRS/FVPF
-- ACD
-- ICEF
+- CIRRS (client)
+- ACD (client)
+- ICEF (client)
+- tecumo (designer)
+- camomile (designer)
 
 **MATCH ENTITIES IN INGEST WITH THOSE ALREADY IN COLLECTIVE ACCESS:**
 
@@ -79,13 +81,12 @@ else: (soft delete)
 
 - Amnesty International ----- Amnesty International 382
 - Inkworks Press ----- Inkworks Press 893
-- Mike Harvey ----- Michele Harvey 1721
-- Palestine Solidarity Committee ----- Prisoners Solidarity Committee 1134
 - Prairie Fire Organizing Committee (PFOC) ----- Prairie Fire Organizing Committee 470
 - SF Poster Brigade ----- San Francisco Poster Brigade 896
 - Resistance Publications ----- Rebeldia Publications 313 (?)
 - Urban Arts ----- Urban Rats 1728 (?)
 - Terry Forman ----- Terry Forman 1341
+- Fireworks ----- Fireworks Graphics Collective 1343
 
 *designers* 
 
@@ -95,7 +96,6 @@ else: (soft delete)
 - Inkworks Press ----- Inkworks Press 893
 - Jane Norling ----- Jane Norling 1390
 - Malaquas Montoya ----- Malaquias Montoya 835
-- Resistance Publications ----- Rebeldia Publications 313 (?)
 - Rupert Garcia ----- Rupert Garcia 891
 - San Francisco Poster Brigade ----- San Francisco Poster Brigade 896
 - Terry Forman ----- Terry Forman 1341
@@ -106,7 +106,9 @@ else: (soft delete)
 
 *source artists* 
 
+African People's Socialist Party
+
 - Carlos Cortez ----- Carlos Cortez 855
-- M Louise Stanley ----- Mike Stanley 911 (?)
 - Malaquias Montoya ----- Malaquias Montoya 835
 - Terry Forman ----- Terry Forman 1341
+- OSPAAAL (Cuba) ----- OSPAAAL 1353
