@@ -9,12 +9,13 @@ __USER = config.__USER
 __PASS = config.__PASS
 entities_all = 'https://catalog.interferencearchive.org/admin/service.php/find/ca_entities?q=*'
 
+infile = sys.argv[1]
 
 if __name__ == '__main__':
 
 	catalog_entities = json.loads(requests.get((entities_all), auth=(__USER, __PASS)).content)['results']
 	catalog_data = {i['display_label']:i['entity_id'] for i in catalog_entities}
-	with open('../data/inkworks/inkworks_entities_clients.csv', 'r') as f:
+	with open(infile, 'r') as f:
 		rows = csv.reader(f, delimiter='\t')
 		rows.next()
 		for row in rows:
