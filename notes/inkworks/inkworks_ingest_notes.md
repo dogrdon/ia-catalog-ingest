@@ -49,6 +49,13 @@ storage locations (relationship_typeid=19)
 
 5. Find which entities are already in CA catalog (query entities, see **Other issues**)
 
+6. Generate entities in json form for Posting and post with (for example): 
+
+	curl -XPUT 'https://{user}:{pass}@catalog.interferencearchive.org/admin/service.php/item/ca_entities' -d '{"preferred_labels": [{"locale": "en_US", "middlename": "", "surname": "TEST Accion Latina TEST", "forename": ""}], "intrinsic_fields": {"idno": "test", "type_id": 81}}'
+   
+   You should get a success response back with the `entity_id`, so we can store that back with the original record:
+
+    {"ok":true,"entity_id":2055}
 
 
 #### Other issues:
@@ -71,7 +78,7 @@ else: (soft delete)
 - ACD (client)
 - ICEF (client)
 - tecumo (designer)
-- camomile (dezsigner)
+- camomile (designer)
 
 **MATCH ENTITIES IN INGEST WITH THOSE ALREADY IN COLLECTIVE ACCESS:**
 
