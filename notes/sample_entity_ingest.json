@@ -1,6 +1,6 @@
-{
+[{
     "intrinsic_fields" : {
-        "idno" : "",
+        "idno" : "ingest_998",
         "type_id" : 80
     },
     "preferred_labels" : [
@@ -11,4 +11,18 @@
             "surname" : "Forman"
         }
     ]
-}
+},
+{
+    "intrinsic_fields" : {
+        "idno" : "ingest_999",
+        "type_id" : 81
+    },
+    "preferred_labels" : [
+        {
+            "locale" : "en_US",
+            "forename" : "",
+            "middlename" : "",
+            "surname" : "American Civil Liberties Union (ACLU)"
+        }
+    ]
+}]

@@ -71,7 +71,7 @@ else: (soft delete)
 - ACD (client)
 - ICEF (client)
 - tecumo (designer)
-- camomile (designer)
+- camomile (dezsigner)
 
 **MATCH ENTITIES IN INGEST WITH THOSE ALREADY IN COLLECTIVE ACCESS:**
 
@@ -83,8 +83,6 @@ else: (soft delete)
 - Inkworks Press ----- Inkworks Press 893
 - Prairie Fire Organizing Committee (PFOC) ----- Prairie Fire Organizing Committee 470
 - SF Poster Brigade ----- San Francisco Poster Brigade 896
-- Resistance Publications ----- Rebeldia Publications 313 (?)
-- Urban Arts ----- Urban Rats 1728 (?)
 - Terry Forman ----- Terry Forman 1341
 - Fireworks ----- Fireworks Graphics Collective 1343
 
