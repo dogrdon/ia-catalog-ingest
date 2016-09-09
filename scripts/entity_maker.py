@@ -42,7 +42,6 @@ def make_entity(row):
 		entry['preferred_labels'].append(pref_labels)
 
 	elif row['type'].strip() == 'org':
-		entry['intrinsic_fields']['idno'] = "test"
 		entry['intrinsic_fields']['type_id'] = 81
 
 		org_name = row['entity']
@@ -55,10 +54,12 @@ def make_entity(row):
 	else:
 		entry = None
 
-	return json.dumps(entry)
-
+	return entry
 
 def post_entity(entity):
+	
+	entity = json.dumps(entity)
+
 	try:
 		print("adding entity with: ", entity)
 		r = requests.put(target_url, auth=(__USER, __PASS), 
@@ -93,9 +94,9 @@ if __name__ == '__main__':
 				if row['catalog_id'].strip() == "":
 					entity = make_entity(row)
 					if entity != None:
-						entity_id['catalog_id']= post_entity(entity)
+						entity['catalog_id'] = post_entity(entity)
 					else:
-						entity_id['catalog_id'] = 'FAILED!'
+						entity['catalog_id'] = 'FAILED!'
 
 				new_row = [row[i] for i in cols]
 				writer.writerow(new_row)
