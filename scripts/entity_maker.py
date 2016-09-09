@@ -11,9 +11,12 @@ target_url = 'https://catalog.interferencearchive.org/admin/service.php/item/ca_
 def make_entity(row):
 	entry = {'intrinsic_fields':{}, 'preferred_labels':[]}
 	
+	idno = "inkworks_ent_{0}".format(row['pkey'])
+
+	entry['intrinsic_fields']['idno'] = idno
+
 	if row['type'].strip() == 'ind':
 		
-		entry['intrinsic_fields']['idno'] = "test"
 		entry['intrinsic_fields']['type_id'] = 80
 
 		name = [r.strip() for r in row['entity'].split(' ')]
