@@ -3,7 +3,7 @@ inkwork ingest types
 
 These are the different types and thus will probably have to be brought in separately:
 
-item:
+item (id = 435):
 
 	* title
 	* description
@@ -71,6 +71,8 @@ if the returned JSON has a `related` property, don't delete.
 else: (soft delete)
 
     curl -XDELETE 'http://{user}:{pass}@catalog.interferencearchive.org/service.php/item/ca_entities/id/{id}?pretty=1'
+
+image: `3453066.jpg` has no entry 
 
 **UNKNOWN ENTITIES FOR CLARIFICATION**
 

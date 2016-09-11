@@ -39,21 +39,21 @@
         "ca_entities" : [
             {
                 "entity_id" : 123,
-                "type_id" : ,
+                "type_id" : 171,
             },
             {
                 "entity_id" : 456,
-                "type_id" : ,
+                "type_id" : 172,
             },
             {
                 "entity_id" : 789,
-                "type_id" : ,
+                "type_id" : 188,
             },
         ],
         "ca_object_representations" : [
             {
                 "entity_id" : 1001,
-                "type_id" : ,
+                "type_id" : ????,
             }
         ],
 
