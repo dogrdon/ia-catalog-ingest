@@ -33,6 +33,12 @@
                 "locale" : "en_US",
                 "measurements_field" : "57x65"
             }
+        ],
+        "rightsSet": [
+            {   
+                "locale" : "en_US",
+                "rightsSet" : "All Rights Reserved"
+            }
         ]
     },
     "related" : {
