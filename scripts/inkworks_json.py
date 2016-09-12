@@ -13,13 +13,14 @@ import csv, json
 import requests
 import config
 
-CA_RELATIONSHIP_IDS = {"lot_id": 134,
+CA_RELATIONSHIP_IDS = {"lot_id": 60,
                    "client_id": 202,
                    "photographer_id": 185,
                    "designer_id": 172,
                    "sourceartist_id": 171,
                    "storage_id": 'NA'}
-LOT_ID = 305 #not sure if this is how lot relationships are assigned.
+LOT_ID = 305 
+LOCATION_ID = 'NA'
 NEW_ITEM_TYPE_ID = 435
 ENTITY_STORE = '../data/inkworks/new_entities.csv'
 ENTITIES = {row['entity']:row['catalog_id'] for row in csv.DictReader(open(ENTITY_STORE, 'r'), delimiter='\t')}
@@ -43,9 +44,13 @@ def make_item(row):
                 'dateSet':[],
                 'measurements_field':[],
                 'rightsSet':[],
-                'format':[{"locale" : "en_US", "name" : "prints"}]
+                'format':[{'locale' : 'en_US', 'name' : 'prints'}]
             }, 
-            'related':{"ca_entities" : []}}
+            'related':{'ca_entities' : [], 
+                       'ca_object_lots':[{'lot_id':LOT_ID, 'type_id':CA_RELATIONSHIP_IDS['lot_id']}]
+                       'ca_storage_locations': [{'location_id': LOCATION_ID, 'type_id': CA_RELATIONSHIP_IDS['storage_id']]
+                      }
+
     image = row['filename']
     idno = image.split('.')[0] #for matching media on upload, give it the filename id
     item['intrinsic_fields']['idno'] = idno

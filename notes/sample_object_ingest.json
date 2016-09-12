@@ -62,6 +62,14 @@
                 "type_id" : ????,
             }
         ],
+        "ca_object_lots":[
+            {"lot_id":305,
+             "type_id":60}
+        ], 
+        "ca_storage_locations":[
+            {"storage_id":???,
+             "type_id":???}
+        ]
 
     }
 }

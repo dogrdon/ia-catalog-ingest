@@ -24,13 +24,13 @@ representations (relationship_typeid=463?):
 
 	- filename
 
-lots (relationship_typeid=object->collection->lot=134???) **just create one and refer to it per object**
+lots (relationship_typeid=60) **just create one and refer to it per object**
 
 	-lot (id=305)
 
 storage locations (relationship_typeid=19)
 
-	- location=??? (id=???)
+	- location=??? (id=???)  *NEED TO GET THIS FROM SOMEONE*
 
 
 #### Data Cleaning Notes
