@@ -69,7 +69,12 @@
         "ca_storage_locations":[
             {"storage_id":???,
              "type_id":???}
-        ]
+        ],
+        "ca_list_items":[{
+            "list_id": 57,
+            "item_id":329
+            
+    }]
 
     }
 }

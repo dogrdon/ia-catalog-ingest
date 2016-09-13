@@ -14,12 +14,16 @@ import requests
 import config
 
 CA_RELATIONSHIP_IDS = {"lot_id": 60,
-                   "client_id": 202,
-                   "photographer_id": 185,
-                   "designer_id": 172,
-                   "sourceartist_id": 171}
+                       "list_id": ,
+                       "client_id": 202,
+                       "photographer_id": 185,
+                       "designer_id": 172,
+                       "sourceartist_id": 171}
 LOT_ID = 305 
 NEW_ITEM_TYPE_ID = 435
+LIST_ID = 57
+ITEM_ID = 329
+
 ENTITY_STORE = '../data/inkworks/new_entities.csv'
 ENTITIES = {row['entity']:row['catalog_id'] for row in csv.DictReader(open(ENTITY_STORE, 'r'), delimiter='\t')}
 clients = ['client_1', 'client_2', 'client_3', 'client_4']
@@ -42,30 +46,34 @@ def make_item(row, test=False):
                 'dateSet':[],
                 'measurements_field':[],
                 'rightsSet':[],
-                'format':[{'locale' : 'en_US', 'name' : 'prints'}]
+                'format':[{'locale' : 'en_US', 'format' : 'prints'}]
             }, 
             'related':{'ca_entities' : [], 
-                       'ca_object_lots':[{'lot_id':LOT_ID, 'type_id':CA_RELATIONSHIP_IDS['lot_id']}]
+                       'ca_object_lots':[{'lot_id':LOT_ID, 'type_id':CA_RELATIONSHIP_IDS['lot_id']}],
+                       'ca_list_items' : [{'list_id':LIST_ID, 'item_id':ITEM_ID}]
                       }}
 
     image = row['filename']
     idno = image.split('.')[0] #for matching media on upload, give it the filename id
+    
+    ''' idno needs to be IA.ITM.###
     if test:
         item['intrinsic_fields']['idno'] = "TEST_"+idno
     else:
         item['intrinsic_fields']['idno'] = idno
+    '''
+
 
     item['intrinsic_fields']['type_id'] = NEW_ITEM_TYPE_ID
     item['preferred_labels'].append({"locale" : "en_US", "name" : row['title']})
-    item['attributes']['titleType'].append({"locale" : "en_US", "name" : row['title']})
     if row['notes'] != '':
-        item['attributes']['notes'].append({"locale" : "en_US", "name" : row['notes']})
+        item['attributes']['notes'].append({"locale" : "en_US", "notes" : row['notes']})
     if row['date'] != '':
-        item['attributes']['dateSet'].append({"locale" : "en_US", "name" : row['date']})
+        item['attributes']['dateSet'].append({"locale" : "en_US", "dateSet" : row['date']})
     if row['size'] != '':
-        item['attributes']['measurements_field'].append({"locale" : "en_US", "name" : row['size']})
+        item['attributes']['measurements_field'].append({"locale" : "en_US", "measurements_field" : row['size']})
     if row['rights'] != '':
-        item['attributes']['rightsSet'].append({"locale" : "en_US", "name" : row['rights']})
+        item['attributes']['rightsSet'].append({"locale" : "en_US", "rightsSet" : row['rights']})
 
     row_clients = ([row[i] for i in clients if i != ''], CA_RELATIONSHIP_IDS['client_id'])
     row_designers = ([row[i] for i in designers if i != ''], CA_RELATIONSHIP_IDS['designer_id'])

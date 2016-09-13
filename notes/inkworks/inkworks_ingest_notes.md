@@ -79,6 +79,12 @@ else: (soft delete)
 
 image: `3453066.jpg` has no entry 
 
+attributes aren't coming through (size, dates, titles, notes...)
+
+titleType supposed to be a list, removing it
+
+format is a list, doesn't work - probably has to be related list item
+
 **UNKNOWN ENTITIES FOR CLARIFICATION**
 
 - CIRRS (client)
