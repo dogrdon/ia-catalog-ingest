@@ -57,6 +57,11 @@ storage locations (relationship_typeid=19)
 
     {"ok":true,"entity_id":2055}
 
+7. Clean up objects
+
+8. Will have to assign IA identifies before hand (IA.ITM.###) - get the last item and just add a pkey
+
+9. Hopefully can just rename the files to that and associate the posters, but that will take more time.
 
 #### Other issues:
 

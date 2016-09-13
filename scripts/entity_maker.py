@@ -13,8 +13,10 @@ def make_entity(row):
 	
 	idno = "inkworks_ent_{0}".format(row['pkey'])
 
-	entry['intrinsic_fields']['idno'] = idno
-
+	if 'TEST' in infile:
+		entry['intrinsic_fields']['idno'] = "TEST_" + idno
+	else:
+		entry['intrinsic_fields']['idno'] = idno
 	if row['type'].strip() == 'ind':
 		
 		entry['intrinsic_fields']['type_id'] = 80
@@ -94,12 +96,17 @@ if __name__ == '__main__':
 				if row['catalog_id'].strip() == "":
 					entity = make_entity(row)
 					if entity != None:
-						entity['catalog_id'] = post_entity(entity)
+						row['catalog_id'] = post_entity(entity)
 					else:
-						entity['catalog_id'] = 'FAILED!'
+						row['catalog_id'] = 'FAILED!'
+					new_row = [row[i] for i in cols]
+					writer.writerow(new_row)
 
-				new_row = [row[i] for i in cols]
-				writer.writerow(new_row)
+				else:
+					row = [row[i] for i in cols]
+					writer.writerow(row)
+
+				
 				
 
 			

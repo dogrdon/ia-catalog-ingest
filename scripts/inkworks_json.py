@@ -4,7 +4,7 @@
 """script for converting csv file of inkworks records into
    collective access compliant json for ingest.
 
-   to run: python inkworks.py [path to inkworks csv] -o [path to output].json
+   to run: python inkworks.py -i [path_to_inkworks.csv] -o [path_to_output.json]
 """
 
 import os, sys
@@ -17,10 +17,8 @@ CA_RELATIONSHIP_IDS = {"lot_id": 60,
                    "client_id": 202,
                    "photographer_id": 185,
                    "designer_id": 172,
-                   "sourceartist_id": 171,
-                   "storage_id": 'NA'}
+                   "sourceartist_id": 171}
 LOT_ID = 305 
-LOCATION_ID = 'NA'
 NEW_ITEM_TYPE_ID = 435
 ENTITY_STORE = '../data/inkworks/new_entities.csv'
 ENTITIES = {row['entity']:row['catalog_id'] for row in csv.DictReader(open(ENTITY_STORE, 'r'), delimiter='\t')}
@@ -34,7 +32,7 @@ def handle_entities(entities, relation_type):
     return [{'entity_id':ENTITIES[entity], 'type_id':relation_type} for entity in entities if entity in ENTITIES.keys()]
 
 
-def make_item(row):
+def make_item(row, test=False):
     keys = row.keys()
     item = {'intrinsic_fields':{}, 
             'preferred_labels':[], 
@@ -48,12 +46,15 @@ def make_item(row):
             }, 
             'related':{'ca_entities' : [], 
                        'ca_object_lots':[{'lot_id':LOT_ID, 'type_id':CA_RELATIONSHIP_IDS['lot_id']}]
-                       'ca_storage_locations': [{'location_id': LOCATION_ID, 'type_id': CA_RELATIONSHIP_IDS['storage_id']]
-                      }
+                      }}
 
     image = row['filename']
     idno = image.split('.')[0] #for matching media on upload, give it the filename id
-    item['intrinsic_fields']['idno'] = idno
+    if test:
+        item['intrinsic_fields']['idno'] = "TEST_"+idno
+    else:
+        item['intrinsic_fields']['idno'] = idno
+
     item['intrinsic_fields']['type_id'] = NEW_ITEM_TYPE_ID
     item['preferred_labels'].append({"locale" : "en_US", "name" : row['title']})
     item['attributes']['titleType'].append({"locale" : "en_US", "name" : row['title']})
@@ -85,10 +86,12 @@ def main(arguments):
     parser.add_argument('-i', '--infile', help="Input file", type=argparse.FileType('r'))
     parser.add_argument('-o', '--outfile', help="Output file",
                         default=sys.stdout, type=argparse.FileType('w'))
+    parser.add_argument('-t', '--test', help="Test Run Only", action="store_true")
 
     args = parser.parse_args(arguments)
     infile = args.infile
     outfile = args.outfile
+    TEST = args.test
 
     with infile:
     	reader = csv.DictReader(infile, delimiter='\t')
@@ -97,7 +100,7 @@ def main(arguments):
         items = []
 
         for row in reader:
-            items.append(make_item(row))
+            items.append(make_item(row, TEST))
 
         data = json.dumps(items, indent=4)
 
