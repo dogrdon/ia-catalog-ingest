@@ -61,7 +61,7 @@ storage locations (relationship_typeid=19)
 
 8. Will have to assign IA identifies before hand (IA.ITM.###) - get the last item and just add a pkey
 
-9. Hopefully can just rename the files to that and associate the posters, but that will take more time.
+9. Move images -- renamed to the corresponding IA.ITM.### `idno` -- into the server location specified on **Import >> Media**, select the directory, and execute the import. This will actually work.
 
 #### Other issues:
 
@@ -78,10 +78,6 @@ else: (soft delete)
     curl -XDELETE 'http://{user}:{pass}@catalog.interferencearchive.org/service.php/item/ca_entities/id/{id}?pretty=1'
 
 image: `3453066.jpg` has no entry 
-
-attributes aren't coming through (size, dates, titles, notes...)
-
-titleType supposed to be a list, removing it
 
 format is a list, doesn't work - probably has to be related list item
 

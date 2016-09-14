@@ -14,7 +14,6 @@ import requests
 import config
 
 CA_RELATIONSHIP_IDS = {"lot_id": 60,
-                       "list_id": ,
                        "client_id": 202,
                        "photographer_id": 185,
                        "designer_id": 172,
@@ -42,11 +41,9 @@ def make_item(row, test=False):
             'preferred_labels':[], 
             'attributes':{
                 'notes':[],
-                'titleType':[],
                 'dateSet':[],
                 'measurements_field':[],
-                'rightsSet':[],
-                'format':[{'locale' : 'en_US', 'format' : 'prints'}]
+                'rightsSet':[]
             }, 
             'related':{'ca_entities' : [], 
                        'ca_object_lots':[{'lot_id':LOT_ID, 'type_id':CA_RELATIONSHIP_IDS['lot_id']}],
