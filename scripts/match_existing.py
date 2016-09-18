@@ -1,3 +1,15 @@
+
+
+###################################### info ###################################
+# Used to take in csv (tab separated here) of names that might be entities 
+# in our Collective Access instance
+# Employs fuzzywuzzy (https://github.com/seatgeek/fuzzywuzzy) to determine 
+# if that name is already in a dump of all entities in the system prints results
+# to STDOUT because there aren't a ton and we want to review the results.
+# Could be a smarter script
+# Run as `python match_existing.py [Path to tsv with names in first column]`
+###############################################################################
+
 import csv, json
 import os, sys
 import requests

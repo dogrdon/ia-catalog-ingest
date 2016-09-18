@@ -51,15 +51,13 @@ def make_item(row, test=False):
                       }}
 
     image = row['filename']
-    idno = image.split('.')[0] #for matching media on upload, give it the filename id
+    idno = row['idno'] #for matching media on upload, give it the filename id
     
-    ''' idno needs to be IA.ITM.###
+    idno needs to be IA.ITM.###
     if test:
         item['intrinsic_fields']['idno'] = "TEST_"+idno
     else:
         item['intrinsic_fields']['idno'] = idno
-    '''
-
 
     item['intrinsic_fields']['type_id'] = NEW_ITEM_TYPE_ID
     item['preferred_labels'].append({"locale" : "en_US", "name" : row['title']})
