@@ -17,7 +17,8 @@ CA_RELATIONSHIP_IDS = {"lot_id": 60,
                        "client_id": 202,
                        "photographer_id": 185,
                        "designer_id": 172,
-                       "sourceartist_id": 171}
+                       "sourceartist_id": 171,
+                       "format_id": 195}
 LOT_ID = 305 
 NEW_ITEM_TYPE_ID = 435
 LIST_ID = 57
@@ -47,13 +48,12 @@ def make_item(row, test=False):
             }, 
             'related':{'ca_entities' : [], 
                        'ca_object_lots':[{'lot_id':LOT_ID, 'type_id':CA_RELATIONSHIP_IDS['lot_id']}],
-                       'ca_list_items' : [{'list_id':LIST_ID, 'item_id':ITEM_ID}]
+                       'ca_list_items' : [{'list_id':LIST_ID, 'item_id':ITEM_ID, 'type_id':CA_RELATIONSHIP_IDS['format_id']}]
                       }}
 
     image = row['filename']
     idno = row['idno'] #for matching media on upload, give it the filename id
     
-    idno needs to be IA.ITM.###
     if test:
         item['intrinsic_fields']['idno'] = "TEST_"+idno
     else:
