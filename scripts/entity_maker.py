@@ -6,7 +6,11 @@ import config
 __USER = config.__USER
 __PASS = config.__PASS
 infile = sys.argv[1] #'../data/inkworks/ca_entities_all.tsv'
+outfile = sys.argv[2]
 target_url = 'https://catalog.interferencearchive.org/admin/service.php/item/ca_entities'
+
+s = requests.Session()
+s.auth = (__USER, __PASS)
 
 def make_entity(row):
 	entry = {'intrinsic_fields':{}, 'preferred_labels':[]}
@@ -64,8 +68,7 @@ def post_entity(entity):
 
 	try:
 		print("adding entity with: ", entity)
-		r = requests.put(target_url, auth=(__USER, __PASS), 
-									 data=entity, 
+		r = s.put(target_url, data=entity, 
 									 headers={'content-type':'application/json'})
 		if r.status_code == 200:
 			result = json.loads(r.content)
@@ -75,21 +78,19 @@ def post_entity(entity):
 			return entity_id
 		else:
 			entity_id = None
-			print("something went wrong: ", r.content)
-			return entity_id
-	except requests.exceptions.RequestException as e:    # This is the correct syntax
-		sys.exit(e)
+			sys.exit("something went wrong with adding this entity, exiting: ", r.content)
 
-
+	except requests.exceptions.RequestException as e:   
+		sys.exit("An unexpected error occurred", e)
 
 
 if __name__ == '__main__':
 	
 	with open(infile, 'r') as f:
-		with open('../data/inkworks/new_entities.csv', 'w') as outfile:
+		with open(outfile, 'w') as o:
 			rows = csv.DictReader(f, delimiter='\t')
 			cols = rows.fieldnames
-			writer = csv.writer(outfile, delimiter='\t')
+			writer = csv.writer(o, delimiter='\t')
 			writer.writerow(cols)
 			
 			for row in rows:
@@ -98,6 +99,7 @@ if __name__ == '__main__':
 					if entity != None:
 						row['catalog_id'] = post_entity(entity)
 					else:
+						#shouldn't even get here.
 						row['catalog_id'] = 'FAILED!'
 					new_row = [row[i] for i in cols]
 					writer.writerow(new_row)

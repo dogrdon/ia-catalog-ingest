@@ -28,6 +28,13 @@ lots (relationship_typeid=60) **just create one and refer to it per object**
 
 	-lot (id=305)
 
+format (relationship_typeid=195)
+	- format list_id = 57
+	- print list_item_id = 329
+
+rights (relationship_typeid=???)
+	- there's only a few, perhaps we just do it by hand.
+
 storage locations (relationship_typeid=19)
 
 	- location=??? (id=???)  *NEED TO GET THIS FROM SOMEONE*
@@ -79,7 +86,6 @@ else: (soft delete)
 
 image: `3453066.jpg` has no entry 
 
-format is a list, doesn't work - probably has to be related list item
 
 **UNKNOWN ENTITIES FOR CLARIFICATION**
 

@@ -25,7 +25,8 @@ DELETION_STORE = './pickles/deletion_list.pickle'
 entities_all = 'https://catalog.interferencearchive.org/admin/service.php/find/ca_entities?q=*'
 target_url = 'https://catalog.interferencearchive.org/admin/service.php/item/ca_entities/id/%s'
 
-
+s = requests.Session()
+s.auth(__USER, __PASS)
 
 def find_dupes(entities):
 	dupes = {}
@@ -42,7 +43,7 @@ def check_record(entity_id_list):
 	d = {}
 	print("checking: ", entity_id_list)
 	for eid in entity_id_list:
-		res = requests.get((target_url % eid), auth=(__USER, __PASS))
+		res = s.get((target_url % eid))
 		r = json.loads(res.content)
 		if 'related' in r.keys():
 			d[eid] = True
@@ -71,7 +72,7 @@ def delete_entities(delete_list):
 		time.sleep(2)
 		try:
 			print("deleting entity with id: ", i)
-			r = requests.delete(delete_url, auth=(__USER, __PASS))
+			r = s.delete(delete_url)
 			if r.status_code == 200 and r.content == ('{"ok":true,"deleted":"%s"}' % i):
 				print(i, " successfully deleted")
 			else:
@@ -93,7 +94,7 @@ if __name__ == '__main__':
 
 	# this is your list of entities that need to be checked for deletion....
 
-	dupe_store = find_dupes(requests.get((entities_all), auth=(__USER, __PASS)))
+	dupe_store = find_dupes(s.get((entities_all)))
 
 	# with deletion list, 
 
