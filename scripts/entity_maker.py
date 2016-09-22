@@ -1,13 +1,20 @@
+#!/usr/bin/env python
+
+"""script for converting csv file of inkworks records into
+   collective access compliant json for ingest.
+
+   to run: python entity_maker.py -i [path_to_ca_entities_all.tsv] -o [path_to_new_entities.tsv]
+"""
+
 import csv, json
 import os, sys
 import requests
 import config
+import argparse
+import ca_client
 
 __USER = config.__USER
 __PASS = config.__PASS
-infile = sys.argv[1] #'../data/inkworks/ca_entities_all.tsv'
-outfile = sys.argv[2]
-target_url = 'https://catalog.interferencearchive.org/admin/service.php/item/ca_entities'
 
 s = requests.Session()
 s.auth = (__USER, __PASS)
@@ -62,14 +69,13 @@ def make_entity(row):
 
 	return entry
 
-def post_entity(entity):
+def post_entity(client, entity):
 	
 	entity = json.dumps(entity)
 
 	try:
 		print("adding entity with: ", entity)
-		r = s.put(target_url, data=entity, 
-									 headers={'content-type':'application/json'})
+		r = client.create_entity(entity)
 		if r.status_code == 200:
 			result = json.loads(r.content)
 			print result
@@ -86,18 +92,32 @@ def post_entity(entity):
 
 if __name__ == '__main__':
 	
-	with open(infile, 'r') as f:
-		with open(outfile, 'w') as o:
-			rows = csv.DictReader(f, delimiter='\t')
+	parser = argparse.ArgumentParser(description=__doc__,
+                                     formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument('-i', '--infile', help="Input file", type=argparse.FileType('r'))
+    parser.add_argument('-o', '--outfile', help="Output file",
+                        default=sys.stdout, type=argparse.FileType('w'))
+    parser.add_argument('-t', '--test', help="Test Run Only", action="store_true")
+
+    args = parser.parse_args(arguments)
+    infile = args.infile
+    outfile = args.outfile
+    TEST = args.test
+	
+	ca = ca_client.CACLient(__USER, __PASS)
+
+	with infile:
+		with outfile:
+			rows = csv.DictReader(infile, delimiter='\t')
 			cols = rows.fieldnames
-			writer = csv.writer(o, delimiter='\t')
+			writer = csv.writer(outfile, delimiter='\t')
 			writer.writerow(cols)
 			
 			for row in rows:
 				if row['catalog_id'].strip() == "":
 					entity = make_entity(row)
 					if entity != None:
-						row['catalog_id'] = post_entity(entity)
+						row['catalog_id'] = post_entity(ca, entity)
 					else:
 						#shouldn't even get here.
 						row['catalog_id'] = 'FAILED!'

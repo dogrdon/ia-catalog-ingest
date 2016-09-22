@@ -2,10 +2,14 @@ import requests
 import json
 
 class CAClient(object):
-	"""docstring for CAClient"""
-	def __init__(self, arg):
+	"""creates a session for collective access actions"""
+	def __init__(self, user, passw, header={'content-type':'application/json'}):
 		super(CAClient, self).__init__()
-		self.arg = arg
+		self.user = user
+		self.passw = passw
+		self.header = header
+		self.sesh = requests.session()
+		self.sesh.auth = (self.user, self.passw)
 		
 	def get_entities(self):
 		pass
@@ -20,7 +24,9 @@ class CAClient(object):
 		pass
 
 	def create_entity(self, data):
-		pass
-
+		target = 'https://catalog.interferencearchive.org/admin/service.php/item/ca_entities'
+		return self.sesh.put(target,data=data, headers=self.header)
+	
 	def create_object(self, data):
-		pass
+		target = 'https://catalog.interferencearchive.org/admin/service.php/item/ca_objects'
+		return self.sesh.put(target,data=data, headers=self.header)

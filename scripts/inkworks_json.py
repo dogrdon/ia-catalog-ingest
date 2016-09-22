@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python
 
 """script for converting csv file of inkworks records into
