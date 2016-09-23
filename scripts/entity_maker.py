@@ -16,18 +16,12 @@ import ca_client
 __USER = config.__USER
 __PASS = config.__PASS
 
-s = requests.Session()
-s.auth = (__USER, __PASS)
 
 def make_entity(row):
 	entry = {'intrinsic_fields':{}, 'preferred_labels':[]}
 	
 	idno = "inkworks_ent_{0}".format(row['pkey'])
-
-	if 'TEST' in infile:
-		entry['intrinsic_fields']['idno'] = "TEST_" + idno
-	else:
-		entry['intrinsic_fields']['idno'] = idno
+	entry['intrinsic_fields']['idno'] = idno
 	if row['type'].strip() == 'ind':
 		
 		entry['intrinsic_fields']['type_id'] = 80
@@ -35,8 +29,8 @@ def make_entity(row):
 		name = [r.strip() for r in row['entity'].split(' ')]
 		
 		if len(name) == 1:
-			forename = name[0]
-			middlename = surname = ""
+			surname = name[0] #collective access requires that at least the surname exists
+			middlename = forename = ""
 		elif len(name) == 2:
 			forename, surname = name
 			middlename = ""
@@ -84,27 +78,25 @@ def post_entity(client, entity):
 			return entity_id
 		else:
 			entity_id = None
-			sys.exit("something went wrong with adding this entity, exiting: ", r.content)
 
 	except requests.exceptions.RequestException as e:   
 		sys.exit("An unexpected error occurred", e)
 
 
-if __name__ == '__main__':
-	
+def main(arguments):
 	parser = argparse.ArgumentParser(description=__doc__,
-                                     formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('-i', '--infile', help="Input file", type=argparse.FileType('r'))
-    parser.add_argument('-o', '--outfile', help="Output file",
-                        default=sys.stdout, type=argparse.FileType('w'))
-    parser.add_argument('-t', '--test', help="Test Run Only", action="store_true")
+	                                 formatter_class=argparse.RawDescriptionHelpFormatter)
+	parser.add_argument('-i', '--infile', help="Input file", type=argparse.FileType('r'))
+	parser.add_argument('-o', '--outfile', help="Output file",
+	                    default=sys.stdout, type=argparse.FileType('w'))
+	parser.add_argument('-t', '--test', help="Test Run Only", action="store_true")
 
-    args = parser.parse_args(arguments)
-    infile = args.infile
-    outfile = args.outfile
-    TEST = args.test
+	args = parser.parse_args(arguments)
+	infile = args.infile
+	outfile = args.outfile
+	TEST = args.test
 	
-	ca = ca_client.CACLient(__USER, __PASS)
+	ca = ca_client.CAClient(__USER, __PASS)
 
 	with infile:
 		with outfile:
@@ -119,18 +111,15 @@ if __name__ == '__main__':
 					if entity != None:
 						row['catalog_id'] = post_entity(ca, entity)
 					else:
-						#shouldn't even get here.
 						row['catalog_id'] = 'FAILED!'
-					new_row = [row[i] for i in cols]
-					writer.writerow(new_row)
+						sys.exit("something went wrong with adding this entity, exiting: ", row)
 
-				else:
-					row = [row[i] for i in cols]
-					writer.writerow(row)
+				new_row = [row[i] for i in cols]
+				writer.writerow(new_row)
 
-				
-				
 
+if __name__ == '__main__':
+	sys.exit(main(sys.argv[1:]))
 			
 				
 
