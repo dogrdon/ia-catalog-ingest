@@ -3,7 +3,7 @@
 """script for converting csv file of inkworks records into
    collective access compliant json for ingest.
 
-   to run: python inkworks.py -i [path_to_inkworks.csv] -o [path_to_output.json]
+   to run: python inkworks.py -i [path_to_inkworks.tsv] -o [path_to_output.json]
 """
 
 import os, sys
@@ -23,7 +23,7 @@ NEW_ITEM_TYPE_ID = 435
 LIST_ID = 57
 ITEM_ID = 329
 
-ENTITY_STORE = '../data/inkworks/new_entities.csv'
+ENTITY_STORE = '../data/inkworks/ca_entities_all_id.tsv'
 ENTITIES = {row['entity']:row['catalog_id'] for row in csv.DictReader(open(ENTITY_STORE, 'r'), delimiter='\t')}
 clients = ['client_1', 'client_2', 'client_3', 'client_4']
 designers = ['designer_1', 'designer_2', 'designer_3']
@@ -66,8 +66,8 @@ def make_item(row, test=False):
         item['attributes']['dateSet'].append({"locale" : "en_US", "dateSet" : row['date']})
     if row['size'] != '':
         item['attributes']['measurements_field'].append({"locale" : "en_US", "measurements_field" : row['size']})
-    if row['rights'] != '':
-        item['attributes']['rightsSet'].append({"locale" : "en_US", "rightsSet" : row['rights']})
+    #if row['rights'] != '':
+    #    item['attributes']['rightsSet'].append({"locale" : "en_US", "rightsSet" : row['rights']})
 
     row_clients = ([row[i] for i in clients if i != ''], CA_RELATIONSHIP_IDS['client_id'])
     row_designers = ([row[i] for i in designers if i != ''], CA_RELATIONSHIP_IDS['designer_id'])
