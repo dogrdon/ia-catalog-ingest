@@ -1,4 +1,4 @@
-inkwork ingest types
+inkwork ingest notes
 ====================
 
 These are the different types and thus will probably have to be brought in separately:
@@ -132,3 +132,16 @@ African People's Socialist Party
 - Malaquias Montoya ----- Malaquias Montoya 835
 - Terry Forman ----- Terry Forman 1341
 - OSPAAAL (Cuba) ----- OSPAAAL 1353
+
+
+
+### Post Ingest TODOS:
+
+Now that all entities, items and images are in, need the following:
+
+- fix display of entity in view if there have more than one role as entity
+- Show that it's part of the inkworks lot?
+- Or create a collection for it. Just so you know where to find all the inkworks stuff
+- Need to have IA_ITM# match to objectID
+- link to inkworks
+- why isn't designer showing up for: https://catalog.interferencearchive.org/admin/index.php/editor/objects/ObjectEditor/Edit/object_id/1122
