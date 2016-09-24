@@ -6,7 +6,7 @@
 """
 
 import csv, json
-import os, sys
+import os, sys, time
 import requests
 import config
 import argparse
@@ -30,6 +30,7 @@ def main(arguments):
 	with infile:
 		data = json.load(infile)
 		for i in data:
+			time.sleep(2)
 			r = ca.create_object(json.dumps(i))
 			if r.status_code == 200:
 				result = json.loads(r.content)
