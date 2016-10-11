@@ -25,7 +25,7 @@ def main(arguments):
 	infile = args.infile
 	TEST = args.test
 	
-	ca = ca_client.CAClient(__USER, __PASS)
+	ca = ca_client.CollectiveAccess(__USER, __PASS)
 
 	with infile:
 		data = json.load(infile)

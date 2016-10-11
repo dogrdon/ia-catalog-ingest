@@ -96,7 +96,7 @@ def main(arguments):
 	outfile = args.outfile
 	TEST = args.test
 	
-	ca = ca_client.CAClient(__USER, __PASS)
+	ca = ca_client.CollectiveAccess(__USER, __PASS)
 
 	with infile:
 		with outfile:
