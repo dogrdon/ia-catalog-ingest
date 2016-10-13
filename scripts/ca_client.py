@@ -16,27 +16,27 @@ class CollectiveAccess(object):
 		
 	def get_entities(self, q=None):
 		if not q:
-			endpoint = '/find/ca_entities?q=*&pretty=1'
+			endpoint = '/find/ca_entities?q=*'
 		else:
-			enpoint = '/find/ca_entities?q={0}&pretty=1'.format(q)
+			enpoint = '/find/ca_entities?q={0}'.format(q)
 		targe = urlencode(self.base, endpoint)
-		return self.sesh.get(target, headers=self.header)
-
-	def get_entity(self, entity_id):
-		endpoint = '/item/ca_entities/id/{0}?&pretty=1'.format(entity_id)
-		target = urlencode(self.base, endpoint)
 		return self.sesh.get(target, headers=self.header)
 
 	def get_objects(self, q=None):
 		if not q:
-			endpoint = '/find/ca_objects?q=*&pretty=1'
+			endpoint = '/find/ca_objects?q=*'
 		else:
-			enpoint = '/find/ca_objects?q={0}&pretty=1'.format(q)
+			enpoint = '/find/ca_objects?q={0}'.format(q)
+		target = urlencode(self.base, endpoint)
+		return self.sesh.get(target, headers=self.header)
+
+	def get_entity(self, entity_id):
+		endpoint = '/item/ca_entities/id/{0}'.format(entity_id)
 		target = urlencode(self.base, endpoint)
 		return self.sesh.get(target, headers=self.header)
 
 	def get_object(self, object_id):
-		endpoint = '/item/ca_objects/id/{0}?&pretty=1'.format(object_id)
+		endpoint = '/item/ca_objects/id/{0}'.format(object_id)
 		target = urlencode(self.base, endpoint)
 		return self.sesh.get(target, headers=self.header)
 
